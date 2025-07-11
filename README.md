@@ -2,7 +2,7 @@
 
 The following repository contains the technical documentation and tutorials for the D-GITT Project.
 
-The Documentation folder contains a set of Jupyter Notebooks which the users of the dataset can use to get familiar with the basic PowSyBl actions. These tutorials aim to provide some foundations in order to manage the files of the RTE7k dataset available in the [RTE7000 Hugging Face repo](https://huggingface.co/datasets/rte-france/RTE7000). After going through these notebooks, the user should be able to import and export grid models in the supported formats, be able to understand the detailed voltage level topology of the PowSyBl models, modify these models, extract time series profiles for the equipments of the model and running power flows.
+The Documentation folder contains a set of Jupyter Notebooks which the users of the dataset can use to get familiar with the basic PowSyBl actions. These tutorials aim to provide some foundations in order to manage the files of the RTE7k dataset available in the [OpenSynth Hugging Face repo](https://huggingface.co/datasets/OpenSynth/). After going through these notebooks, the user should be able to import and export grid models in the supported formats, be able to understand the detailed voltage level topology of the PowSyBl models, modify these models, extract time series profiles for the equipments of the model and running power flows.
 
 ## How to run the notebooks?
 
