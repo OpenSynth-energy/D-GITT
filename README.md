@@ -9,18 +9,18 @@ The Documentation folder contains a set of Jupyter Notebooks which the users of 
 The tutorials are supposed to be followed with the following structure. You can see its completion status in parenthesis, as this is an on-going project at the moment. Clicking the Binder icon will open an executable notebook in your browser without needing to install anything in your computer.
 
 1. Data description
-    a. Introduction (complete)
-    b. ID Inconsistency over time (complete)
-    c. Operational limits (TO-DO)
-    d. Shunt blocks (TO-DO)
-    e. Other elements references (TO-DO)
+    a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
+    b. ID Inconsistency over time (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fid_inconsistency.ipynb)
+    c. Operational limits (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Foperational_limits.ipynb)
+    d. Shunt blocks (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fshunt_blocks.ipynb)
+    e. Other elements references (TO-DO)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fother_elements.ipynb)
 
 2. Data format conversion
-    a. From XIIDM to other formats and viceversa (complete)
+    a. From XIIDM to other formats and viceversa (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Format_Conversion%2Fdata_format_conversion.ipynb)
 
 3. Data modification
-    a. Modify static data and parameters of the elements (WIP)
-    b. Add injection time series (TO-DO)
+    a. Modify static data and parameters of the elements (WIP) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
+    b. Add injection time series (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
 4. Voltage level topology
     a. Bus-breaker and node-breaker topologies (WIP)
