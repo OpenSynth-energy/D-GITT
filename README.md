@@ -9,25 +9,40 @@ The Documentation folder contains a set of Jupyter Notebooks which the users of 
 The tutorials are supposed to be followed with the following structure. You can see its completion status in parenthesis, as this is an on-going project at the moment. Clicking the Binder icon will open an executable notebook in your browser without needing to install anything in your computer.
 
 1. Data description
+
     a. Introduction (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fdataset_description.ipynb)
+
+   
     b. ID Inconsistency over time (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/main?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fid_inconsistency.ipynb)
+
+   
     c. Operational limits (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Foperational_limits.ipynb)
+
+   
     d. Shunt blocks (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fshunt_blocks.ipynb)
+
+   
     e. Other elements references (TO-DO)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Description%2Fother_elements.ipynb)
 
-2. Data format conversion
+3. Data format conversion
+
+   
     a. From XIIDM to other formats and viceversa (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Format_Conversion%2Fdata_format_conversion.ipynb)
 
-3. Data modification
+5. Data modification
+
+   
     a. Modify static data and parameters of the elements (WIP) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
+
+   
     b. Add injection time series (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
-4. Voltage level topology
-    a. Bus-breaker and node-breaker topologies (WIP)
+7. Voltage level topology
+    a. Bus-breaker and node-breaker topologies (WIP) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FVoltage_Level_Topologies%2Fnodebreaker_busbranch_topologies.ipynb)
 
-5. Execution analysis
-    a. Launching a powerflow (TO-DO)
-    b. Secutity-constrained analysis (TO-DO)
+8. Execution analysis
+    a. Launching a powerflow (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fpower_flow.ipynb)
+    b. Secutity-constrained analysis (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fsecurity_constrained_analysis.ipynb)
 
 
 ## How to run locally the notebooks?
