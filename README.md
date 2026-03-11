@@ -28,7 +28,7 @@ The tutorials are supposed to be followed with the following structure. You can 
 
     a. Modify static data and parameters of the elements (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fmodify_data.ipynb)
    
-    b. Add injection time series (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
+    b. Add injection time series (complete) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FData_Modification%2Fadd_injections_time_series.ipynb)
 
 4. Voltage level topology
 
@@ -36,14 +36,14 @@ The tutorials are supposed to be followed with the following structure. You can 
 
 5. Execution analysis
     
-    a. Launching a powerflow (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fpower_flow.ipynb)
+    a. Launching a powerflow (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fpower_flow.ipynb) 
    
-    b. Secutity-constrained analysis (TO-DO) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fsecurity_constrained_analysis.ipynb)
+    b. Security-constrained analysis (CHECK) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSynth-energy/D-GITT/HEAD?urlpath=%2Fdoc%2Ftree%2FDocumentation%2FExecution_Analysis%2Fsecurity_constrained_analysis.ipynb)
 
 
-## How to run locally the notebooks?
+## How to locally run the notebooks?
 
-If the user wants to run locally a notebook, it must first install two modules in a Python environment. **IMPORTANT:** PyPowSyBl is not supported in the lastest version of Python 3.13, **Python version 3.12 is recommended**, although it is supported from version 3.8.
+If the user wants to locally run a notebook, it must first install two modules in a Python environment. **IMPORTANT:** PyPowSyBl is not supported in the lastest version of Python 3.13, **Python version 3.12 is recommended**, although it is supported from version 3.8.
 
 ```bash
 pip install jupyter
@@ -69,3 +69,4 @@ jupyter notebook name_of_the_notebook.ipynb
 ```
 
 The users should download the folder where the notebook is located in order to have access to all the necessary files to visualize and run all the pieces of code.
+
