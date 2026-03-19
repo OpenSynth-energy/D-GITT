@@ -1,0 +1,322 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=25mm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+% Colors: black and grey only
+\definecolor{darkgrey}{gray}{0.25}
+\definecolor{midgrey}{gray}{0.5}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=darkgrey,
+  urlcolor=midgrey,
+}
+
+% Header/footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\small\textcolor{midgrey}{RTE 7k Power Injection Replication Challenge}}
+\fancyfoot[C]{\small\textcolor{midgrey}{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries}{}{0em}{}[\vspace{2pt}\hrule\vspace{4pt}]
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\itshape}{}{0em}{}
+\titleformat{\paragraph}[runin]{\normalsize\bfseries\itshape}{}{0em}{}[.]
+
+\begin{document}
+
+% ---- Title page ----
+\thispagestyle{empty}
+\vspace*{80pt}
+\begin{center}
+  {\Huge\bfseries RTE 7k Power Injection\\[6pt] Replication Challenge}\\[24pt]
+  {\large eRoots}\\[6pt]
+  {\large March 2026}\\[12pt]
+  {\textcolor{midgrey}{Draft for internal RTE review}}
+\end{center}
+\newpage
+
+% ---- Content ----
+\section{1. Introduction}
+
+The RTE 7k challenge is a technical competition focused on replicating power injections (generation and load) for the French high-voltage transmission network operated by RTE (R\'{e}seau de Transport d'\'{E}lectricit\'{e}). The challenge uses the RTE 7k dataset, a detailed node-breaker model of the French grid comprising approximately 4,800 substations, 7,800 lines, 5,700 generators, and 6,900 loads across voltage levels ranging from 63\,kV to 400\,kV.
+
+The challenge is organised jointly by RTE, CRESYM, and eRoots, and will be hosted on the LF Energy platform.
+
+\subsubsection{Timeline}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ll}
+\toprule
+\textbf{Milestone} & \textbf{Date} \\
+\midrule
+Challenge launch at LF Energy & Autumn 2026 \\
+Evaluation period & January -- March 2027 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{2. Objective}
+
+Given the network topology and a limited set of publicly available or explicitly provided measurements, participants must reconstruct the \textbf{net active power injection at every substation} for each hour of the evaluation period.
+
+In other words: given the grid structure and partial observations, recover what was injected where and when.
+
+\section{3. Data Provided to Participants}
+
+Participants will receive the following data:
+
+\subsection{3.1 Network Model}
+
+\begin{itemize}[nosep]
+  \item \textbf{Node-breaker topology} of the RTE 7k network in XIIDM format, as available in the \href{https://huggingface.co/datasets/OpenSynth/}{RTE 7k dataset}.
+  \item \textbf{Asset list} for all generators and loads, including:
+  \begin{itemize}[nosep]
+    \item Maximum active power (\texttt{Pmax})
+    \item Minimum active power (\texttt{Pmin})
+    \item Connection details (substation, voltage level)
+  \end{itemize}
+\end{itemize}
+
+\subsection{3.2 Boundary Data (Cross-Border Flows)}
+
+\begin{itemize}[nosep]
+  \item Hourly import/export power flows at each interconnection with neighbouring countries.
+  \item Participants must source this data from publicly available platforms such as \href{https://transparency.entsoe.eu/}{ENTSO-E Transparency Platform} or \href{https://www.rte-france.com/eco2mix}{\'eco2mix}.
+  \item The list of dangling lines representing cross-border interconnections will be provided to help participants map boundary data to the correct network elements.
+\end{itemize}
+
+\subsection{3.3 Selected Branch Measurements}
+
+\begin{itemize}[nosep]
+  \item Active power flows on a selected set of transmission lines and transformers across key network corridors.
+  \item These measurements will include added noise for confidentiality protection.
+  \item The monitored branches are chosen such that individual substation injections cannot be inferred from the measurements alone.
+\end{itemize}
+
+\subsection{3.4 Data Not Provided}
+
+\begin{itemize}[nosep]
+  \item \textbf{No geographic information}: neither OpenStreetMap (OSM) data nor any GIS (Geographic Information System) coordinates will be provided by the organisers.
+  \item \textbf{No individual plant-level dispatch}: only the asset list with capacity bounds is given, not the actual dispatch.
+\end{itemize}
+
+\section{4. Submission Format}
+
+\subsection{4.1 Granularity}
+
+\begin{itemize}[nosep]
+  \item \textbf{Spatial}: net active power injection at the \textbf{substation level}. This means the algebraic sum of all generation minus all load at each substation. Injections are not required at the individual busbar or plant level, avoiding confidentiality issues and topology-change ambiguity.
+  \item \textbf{Temporal}: \textbf{hourly} resolution (one value per substation per hour).
+\end{itemize}
+
+\subsection{4.2 File Format}
+
+Participants must submit their results as \textbf{Apache Parquet} files with the following schema:
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llp{0.50\textwidth}}
+\toprule
+\textbf{Column} & \textbf{Type} & \textbf{Description} \\
+\midrule
+\texttt{datetime} & \texttt{timestamp[ns, UTC]} & Start of the hour (e.g.\ \texttt{2021-01-01T00:00:00Z}) \\[3pt]
+\texttt{substation\_id} & \texttt{string} & Substation identifier, consistent with the provided network model \\[3pt]
+\texttt{net\_p\_mw} & \texttt{float64} & Net active power injection in MW (generation positive, load negative) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The evaluation will be conducted in multiple stages to manage data volume. Specific snapshots will be selected for each stage, and participants will be asked to submit only the corresponding rows.
+
+\section{5. Challenge Phases}
+
+\subsection{Phase 1: DC Power Flow (Baseline)}
+
+The primary challenge scope. Participants reconstruct active power injections under the DC power flow approximation:
+
+\begin{itemize}[nosep]
+  \item Voltage magnitudes are assumed to be 1.0\,p.u.\ at all buses.
+  \item Reactive power is ignored.
+  \item Line flows depend linearly on voltage angle differences.
+\end{itemize}
+
+All feasibility constraints (Section~6) and evaluation metrics (Section~7) apply under this DC formulation.
+
+\subsection{Phase 2: AC Power Flow (Optional Extension)}
+
+If Phase~1 results are strong, a second evaluation round may be introduced under full AC power flow conditions. This would additionally require:
+
+\begin{itemize}[nosep]
+  \item Voltage magnitude and reactive power estimation.
+  \item Satisfaction of reactive power limits and voltage bounds.
+\end{itemize}
+
+Details for Phase~2 will be defined based on Phase~1 outcomes.
+
+\section{6. Feasibility Constraints}
+
+Every submitted snapshot must satisfy the following physical and operational constraints. Snapshots that violate these constraints will incur penalties (see Section~7).
+
+\subsection{6.1 Asset Limits}
+
+For every generator $g$ at every hour:
+%
+\begin{equation}
+  P_{\min,g} \leq P_g \leq P_{\max,g}
+\end{equation}
+%
+where $P_{\min,g}$ and $P_{\max,g}$ are the declared bounds from the asset list.
+
+\subsection{6.2 Zonal Balance}
+
+The total generation minus total load in each French administrative region must match the known zonal balance within a tight tolerance:
+%
+\begin{equation}
+  \left| \sum_{g \in \text{zone}} P_g \;-\; \sum_{l \in \text{zone}} P_l \;-\; P_{\text{balance, zone}} \right| \leq 0.1 \;\text{MW}
+\end{equation}
+
+\subsection{6.3 Power Flow Convergence}
+
+The submitted injections must produce a converged power flow solution when applied to the network model. Snapshots for which no power flow solution exists are considered physically invalid.
+
+\subsection{6.4 No Thermal Overloads}
+
+All line and transformer apparent power flows must remain within their permanent admissible ratings:
+%
+\begin{equation}
+  |S_{\text{branch}}| \leq S_{\max,\text{branch}} \quad \forall \; \text{branches}
+\end{equation}
+
+\subsection{6.5 Voltage Angle Bounds}
+
+Under the DC approximation, voltage angle differences must remain within reasonable bounds:
+%
+\begin{equation}
+  |\theta_i| \leq 30^{\circ} \quad \forall \; \text{buses } i
+\end{equation}
+%
+where angles are measured relative to the slack bus.
+
+\section{7. Evaluation Methodology}
+
+\subsection{7.1 Accuracy Metrics}
+
+Submissions are evaluated using two complementary metrics:
+
+\subsubsection{Metric 1 -- Injection Error}
+
+Weighted mean absolute error on net substation injections compared to ground truth:
+%
+\begin{equation}
+  E_{\text{inj}} = \frac{\displaystyle\sum_{s} w_s \, \bigl| \hat{P}_s - P_s^* \bigr|}{\displaystyle\sum_{s} w_s}
+\end{equation}
+%
+where $\hat{P}_s$ is the submitted injection at substation $s$, $P_s^*$ is the ground truth, and $w_s$ is a weight proportional to the substation size (e.g.\ installed capacity or peak load).
+
+\subsubsection{Metric 2 -- Measurement Error}
+
+Error on the provided branch flow measurements and/or bus angle measurements:
+%
+\begin{equation}
+  E_{\text{meas}} = \frac{1}{M} \sum_{m=1}^{M} \bigl| \hat{y}_m - y_m^* \bigr|
+\end{equation}
+%
+where $\hat{y}_m$ are the measurement values computed from the submitted injections and $y_m^*$ are the provided (possibly noisy) measurements.
+
+\subsection{7.2 Feasibility Penalty}
+
+A penalty term is added for physically invalid snapshots:
+%
+\begin{equation}
+  \text{Penalty} = \alpha \cdot N_{\text{overload}} + \beta \cdot N_{\text{diverged}} + \gamma \cdot N_{\text{angle}}
+\end{equation}
+%
+where:
+\begin{itemize}[nosep]
+  \item $N_{\text{overload}}$: number of thermal limit violations
+  \item $N_{\text{diverged}}$: number of non-converging snapshots
+  \item $N_{\text{angle}}$: number of angle bound violations
+  \item $\alpha, \beta, \gamma$: penalty coefficients (to be defined)
+\end{itemize}
+
+\subsection{7.3 Multi-Stage Evaluation}
+
+To manage data volume and provide progressive feedback, the evaluation proceeds in three stages. Each stage combines \textbf{scattered snapshots} (isolated hours spread across the year, testing generalisation) with \textbf{consecutive blocks} (contiguous days, testing temporal consistency).
+
+\subsubsection{Stage 1 -- Sanity Check (48 snapshots)}
+
+Purpose: format validation and early feedback.
+
+\begin{itemize}[nosep]
+  \item \textbf{24 scattered hours}: one randomly selected hour per month across 2 years (covering diverse seasons, weekdays/weekends, day/night).
+  \item \textbf{24 consecutive hours}: one full day (e.g.\ a Wednesday in spring), testing whether solutions maintain coherence over consecutive time steps.
+\end{itemize}
+
+\subsubsection{Stage 2 -- Intermediate Ranking ($\sim$400 snapshots)}
+
+Purpose: meaningful accuracy assessment.
+
+\begin{itemize}[nosep]
+  \item \textbf{72 scattered hours}: 3 hours per month across 2 years, stratified by load level (low, medium, peak).
+  \item \textbf{336 consecutive hours (14 days)}: one winter week (high load, high cross-border flows) and one summer week (high solar, low demand), testing performance under sustained and contrasting operating conditions.
+\end{itemize}
+
+\subsubsection{Stage 3 -- Final Ranking ($\sim$2,200 snapshots)}
+
+Purpose: comprehensive evaluation across the full operational envelope.
+
+\begin{itemize}[nosep]
+  \item \textbf{168 scattered hours}: 7 hours per month across 2 years, stratified by load level and day type (weekday/weekend/holiday).
+  \item \textbf{2,016 consecutive hours (84 days)}: four continuous periods of 21 days each, one per season (winter, spring, summer, autumn), capturing seasonal patterns, weekly cycles, and multi-day weather events.
+\end{itemize}
+
+\subsubsection{Snapshot Selection Principles}
+
+\begin{itemize}[nosep]
+  \item The exact timestamps for each stage will be communicated to participants before the submission deadline.
+  \item Scattered snapshots are drawn to cover the full range of system operating conditions (load levels, renewable output, import/export balance).
+  \item Consecutive blocks are chosen to include operationally interesting periods (e.g.\ cold spells, heat waves, high wind events) where possible.
+  \item Submissions for each stage are Parquet files containing only the requested snapshot rows.
+\end{itemize}
+
+\subsection{7.4 Final Score}
+
+The final ranking combines accuracy and feasibility:
+%
+\begin{equation}
+  \text{Score} = E_{\text{inj}} + \lambda \cdot E_{\text{meas}} + \text{Penalty}
+\end{equation}
+%
+Lower scores are better. The weighting parameter $\lambda$ and penalty coefficients will be published before the evaluation period begins.
+
+\section{8. Platform and Submission Infrastructure}
+
+The challenge will be hosted on \textbf{Codabench} (\url{https://www.codabench.org/}). Each participant (or team) will have a \textbf{limited number of submissions} to prevent brute-force guessing and encourage thoughtful modelling. The exact submission quota will be communicated at launch.
+
+\section{9. Summary of Rules}
+
+\begin{enumerate}[nosep]
+  \item Participants receive the network topology, asset bounds, boundary power schedules, and selected branch measurements.
+  \item Participants submit hourly net active power injections at the substation level as Parquet files.
+  \item Submissions must satisfy all feasibility constraints (asset limits, zonal balance, convergence, thermal limits, angle bounds).
+  \item No geographic data (OSM, GIS) is provided by the organisers.
+  \item Evaluation combines injection accuracy, measurement fit, and physical feasibility.
+  \item Phase~1 uses DC power flow; Phase~2 (AC) is optional and conditional on Phase~1 results.
+\end{enumerate}
+
+\end{document}
