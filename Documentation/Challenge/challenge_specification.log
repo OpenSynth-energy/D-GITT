@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.30)  19 MAR 2026 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.30)  25 MAR 2026 21:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,29 +507,22 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
  ***********
-
-
-Package rerunfilecheck Warning: File `challenge_specification.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `challenge_specification.out':
-(rerunfilecheck)             Before: DAEE6C46D43D0B54B88695CDFFB44945;6067
-(rerunfilecheck)             After:  5A70DF1CA88B7A2EB4CEBB5150B3B422;6328.
+Package rerunfilecheck Info: File `challenge_specification.out' has not changed.
+(rerunfilecheck)             Checksum: 5A70DF1CA88B7A2EB4CEBB5150B3B422;6328.
  ) 
 Here is how much of TeX's memory you used:
- 11746 strings out of 473243
- 179722 string characters out of 5714659
- 588334 words of memory out of 5000000
- 34733 multiletter control sequences out of 15000+600000
+ 11747 strings out of 473243
+ 179733 string characters out of 5714659
+ 587334 words of memory out of 5000000
+ 34734 multiletter control sequences out of 15000+600000
  624656 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,553b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on challenge_specification.pdf (6 pages, 238652 bytes).
+Output written on challenge_specification.pdf (6 pages, 238787 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
+ 273 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
  54 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 
