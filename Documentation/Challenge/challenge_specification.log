@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.30)  25 MAR 2026 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.30)  26 MAR 2026 08:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -464,11 +464,11 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 [2{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 133.
+(Font)              <10> on input line 125.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 133.
+(Font)              <7> on input line 125.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 133.
+(Font)              <5> on input line 125.
 
 
 [3]
@@ -476,27 +476,27 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [4{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 270.
+(hyperref)                removing `math shift' on input line 262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\sim' on input line 270.
+(hyperref)                removing `\sim' on input line 262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 270.
+(hyperref)                removing `math shift' on input line 262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 279.
+(hyperref)                removing `math shift' on input line 271.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\sim' on input line 279.
+(hyperref)                removing `\sim' on input line 271.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 279.
+(hyperref)                removing `math shift' on input line 271.
 
 
 
@@ -507,8 +507,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
  ***********
-Package rerunfilecheck Info: File `challenge_specification.out' has not changed.
-(rerunfilecheck)             Checksum: 5A70DF1CA88B7A2EB4CEBB5150B3B422;6328.
+
+
+Package rerunfilecheck Warning: File `challenge_specification.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `challenge_specification.out':
+(rerunfilecheck)             Before: 5A70DF1CA88B7A2EB4CEBB5150B3B422;6328
+(rerunfilecheck)             After:  B2FD10E29BB4D7F36A0DB0B23DD3B4EE;6101.
  ) 
 Here is how much of TeX's memory you used:
  11747 strings out of 473243
@@ -517,9 +524,12 @@ Here is how much of TeX's memory you used:
  34734 multiletter control sequences out of 15000+600000
  624656 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,553b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,553b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{subsection.3.4} has been referenced but does not exist, replaced by a fixed one
+
 </usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on challenge_specification.pdf (6 pages, 238787 bytes).
+Output written on challenge_specification.pdf (6 pages, 238473 bytes).
 PDF statistics:
  273 PDF objects out of 1000 (max. 8388607)
  235 compressed objects within 3 object streams
