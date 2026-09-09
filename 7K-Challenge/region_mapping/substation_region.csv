@@ -1,0 +1,4971 @@
+substation_id,region
+.CTLH,Unassigned
+.CTLO,Unassigned
+.G.RO,Unassigned
+.NAVA,Unassigned
+0FORT,Unassigned
+0NOVI,Unassigned
+0PERR,Unassigned
+0R.LE,Unassigned
+0TREG,Unassigned
+1B.E5,Auvergne-Rhône-Alpes
+1B.E6,Auvergne-Rhône-Alpes
+1GUIL,Auvergne-Rhône-Alpes
+1SSF5,Auvergne-Rhône-Alpes
+1SSFO,Auvergne-Rhône-Alpes
+A.ADO,Nouvelle-Aquitaine
+A.BA5,Auvergne-Rhône-Alpes
+A.BAI,Auvergne-Rhône-Alpes
+A.BOU,Auvergne-Rhône-Alpes
+A.CHA,Bourgogne-Franche-Comté
+A.COM,Hauts-de-France
+A.DUC,Bourgogne-Franche-Comté
+A.FEU,Auvergne-Rhône-Alpes
+A.HUE,Auvergne-Rhône-Alpes
+A.LI6,Hauts-de-France
+A.LI7,Auvergne-Rhône-Alpes
+A.LIG,Auvergne-Rhône-Alpes
+A.MER,Occitanie
+A.MOR,Occitanie
+A.MOU,Provence-Alpes-Côte d'Azur
+A.NOR,Auvergne-Rhône-Alpes
+A.NOU,Nouvelle-Aquitaine
+A.OTH,Grand Est
+A.PLE,Bretagne
+A.THE,Occitanie
+A.TO5,Provence-Alpes-Côte d'Azur
+A.VOU,Nouvelle-Aquitaine
+ABBA5,Auvergne-Rhône-Alpes
+ABBAY,Auvergne-Rhône-Alpes
+ABBEN,Bourgogne-Franche-Comté
+ABBEV,Hauts-de-France
+ABERS,Bretagne
+ABIDO,Nouvelle-Aquitaine
+ABLAI,Hauts-de-France
+ABOND,Auvergne-Rhône-Alpes
+ACHI5,Hauts-de-France
+ACHIE,Hauts-de-France
+ADAST,Occitanie
+ADELS,Grand Est
+AGASS,Occitanie
+AGE,Nouvelle-Aquitaine
+AGNEA,Normandie
+AGUES,Occitanie
+AICIR,Nouvelle-Aquitaine
+AIGRE,Nouvelle-Aquitaine
+AIGU5,Auvergne-Rhône-Alpes
+AIGU6,Auvergne-Rhône-Alpes
+AIGUE,Auvergne-Rhône-Alpes
+AIGUI,Nouvelle-Aquitaine
+AIGUR,Centre-Val de Loire
+AILLE,Grand Est
+AIME,Auvergne-Rhône-Alpes
+AIRAI,Hauts-de-France
+AIRE,Hauts-de-France
+AIRVA,Nouvelle-Aquitaine
+AISER,Bourgogne-Franche-Comté
+AIX,Provence-Alpes-Côte d'Azur
+ALBE5,Hauts-de-France
+ALBER,Auvergne-Rhône-Alpes
+ALBIA,Occitanie
+ALENC,Normandie
+ALERI,Normandie
+ALESI,Île-de-France
+ALGER,Grand Est
+ALIZA,Normandie
+ALLAI,Bretagne
+ALLAR,Pays de la Loire
+ALLE5,Auvergne-Rhône-Alpes
+ALLEM,Auvergne-Rhône-Alpes
+ALLEU,Hauts-de-France
+ALLIE,Auvergne-Rhône-Alpes
+ALLIN,Auvergne-Rhône-Alpes
+ALLO5,Pays de la Loire
+ALLON,Hauts-de-France
+ALLOU,Centre-Val de Loire
+ALMA,Île-de-France
+ALOUE,Île-de-France
+ALRAN,Occitanie
+ALSAC,Île-de-France
+ALSTH,Bourgogne-Franche-Comté
+ALTEN,Grand Est
+ALTKI,Grand Est
+ALTOR,Grand Est
+AMANV,Grand Est
+AMARG,Hauts-de-France
+AMARI,Grand Est
+AMBE5,Auvergne-Rhône-Alpes
+AMBER,Auvergne-Rhône-Alpes
+AMBON,Bretagne
+AMELE,Grand Est
+AMELO,Île-de-France
+AMFAR,Normandie
+AMIEN,Hauts-de-France
+AMILL,Centre-Val de Loire
+AMNEV,Grand Est
+AMPE5,Auvergne-Rhône-Alpes
+AMPER,Île-de-France
+AMPLE,Auvergne-Rhône-Alpes
+AMPON,Île-de-France
+AMPUI,Auvergne-Rhône-Alpes
+ANCEL,Occitanie
+ANCEN,Pays de la Loire
+ANCER,Grand Est
+ANCIZ,Auvergne-Rhône-Alpes
+ANDE5,Normandie
+ANDR5,Auvergne-Rhône-Alpes
+ANDRA,Auvergne-Rhône-Alpes
+ANDUZ,Occitanie
+ANGE5,Auvergne-Rhône-Alpes
+ANGEL,Centre-Val de Loire
+ANGER,Pays de la Loire
+ANGLE,Auvergne-Rhône-Alpes
+ANGRE,Nouvelle-Aquitaine
+ANNA,Grand Est
+ANNAY,Bourgogne-Franche-Comté
+ANNEM,Unassigned
+ANNEY,Auvergne-Rhône-Alpes
+ANNIB,Provence-Alpes-Côte d'Azur
+ANOUL,Grand Est
+ANSER,Hauts-de-France
+ANSTA,Hauts-de-France
+ANTIB,Provence-Alpes-Côte d'Azur
+ANTIF,Unassigned
+ANTUG,Occitanie
+AOSTE,Auvergne-Rhône-Alpes
+APT,Provence-Alpes-Côte d'Azur
+AQUED,Île-de-France
+ARACH,Auvergne-Rhône-Alpes
+ARBI1,Auvergne-Rhône-Alpes
+ARBI2,Auvergne-Rhône-Alpes
+ARBOI,Bourgogne-Franche-Comté
+ARBOR,Centre-Val de Loire
+ARBRE,Auvergne-Rhône-Alpes
+ARC18,Auvergne-Rhône-Alpes
+ARCAC,Unassigned
+ARCHE,Grand Est
+ARCHI,Nouvelle-Aquitaine
+ARCIS,Grand Est
+ARCOM,Auvergne-Rhône-Alpes
+ARDO5,Île-de-France
+ARDOI,Occitanie
+ARENC,Unassigned
+ARGE5,Nouvelle-Aquitaine
+ARGE6,Île-de-France
+ARGE8,Normandie
+ARGEN,Provence-Alpes-Côte d'Azur
+ARGIA,Nouvelle-Aquitaine
+ARGIE,Bourgogne-Franche-Comté
+ARGOE,Hauts-de-France
+ARGON,Auvergne-Rhône-Alpes
+ARIET,Auvergne-Rhône-Alpes
+ARJOM,Pays de la Loire
+ARLAN,Auvergne-Rhône-Alpes
+ARLES,Provence-Alpes-Côte d'Azur
+ARLOD,Auvergne-Rhône-Alpes
+ARLOS,Occitanie
+ARLY,Auvergne-Rhône-Alpes
+ARMEN,Hauts-de-France
+ARMON,Centre-Val de Loire
+ARNAG,Pays de la Loire
+ARNOU,Nouvelle-Aquitaine
+ARPAJ,Île-de-France
+ARPEN,Centre-Val de Loire
+ARQUE,Hauts-de-France
+ARRAS,Hauts-de-France
+ARRE5,Occitanie
+ARREN,Occitanie
+ARRI5,Île-de-France
+ARRIG,Île-de-France
+ARRIO,Nouvelle-Aquitaine
+ARRIV,Auvergne-Rhône-Alpes
+ARRO5,Bourgogne-Franche-Comté
+ARSEN,Normandie
+ARSOT,Bourgogne-Franche-Comté
+ARTEN,Centre-Val de Loire
+ARTIG,Occitanie
+ARTOU,Nouvelle-Aquitaine
+ARUDY,Nouvelle-Aquitaine
+ARVAN,Auvergne-Rhône-Alpes
+ARVER,Nouvelle-Aquitaine
+ARVIE,Occitanie
+ARVIG,Île-de-France
+ASASP,Nouvelle-Aquitaine
+ASNIE,Île-de-France
+ASPR5,Occitanie
+ASSIE,Occitanie
+ASTIL,Pays de la Loire
+ASTON,Occitanie
+ASTUR,Hauts-de-France
+ATHEL,Provence-Alpes-Côte d'Azur
+ATTAQ,Hauts-de-France
+AUBAG,Provence-Alpes-Côte d'Azur
+AUBE,Normandie
+AUBE6,Île-de-France
+AUBEN,Auvergne-Rhône-Alpes
+AUBER,Normandie
+AUBES,Provence-Alpes-Côte d'Azur
+AUBET,Provence-Alpes-Côte d'Azur
+AUBI5,Centre-Val de Loire
+AUBIG,Pays de la Loire
+AUBIN,Centre-Val de Loire
+AUBRE,Nouvelle-Aquitaine
+AUBRI,Grand Est
+AUBUS,Nouvelle-Aquitaine
+AUCH,Occitanie
+AUCUN,Occitanie
+AUDI5,Unassigned
+AUDIE,Bretagne
+AUDON,Nouvelle-Aquitaine
+AUGUE,Unassigned
+AULN5,Nouvelle-Aquitaine
+AULNA,Grand Est
+AULNO,Hauts-de-France
+AUMAL,Normandie
+AUMON,Auvergne-Rhône-Alpes
+AUNEA,Centre-Val de Loire
+AURAY,Bretagne
+AUREI,Occitanie
+AUREN,Nouvelle-Aquitaine
+AURI5,Provence-Alpes-Côte d'Azur
+AURIA,Nouvelle-Aquitaine
+AURIL,Auvergne-Rhône-Alpes
+AURIO,Nouvelle-Aquitaine
+AUSSO,Auvergne-Rhône-Alpes
+AUSTE,Île-de-France
+AUTER,Nouvelle-Aquitaine
+AUTUN,Bourgogne-Franche-Comté
+AUVER,Pays de la Loire
+AUVIL,Centre-Val de Loire
+AUXER,Bourgogne-Franche-Comté
+AUXON,Bourgogne-Franche-Comté
+AUZAN,Nouvelle-Aquitaine
+AUZAT,Occitanie
+AUZER,Auvergne-Rhône-Alpes
+AVALL,Bourgogne-Franche-Comté
+AVEIL,Occitanie
+AVELI,Hauts-de-France
+AVELO,Hauts-de-France
+AVENI,Île-de-France
+AVEZE,Occitanie
+AVIG5,Occitanie
+AVIG6,Occitanie
+AVIG7,Occitanie
+AVIGN,Occitanie
+AVIO5,Hauts-de-France
+AVOI5,Centre-Val de Loire
+AVOIN,Centre-Val de Loire
+AVORI,Auvergne-Rhône-Alpes
+AVRAN,Normandie
+AVREU,Grand Est
+AVRIE,Auvergne-Rhône-Alpes
+AVRIL,Pays de la Loire
+AVRIM,Grand Est
+AVRON,Île-de-France
+AYDES,Centre-Val de Loire
+AYTRE,Unassigned
+AYVEL,Grand Est
+AZINC,Hauts-de-France
+B.AI5,Pays de la Loire
+B.AI7,Auvergne-Rhône-Alpes
+B.AIR,Occitanie
+B.ARC,Auvergne-Rhône-Alpes
+B.AUS,Auvergne-Rhône-Alpes
+B.BAI,Grand Est
+B.BAS,Auvergne-Rhône-Alpes
+B.CAR,Provence-Alpes-Côte d'Azur
+B.CEZ,Occitanie
+B.CHA,Île-de-France
+B.CO5,Hauts-de-France
+B.CO6,Hauts-de-France
+B.COR,Auvergne-Rhône-Alpes
+B.CUR,Bourgogne-Franche-Comté
+B.DA5,Grand Est
+B.DAM,Bourgogne-Franche-Comté
+B.DUC,Grand Est
+B.DUR,Nouvelle-Aquitaine
+B.EPI,Bretagne
+B.ETO,Auvergne-Rhône-Alpes
+B.GES,Occitanie
+B.GUI,Normandie
+B.HAM,Grand Est
+B.IND,Pays de la Loire
+B.LAM,Nouvelle-Aquitaine
+B.LAN,Auvergne-Rhône-Alpes
+B.LOM,Occitanie
+B.MAI,Unassigned
+B.MAN,Île-de-France
+B.MAU,Auvergne-Rhône-Alpes
+B.MES,Hauts-de-France
+B.MON,Auvergne-Rhône-Alpes
+B.PLU,Hauts-de-France
+B.RE6,Bourgogne-Franche-Comté
+B.REN,Île-de-France
+B.ROC,Bourgogne-Franche-Comté
+B.RON,Auvergne-Rhône-Alpes
+B.SE5,Auvergne-Rhône-Alpes
+B.SEP,Bretagne
+B.THI,Auvergne-Rhône-Alpes
+B.THO,Bretagne
+B.TOL,Auvergne-Rhône-Alpes
+B.VAL,Auvergne-Rhône-Alpes
+B.VER,Occitanie
+B20,Auvergne-Rhône-Alpes
+BABLO,Grand Est
+BACAL,Nouvelle-Aquitaine
+BACCH,Normandie
+BAGAT,Occitanie
+BAGE,Occitanie
+BAGNE,Île-de-France
+BAIGT,Nouvelle-Aquitaine
+BAILL,Hauts-de-France
+BAIXA,Occitanie
+BAJAT,Auvergne-Rhône-Alpes
+BALAN,Auvergne-Rhône-Alpes
+BALAR,Occitanie
+BALDI,Occitanie
+BALLO,Hauts-de-France
+BALMA,Occitanie
+BANCA,Provence-Alpes-Côte d'Azur
+BANNA,Bretagne
+BANNE,Auvergne-Rhône-Alpes
+BAOUS,Occitanie
+BARAG,Nouvelle-Aquitaine
+BARAL,Nouvelle-Aquitaine
+BARAQ,Occitanie
+BARBE,Nouvelle-Aquitaine
+BARBO,Nouvelle-Aquitaine
+BARBU,Grand Est
+BARCE,Provence-Alpes-Côte d'Azur
+BARET,Normandie
+BARJA,Auvergne-Rhône-Alpes
+BARJO,Provence-Alpes-Côte d'Azur
+BARLI,Hauts-de-France
+BARNA,Normandie
+BARP,Nouvelle-Aquitaine
+BARQU,Normandie
+BARR6,Hauts-de-France
+BARTH,Occitanie
+BASIN,Grand Est
+BASS5,Nouvelle-Aquitaine
+BASS6,Grand Est
+BASSE,Nouvelle-Aquitaine
+BAST5,Provence-Alpes-Côte d'Azur
+BASTI,Occitanie
+BATAV,Hauts-de-France
+BATEL,Île-de-France
+BATHI,Auvergne-Rhône-Alpes
+BATIG,Île-de-France
+BATIL,Grand Est
+BATON,Auvergne-Rhône-Alpes
+BATZE,Grand Est
+BAUD,Bretagne
+BAUDR,Île-de-France
+BAUGE,Pays de la Loire
+BAULE,Pays de la Loire
+BAYAR,Grand Est
+BAYET,Auvergne-Rhône-Alpes
+BAYEU,Normandie
+BAYON,Grand Est
+BAZAN,Grand Est
+BAZAS,Nouvelle-Aquitaine
+BAZEI,Grand Est
+BEC,Auvergne-Rhône-Alpes
+BEC5,Nouvelle-Aquitaine
+BECHE,Nouvelle-Aquitaine
+BECQU,Unassigned
+BEDA5,Provence-Alpes-Côte d'Azur
+BEDAR,Occitanie
+BEDOU,Provence-Alpes-Côte d'Azur
+BEFFE,Centre-Val de Loire
+BEGL5,Nouvelle-Aquitaine
+BEGLE,Nouvelle-Aquitaine
+BEINH,Grand Est
+BELEM,Occitanie
+BELFR,Pays de la Loire
+BELIC,Nouvelle-Aquitaine
+BELIE,Nouvelle-Aquitaine
+BELL4,Auvergne-Rhône-Alpes
+BELLA,Nouvelle-Aquitaine
+BELLE,Auvergne-Rhône-Alpes
+BELLI,Auvergne-Rhône-Alpes
+BELMO,Auvergne-Rhône-Alpes
+BELNE,Centre-Val de Loire
+BELON,Centre-Val de Loire
+BELV5,Nouvelle-Aquitaine
+BELVE,Provence-Alpes-Côte d'Azur
+BENAU,Nouvelle-Aquitaine
+BENE5,Pays de la Loire
+BENET,Pays de la Loire
+BENFE,Grand Est
+BENOD,Unassigned
+BENS,Auvergne-Rhône-Alpes
+BENY,Auvergne-Rhône-Alpes
+BEON,Bourgogne-Franche-Comté
+BERAN,Île-de-France
+BERAT,Occitanie
+BERCL,Hauts-de-France
+BERCY,Unassigned
+BERG5,Nouvelle-Aquitaine
+BERG6,Nouvelle-Aquitaine
+BERG7,Provence-Alpes-Côte d'Azur
+BERG9,Nouvelle-Aquitaine
+BERGH,Grand Est
+BERLI,Île-de-France
+BERMO,Auvergne-Rhône-Alpes
+BERN6,Unassigned
+BERNO,Bretagne
+BERRE,Provence-Alpes-Côte d'Azur
+BERT,Hauts-de-France
+BERT5,Île-de-France
+BERTH,Occitanie
+BERTR,Nouvelle-Aquitaine
+BESS5,Auvergne-Rhône-Alpes
+BESS6,Nouvelle-Aquitaine
+BESSA,Nouvelle-Aquitaine
+BESSE,Occitanie
+BETHE,Grand Est
+BETHI,Hauts-de-France
+BETHO,Bourgogne-Franche-Comté
+BETJA,Nouvelle-Aquitaine
+BETTA,Auvergne-Rhône-Alpes
+BETTI,Grand Est
+BEUVR,Hauts-de-France
+BEYRE,Occitanie
+BEYSS,Occitanie
+BEZ.E,Occitanie
+BEZAU,Grand Est
+BEZIE,Occitanie
+BEZON,Bretagne
+BIACA,Occitanie
+BIACH,Hauts-de-France
+BIANC,Provence-Alpes-Côte d'Azur
+BIARR,Unassigned
+BIBER,Grand Est
+BIGNA,Bretagne
+BIGNY,Centre-Val de Loire
+BILEM,Hauts-de-France
+BILHO,Pays de la Loire
+BILLA,Île-de-France
+BILLY,Auvergne-Rhône-Alpes
+BIOGE,Auvergne-Rhône-Alpes
+BIONN,Auvergne-Rhône-Alpes
+BIRON,Île-de-France
+BISC5,Grand Est
+BISCA,Unassigned
+BISCH,Grand Est
+BISSO,Auvergne-Rhône-Alpes
+BISSY,Auvergne-Rhône-Alpes
+BITCH,Grand Est
+BIZAN,Nouvelle-Aquitaine
+BIZET,Centre-Val de Loire
+BLA.N,Occitanie
+BLAIN,Pays de la Loire
+BLAN5,Nouvelle-Aquitaine
+BLANC,Pays de la Loire
+BLANQ,Nouvelle-Aquitaine
+BLANZ,Bourgogne-Franche-Comté
+BLARI,Hauts-de-France
+BLAUX,Provence-Alpes-Côte d'Azur
+BLAVO,Auvergne-Rhône-Alpes
+BLAY5,Unassigned
+BLAYA,Unassigned
+BLENO,Grand Est
+BLERE,Centre-Val de Loire
+BLERI,Île-de-France
+BLEVI,Unassigned
+BLO.N,Centre-Val de Loire
+BLOCA,Normandie
+BLOTT,Pays de la Loire
+BLYE,Bourgogne-Franche-Comté
+BOCAG,Normandie
+BOCCA,Provence-Alpes-Côte d'Azur
+BOCHE,Auvergne-Rhône-Alpes
+BOCTO,Grand Est
+BODUT,Nouvelle-Aquitaine
+BOE,Nouvelle-Aquitaine
+BOEGE,Auvergne-Rhône-Alpes
+BOGNY,Grand Est
+BOHAI,Hauts-de-France
+BOIS,Auvergne-Rhône-Alpes
+BOIS5,Nouvelle-Aquitaine
+BOISS,Auvergne-Rhône-Alpes
+BOIST,Normandie
+BOLL5,Provence-Alpes-Côte d'Azur
+BOLO5,Grand Est
+BOLOG,Grand Est
+BOLOZ,Auvergne-Rhône-Alpes
+BONDY,Île-de-France
+BONIC,Nouvelle-Aquitaine
+BONN6,Nouvelle-Aquitaine
+BONN7,Centre-Val de Loire
+BONN8,Auvergne-Rhône-Alpes
+BONN9,Pays de la Loire
+BONNA,Nouvelle-Aquitaine
+BONNE,Auvergne-Rhône-Alpes
+BONNI,Île-de-France
+BOOS,Normandie
+BOR.C,Nouvelle-Aquitaine
+BORD5,Occitanie
+BORD6,Nouvelle-Aquitaine
+BORD7,Nouvelle-Aquitaine
+BORD8,Occitanie
+BORDE,Occitanie
+BORDI,Occitanie
+BORIE,Nouvelle-Aquitaine
+BORLY,Auvergne-Rhône-Alpes
+BORNE,Hauts-de-France
+BORNY,Grand Est
+BORT,Nouvelle-Aquitaine
+BOSCH,Normandie
+BOUBL,Auvergne-Rhône-Alpes
+BOUC5,Auvergne-Rhône-Alpes
+BOUC6,Bourgogne-Franche-Comté
+BOUC7,Occitanie
+BOUCA,Unassigned
+BOUCE,Bretagne
+BOUCH,Hauts-de-France
+BOUDE,Auvergne-Rhône-Alpes
+BOUE,Hauts-de-France
+BOUFF,Pays de la Loire
+BOUHE,Occitanie
+BOUI5,Occitanie
+BOUL5,Occitanie
+BOULA,Grand Est
+BOULB,Occitanie
+BOULE,Île-de-France
+BOULI,Auvergne-Rhône-Alpes
+BOULO,Occitanie
+BOURG,Centre-Val de Loire
+BOUS5,Nouvelle-Aquitaine
+BOUS6,Hauts-de-France
+BOUSC,Nouvelle-Aquitaine
+BOUSS,Occitanie
+BOUTR,Provence-Alpes-Côte d'Azur
+BOUV5,Île-de-France
+BOUVA,Auvergne-Rhône-Alpes
+BOUVE,Auvergne-Rhône-Alpes
+BOUZO,Grand Est
+BOZEL,Auvergne-Rhône-Alpes
+BRABO,Grand Est
+BRACH,Auvergne-Rhône-Alpes
+BRADA,Nouvelle-Aquitaine
+BRAEK,Unassigned
+BRAIN,Pays de la Loire
+BRAM,Occitanie
+BRANT,Nouvelle-Aquitaine
+BRAS5,Occitanie
+BRAUD,Unassigned
+BRE.R,Bretagne
+BREAL,Bretagne
+BREAU,Bourgogne-Franche-Comté
+BREI5,Pays de la Loire
+BREIL,Provence-Alpes-Côte d'Azur
+BREJO,Nouvelle-Aquitaine
+BREN5,Occitanie
+BRENC,Unassigned
+BRENN,Bretagne
+BRENO,Hauts-de-France
+BRENS,Auvergne-Rhône-Alpes
+BRESS,Nouvelle-Aquitaine
+BRET5,Hauts-de-France
+BRETA,Occitanie
+BREU5,Bourgogne-Franche-Comté
+BREUI,Nouvelle-Aquitaine
+BREV6,Île-de-France
+BREV7,Île-de-France
+BREVA,Bourgogne-Franche-Comté
+BREVI,Auvergne-Rhône-Alpes
+BRIAN,Provence-Alpes-Côte d'Azur
+BRIAR,Centre-Val de Loire
+BRIAS,Hauts-de-France
+BRICH,Île-de-France
+BRIDO,Auvergne-Rhône-Alpes
+BRIEC,Bretagne
+BRIEN,Grand Est
+BRILL,Provence-Alpes-Côte d'Azur
+BRIOU,Auvergne-Rhône-Alpes
+BRIS,Nouvelle-Aquitaine
+BRIVE,Pays de la Loire
+BRIZE,Nouvelle-Aquitaine
+BRODE,Unassigned
+BROMM,Occitanie
+BRONS,Auvergne-Rhône-Alpes
+BROSS,Auvergne-Rhône-Alpes
+BROTT,Auvergne-Rhône-Alpes
+BROU,Auvergne-Rhône-Alpes
+BROU5,Centre-Val de Loire
+BROUS,Grand Est
+BROUZ,Occitanie
+BRUCH,Nouvelle-Aquitaine
+BRUFF,Pays de la Loire
+BRUGA,Nouvelle-Aquitaine
+BRUGE,Nouvelle-Aquitaine
+BRUMA,Grand Est
+BRUN5,Hauts-de-France
+BRUNE,Provence-Alpes-Côte d'Azur
+BRUNN,Grand Est
+BRUNO,Île-de-France
+BRUYE,Grand Est
+BRUZ,Bretagne
+BUEIX,Nouvelle-Aquitaine
+BUGEL,Nouvelle-Aquitaine
+BUGEY,Auvergne-Rhône-Alpes
+BUIRE,Hauts-de-France
+BUIS,Centre-Val de Loire
+BUQUE,Normandie
+BURCI,Auvergne-Rhône-Alpes
+BUSIG,Hauts-de-France
+BUSSA,Nouvelle-Aquitaine
+BUSSI,Auvergne-Rhône-Alpes
+BUSSU,Bourgogne-Franche-Comté
+BUTTA,Pays de la Loire
+BUTTE,Bretagne
+BUZAN,Centre-Val de Loire
+BUZEN,Île-de-France
+BVIL5,Hauts-de-France
+BVIL6,Auvergne-Rhône-Alpes
+BVIL7,Centre-Val de Loire
+BVILL,Auvergne-Rhône-Alpes
+BVILX,Unassigned
+BVUE,Auvergne-Rhône-Alpes
+BVUE5,Île-de-France
+BXBOU,Île-de-France
+BXBRE,Nouvelle-Aquitaine
+BXCAI,Occitanie
+BXCH5,Normandie
+BXCHA,Auvergne-Rhône-Alpes
+BXCO5,Unassigned
+BXCOU,Pays de la Loire
+BXFOR,Auvergne-Rhône-Alpes
+BXGEN,Centre-Val de Loire
+BXLIE,Nouvelle-Aquitaine
+BXLIN,Nouvelle-Aquitaine
+BXMET,Provence-Alpes-Côte d'Azur
+BXMON,Provence-Alpes-Côte d'Azur
+BXNE,Bourgogne-Franche-Comté
+BXNE5,Bourgogne-Franche-Comté
+BXNE6,Centre-Val de Loire
+BXPLA,Nouvelle-Aquitaine
+BXPUY,Pays de la Loire
+BXRE5,Grand Est
+BXRE6,Centre-Val de Loire
+BXREG,Nouvelle-Aquitaine
+BXREP,Auvergne-Rhône-Alpes
+BXSOL,Provence-Alpes-Côte d'Azur
+BXTO5,Hauts-de-France
+BXVAI,Hauts-de-France
+BXVAL,Île-de-France
+BXVO5,Unassigned
+BXVOI,Auvergne-Rhône-Alpes
+BXZEE,Grand Est
+BZBAK,Normandie
+BZBEL,Normandie
+BZBON,Grand Est
+BZELI,Occitanie
+BZGAY,Normandie
+BZGET,Île-de-France
+BZGUE,Centre-Val de Loire
+BZGUI,Bourgogne-Franche-Comté
+BZNE,Auvergne-Rhône-Alpes
+BZNIL,Auvergne-Rhône-Alpes
+BZRAY,Pays de la Loire
+BZSEU,Bretagne
+C.AIG,Auvergne-Rhône-Alpes
+C.AND,Auvergne-Rhône-Alpes
+C.AYG,Auvergne-Rhône-Alpes
+C.BAP,Île-de-France
+C.BAR,Auvergne-Rhône-Alpes
+C.BER,Nouvelle-Aquitaine
+C.BOI,Île-de-France
+C.CAD,Nouvelle-Aquitaine
+C.CAN,Grand Est
+C.CH5,Provence-Alpes-Côte d'Azur
+C.CHA,Auvergne-Rhône-Alpes
+C.CHI,Bourgogne-Franche-Comté
+C.DEN,Nouvelle-Aquitaine
+C.FEU,Auvergne-Rhône-Alpes
+C.FO5,Bourgogne-Franche-Comté
+C.FO6,Auvergne-Rhône-Alpes
+C.FON,Pays de la Loire
+C.FOU,Bourgogne-Franche-Comté
+C.FRA,Occitanie
+C.GAD,Provence-Alpes-Côte d'Azur
+C.GEA,Auvergne-Rhône-Alpes
+C.GIB,Bretagne
+C.GOM,Provence-Alpes-Côte d'Azur
+C.GON,Pays de la Loire
+C.HER,Occitanie
+C.HIN,Nouvelle-Aquitaine
+C.HUI,Normandie
+C.LAF,Unassigned
+C.LAN,Grand Est
+C.LAR,Nouvelle-Aquitaine
+C.LEM,Île-de-France
+C.LEO,Bourgogne-Franche-Comté
+C.LEU,Normandie
+C.LO5,Pays de la Loire
+C.LO6,Centre-Val de Loire
+C.LOI,Centre-Val de Loire
+C.LUC,Unassigned
+C.ME5,Unassigned
+C.MER,Provence-Alpes-Côte d'Azur
+C.MET,Grand Est
+C.NEY,Auvergne-Rhône-Alpes
+C.NOI,Normandie
+C.OME,Hauts-de-France
+C.QUE,Provence-Alpes-Côte d'Azur
+C.REA,Normandie
+C.REG,Bourgogne-Franche-Comté
+C.REN,Centre-Val de Loire
+C.RHO,Auvergne-Rhône-Alpes
+C.RO5,Île-de-France
+C.RO6,Centre-Val de Loire
+C.ROI,Île-de-France
+C.ROL,Auvergne-Rhône-Alpes
+C.ROU,Auvergne-Rhône-Alpes
+C.ROY,Bourgogne-Franche-Comté
+C.SAL,Grand Est
+C.SAU,Bourgogne-Franche-Comté
+C.SEI,Bourgogne-Franche-Comté
+C.SSH,Nouvelle-Aquitaine
+C.THI,Hauts-de-France
+C.VE5,Bourgogne-Franche-Comté
+C.VI6,Unassigned
+C.VIL,Occitanie
+CABA5,Occitanie
+CABAN,Provence-Alpes-Côte d'Azur
+CABAS,Provence-Alpes-Côte d'Azur
+CABES,Occitanie
+CABRI,Provence-Alpes-Côte d'Azur
+CADAL,Auvergne-Rhône-Alpes
+CADAR,Provence-Alpes-Côte d'Azur
+CADER,Occitanie
+CAEN,Normandie
+CAFFA,Bretagne
+CAHO5,Occitanie
+CAHOR,Occitanie
+CAIL,Hauts-de-France
+CAIL5,Provence-Alpes-Côte d'Azur
+CAILL,Normandie
+CAIRA,Provence-Alpes-Côte d'Azur
+CAJAR,Occitanie
+CALA5,Bretagne
+CALAI,Hauts-de-France
+CALCE,Occitanie
+CALYP,Auvergne-Rhône-Alpes
+CAMBE,Occitanie
+CAMBO,Normandie
+CAMBR,Hauts-de-France
+CAMON,Occitanie
+CAMP,Provence-Alpes-Côte d'Azur
+CAMP5,Occitanie
+CAMP6,Nouvelle-Aquitaine
+CAMPA,Occitanie
+CAMPE,Normandie
+CANAL,Normandie
+CANCO,Nouvelle-Aquitaine
+CANET,Occitanie
+CANNE,Provence-Alpes-Côte d'Azur
+CANT5,Nouvelle-Aquitaine
+CANTE,Nouvelle-Aquitaine
+CAPEL,Hauts-de-France
+CAPEN,Occitanie
+CAPEY,Hauts-de-France
+CARAB,Grand Est
+CARAV,Pays de la Loire
+CARBO,Occitanie
+CARC5,Occitanie
+CARDI,Île-de-France
+CARHA,Bretagne
+CARIS,Bourgogne-Franche-Comté
+CARLA,Occitanie
+CARLI,Grand Est
+CARLO,Provence-Alpes-Côte d'Azur
+CARME,Centre-Val de Loire
+CARNO,Provence-Alpes-Côte d'Azur
+CARON,Unassigned
+CARP5,Normandie
+CARPE,Provence-Alpes-Côte d'Azur
+CARPO,Bretagne
+CARQ5,Pays de la Loire
+CARQU,Provence-Alpes-Côte d'Azur
+CARR5,Île-de-France
+CARR8,Unassigned
+CARRI,Hauts-de-France
+CARVI,Hauts-de-France
+CAS.S,Occitanie
+CASCA,Bretagne
+CASSA,Occitanie
+CASSE,Nouvelle-Aquitaine
+CASTA,Île-de-France
+CASTI,Provence-Alpes-Côte d'Azur
+CASTO,Hauts-de-France
+CATAR,Auvergne-Rhône-Alpes
+CATEA,Hauts-de-France
+CATEN,Hauts-de-France
+CATG1,Unassigned
+CATG2,Unassigned
+CATG3,Unassigned
+CATG4,Unassigned
+CATOY,Nouvelle-Aquitaine
+CATT5,Grand Est
+CAUD5,Normandie
+CAUDE,Nouvelle-Aquitaine
+CAUDI,Unassigned
+CAUDR,Hauts-de-France
+CAULA,Île-de-France
+CAUM5,Provence-Alpes-Côte d'Azur
+CAUMO,Normandie
+CAUSS,Occitanie
+CAVAI,Provence-Alpes-Côte d'Azur
+CAVAL,Provence-Alpes-Côte d'Azur
+CAVAO,Provence-Alpes-Côte d'Azur
+CAVEL,Île-de-France
+CAZAL,Nouvelle-Aquitaine
+CAZAR,Occitanie
+CAZAU,Nouvelle-Aquitaine
+CAZE5,Normandie
+CAZED,Occitanie
+CAZER,Occitanie
+CBAUD,Auvergne-Rhône-Alpes
+CBERY,Auvergne-Rhône-Alpes
+CBRY,Île-de-France
+CEBAZ,Auvergne-Rhône-Alpes
+CELLE,Auvergne-Rhône-Alpes
+CEMPA,Grand Est
+CENON,Nouvelle-Aquitaine
+CERCE,Grand Est
+CERET,Occitanie
+CERGY,Île-de-France
+CERIZ,Nouvelle-Aquitaine
+CERN,Auvergne-Rhône-Alpes
+CERNA,Grand Est
+CERON,Nouvelle-Aquitaine
+CESSE,Occitanie
+CESSO,Bretagne
+CESTA,Nouvelle-Aquitaine
+CEZY,Bourgogne-Franche-Comté
+CHA.N,Bourgogne-Franche-Comté
+CHA.S,Centre-Val de Loire
+CHAB5,Provence-Alpes-Côte d'Azur
+CHAB6,Pays de la Loire
+CHABA,Nouvelle-Aquitaine
+CHABO,Pays de la Loire
+CHABR,Auvergne-Rhône-Alpes
+CHACE,Pays de la Loire
+CHAFA,Centre-Val de Loire
+CHAFF,Auvergne-Rhône-Alpes
+CHAG5,Centre-Val de Loire
+CHAGN,Bourgogne-Franche-Comté
+CHAI5,Centre-Val de Loire
+CHAIL,Bourgogne-Franche-Comté
+CHAIN,Centre-Val de Loire
+CHAL5,Bourgogne-Franche-Comté
+CHAL6,Bourgogne-Franche-Comté
+CHAL7,Grand Est
+CHALL,Pays de la Loire
+CHALO,Bourgogne-Franche-Comté
+CHAM5,Grand Est
+CHAM6,Auvergne-Rhône-Alpes
+CHAMO,Auvergne-Rhône-Alpes
+CHAMP,Auvergne-Rhône-Alpes
+CHAN5,Centre-Val de Loire
+CHAN6,Grand Est
+CHAN7,Auvergne-Rhône-Alpes
+CHANC,Bourgogne-Franche-Comté
+CHANG,Pays de la Loire
+CHANO,Auvergne-Rhône-Alpes
+CHAP5,Centre-Val de Loire
+CHAP6,Nouvelle-Aquitaine
+CHAPE,Normandie
+CHAR6,Île-de-France
+CHARB,Nouvelle-Aquitaine
+CHARD,Nouvelle-Aquitaine
+CHARE,Île-de-France
+CHARI,Bourgogne-Franche-Comté
+CHARL,Auvergne-Rhône-Alpes
+CHARN,Bourgogne-Franche-Comté
+CHARO,Bourgogne-Franche-Comté
+CHARP,Auvergne-Rhône-Alpes
+CHART,Île-de-France
+CHARV,Auvergne-Rhône-Alpes
+CHAS5,Auvergne-Rhône-Alpes
+CHAST,Nouvelle-Aquitaine
+CHAT6,Pays de la Loire
+CHAT7,Centre-Val de Loire
+CHAT8,Provence-Alpes-Côte d'Azur
+CHAT9,Grand Est
+CHATI,Île-de-France
+CHATR,Nouvelle-Aquitaine
+CHAV5,Pays de la Loire
+CHAV6,Auvergne-Rhône-Alpes
+CHAVA,Auvergne-Rhône-Alpes
+CHAVE,Nouvelle-Aquitaine
+CHAZ5,Auvergne-Rhône-Alpes
+CHAZE,Bourgogne-Franche-Comté
+CHECY,Centre-Val de Loire
+CHED5,Auvergne-Rhône-Alpes
+CHEDD,Auvergne-Rhône-Alpes
+CHEME,Centre-Val de Loire
+CHEMI,Pays de la Loire
+CHENE,Île-de-France
+CHEPP,Grand Est
+CHERB,Normandie
+CHERR,Pays de la Loire
+CHESN,Île-de-France
+CHESS,Auvergne-Rhône-Alpes
+CHEV5,Pays de la Loire
+CHEV6,Normandie
+CHEV8,Auvergne-Rhône-Alpes
+CHEVA,Hauts-de-France
+CHEVI,Île-de-France
+CHEVR,Auvergne-Rhône-Alpes
+CHEY6,Auvergne-Rhône-Alpes
+CHEYL,Auvergne-Rhône-Alpes
+CHEZY,Hauts-de-France
+CHIN2,Centre-Val de Loire
+CHIN5,Centre-Val de Loire
+CHINX,Unassigned
+CHOC5,Hauts-de-France
+CHOLE,Pays de la Loire
+CHOLO,Grand Est
+CHOO1,Unassigned
+CHOO2,Grand Est
+CHOO5,Grand Est
+CHOUY,Hauts-de-France
+CIERP,Occitanie
+CIEUR,Occitanie
+CINTE,Occitanie
+CIOTA,Unassigned
+CIREY,Grand Est
+CIROL,Île-de-France
+CISSA,Nouvelle-Aquitaine
+CIVAU,Nouvelle-Aquitaine
+CIVRA,Nouvelle-Aquitaine
+CIVRI,Auvergne-Rhône-Alpes
+CIZE,Auvergne-Rhône-Alpes
+CLAIR,Grand Est
+CLAME,Bourgogne-Franche-Comté
+CLAV5,Auvergne-Rhône-Alpes
+CLAVA,Auvergne-Rhône-Alpes
+CLAYE,Bourgogne-Franche-Comté
+CLEDE,Bretagne
+CLEON,Normandie
+CLERA,Nouvelle-Aquitaine
+CLIMA,Île-de-France
+CLOCH,Hauts-de-France
+CLONA,Auvergne-Rhône-Alpes
+CLUNY,Bourgogne-Franche-Comté
+CLUS5,Auvergne-Rhône-Alpes
+CLUSE,Auvergne-Rhône-Alpes
+CNNAY,Pays de la Loire
+CNREI,Hauts-de-France
+COARR,Nouvelle-Aquitaine
+COATA,Bretagne
+COCHE,Auvergne-Rhône-Alpes
+CODOL,Occitanie
+COGNA,Nouvelle-Aquitaine
+COIG5,Île-de-France
+COIND,Auvergne-Rhône-Alpes
+COISE,Bourgogne-Franche-Comté
+COL,Auvergne-Rhône-Alpes
+COL.N,Grand Est
+COL.O,Grand Est
+COLAY,Nouvelle-Aquitaine
+COLLO,Bourgogne-Franche-Comté
+COLMA,Grand Est
+COLO5,Occitanie
+COLO6,Occitanie
+COLOM,Centre-Val de Loire
+COLON,Île-de-France
+COLUM,Centre-Val de Loire
+COMB5,Auvergne-Rhône-Alpes
+COMB6,Occitanie
+COMB7,Nouvelle-Aquitaine
+COMBE,Auvergne-Rhône-Alpes
+COMBO,Bretagne
+COMM6,Grand Est
+COMM7,Pays de la Loire
+COMMA,Centre-Val de Loire
+COMME,Auvergne-Rhône-Alpes
+COMMU,Bourgogne-Franche-Comté
+COMPE,Grand Est
+COMPI,Hauts-de-France
+COMPS,Auvergne-Rhône-Alpes
+COMTA,Provence-Alpes-Côte d'Azur
+CONCA,Bretagne
+CONCE,Unassigned
+CONDO,Occitanie
+CONF5,Auvergne-Rhône-Alpes
+CONF6,Nouvelle-Aquitaine
+CONFL,Bourgogne-Franche-Comté
+CONNE,Pays de la Loire
+CONRA,Pays de la Loire
+CONST,Nouvelle-Aquitaine
+CONT5,Grand Est
+CONTA,Auvergne-Rhône-Alpes
+CONTE,Provence-Alpes-Côte d'Azur
+CONTR,Centre-Val de Loire
+CONVE,Île-de-France
+COQU5,Île-de-France
+COQUA,Normandie
+COR.P,Pays de la Loire
+CORB7,Île-de-France
+CORB8,Auvergne-Rhône-Alpes
+CORB9,Bourgogne-Franche-Comté
+CORBI,Pays de la Loire
+CORD5,Pays de la Loire
+CORD6,Occitanie
+CORDE,Auvergne-Rhône-Alpes
+CORDI,Normandie
+CORDY,Centre-Val de Loire
+CORGO,Bourgogne-Franche-Comté
+CORIO,Île-de-France
+CORM5,Centre-Val de Loire
+CORME,Île-de-France
+CORN6,Grand Est
+CORNE,Normandie
+CORNI,Auvergne-Rhône-Alpes
+COSNE,Centre-Val de Loire
+COSNI,Pays de la Loire
+COSSI,Île-de-France
+COTE,Nouvelle-Aquitaine
+COTON,Normandie
+COUB6,Bourgogne-Franche-Comté
+COUBE,Île-de-France
+COUCH,Bourgogne-Franche-Comté
+COUDE,Hauts-de-France
+COUDO,Provence-Alpes-Côte d'Azur
+COUDR,Normandie
+COUE5,Centre-Val de Loire
+COUES,Occitanie
+COUFF,Occitanie
+COUGN,Nouvelle-Aquitaine
+COUL5,Occitanie
+COULA,Auvergne-Rhône-Alpes
+COULE,Auvergne-Rhône-Alpes
+COULI,Normandie
+COULL,Centre-Val de Loire
+COULO,Île-de-France
+COUPV,Île-de-France
+COUR,Nouvelle-Aquitaine
+COURS,Auvergne-Rhône-Alpes
+COUTA,Normandie
+COUTR,Nouvelle-Aquitaine
+CPBLA,Auvergne-Rhône-Alpes
+CPDIV,Bourgogne-Franche-Comté
+CPFL5,Normandie
+CPFLE,Occitanie
+CPIG5,Bourgogne-Franche-Comté
+CPIGN,Grand Est
+CPNAC,Nouvelle-Aquitaine
+CPNI5,Nouvelle-Aquitaine
+CPNIE,Auvergne-Rhône-Alpes
+CPNOL,Bourgogne-Franche-Comté
+CPNY,Auvergne-Rhône-Alpes
+CPRAD,Auvergne-Rhône-Alpes
+CPVAN,Bourgogne-Franche-Comté
+CPVER,Bourgogne-Franche-Comté
+CRAIE,Bourgogne-Franche-Comté
+CRAN,Auvergne-Rhône-Alpes
+CRAON,Pays de la Loire
+CRAPO,Auvergne-Rhône-Alpes
+CREC5,Auvergne-Rhône-Alpes
+CREC6,Hauts-de-France
+CRECH,Bourgogne-Franche-Comté
+CREDI,Bretagne
+CREMA,Provence-Alpes-Côte d'Azur
+CRENE,Grand Est
+CREPI,Auvergne-Rhône-Alpes
+CRESS,Auvergne-Rhône-Alpes
+CREST,Auvergne-Rhône-Alpes
+CRETA,Île-de-France
+CREUL,Normandie
+CREUS,Bourgogne-Franche-Comté
+CREUT,Grand Est
+CREVE,Île-de-France
+CREYS,Auvergne-Rhône-Alpes
+CREZA,Hauts-de-France
+CRIME,Île-de-France
+CRIMO,Bourgogne-Franche-Comté
+CRIQU,Normandie
+CROI5,Hauts-de-France
+CROI6,Occitanie
+CROIS,Normandie
+CROIX,Hauts-de-France
+CROLL,Auvergne-Rhône-Alpes
+CRONE,Grand Est
+CROQU,Bretagne
+CROSN,Île-de-France
+CROUX,Occitanie
+CROUZ,Occitanie
+CROZE,Occitanie
+CROZO,Bretagne
+CRUA5,Auvergne-Rhône-Alpes
+CRUAS,Auvergne-Rhône-Alpes
+CRUCH,Pays de la Loire
+CRUEL,Bretagne
+CRUET,Auvergne-Rhône-Alpes
+CRUGE,Bourgogne-Franche-Comté
+CRUSE,Auvergne-Rhône-Alpes
+CRUSS,Auvergne-Rhône-Alpes
+CSLET,Occitanie
+CSLJA,Nouvelle-Aquitaine
+CSLL5,Occitanie
+CSLL8,Occitanie
+CSLLA,Provence-Alpes-Côte d'Azur
+CSLLE,Provence-Alpes-Côte d'Azur
+CSLN5,Occitanie
+CSLN6,Occitanie
+CSLNA,Occitanie
+CSLS5,Occitanie
+CSLSA,Occitanie
+CST,Nouvelle-Aquitaine
+CSTTT,Nouvelle-Aquitaine
+CTAU,Occitanie
+CTAUB,Pays de la Loire
+CTAUD,Centre-Val de Loire
+CTAUF,Auvergne-Rhône-Alpes
+CTAUN,Auvergne-Rhône-Alpes
+CTAUR,Provence-Alpes-Côte d'Azur
+CTLAR,Auvergne-Rhône-Alpes
+CTLLE,Nouvelle-Aquitaine
+CTLUS,Nouvelle-Aquitaine
+CTMAL,Bretagne
+CUBNE,Nouvelle-Aquitaine
+CUBRY,Grand Est
+CUDRA,Auvergne-Rhône-Alpes
+CUISE,Bourgogne-Franche-Comté
+CULOZ,Auvergne-Rhône-Alpes
+CUPER,Grand Est
+CURBA,Provence-Alpes-Côte d'Azur
+CURSO,Auvergne-Rhône-Alpes
+CURTI,Bourgogne-Franche-Comté
+CUS.P,Auvergne-Rhône-Alpes
+CUSTI,Grand Est
+CUTRY,Grand Est
+CXCON,Île-de-France
+CXDAN,Provence-Alpes-Côte d'Azur
+CXFFA,Bourgogne-Franche-Comté
+CXME,Centre-Val de Loire
+CXMET,Centre-Val de Loire
+CXMO5,Grand Est
+CXMON,Nouvelle-Aquitaine
+CXNAY,Centre-Val de Loire
+CXSSE,Grand Est
+CXTAG,Auvergne-Rhône-Alpes
+CXVEN,Grand Est
+CXVIG,Nouvelle-Aquitaine
+CYCOF,Unassigned
+CZBAI,Provence-Alpes-Côte d'Azur
+CZBES,Occitanie
+CZBEV,Île-de-France
+CZCEL,Île-de-France
+CZEGE,Provence-Alpes-Côte d'Azur
+CZELL,Centre-Val de Loire
+CZLIS,Normandie
+CZNEU,Île-de-France
+CZONN,Nouvelle-Aquitaine
+CZPIE,Auvergne-Rhône-Alpes
+CZRIE,Hauts-de-France
+CZTEN,Centre-Val de Loire
+CZTHE,Provence-Alpes-Côte d'Azur
+CZTIL,Nouvelle-Aquitaine
+CZTIN,Occitanie
+CZTRY,Île-de-France
+CZVIL,Centre-Val de Loire
+D.BRU,Hauts-de-France
+D.BUR,Centre-Val de Loire
+D.BUX,Unassigned
+D.FON,Pays de la Loire
+D.FRA,Provence-Alpes-Côte d'Azur
+D.GAR,Hauts-de-France
+D.INF,Auvergne-Rhône-Alpes
+D.PAL,Nouvelle-Aquitaine
+DALST,Grand Est
+DAMBR,Centre-Val de Loire
+DAMER,Grand Est
+DAMPJ,Bourgogne-Franche-Comté
+DAMVI,Normandie
+DANCE,Bourgogne-Franche-Comté
+DANT5,Île-de-France
+DANTO,Nouvelle-Aquitaine
+DARBL,Normandie
+DARCE,Bourgogne-Franche-Comté
+DARDI,Auvergne-Rhône-Alpes
+DARNE,Grand Est
+DARS5,Normandie
+DARSE,Provence-Alpes-Côte d'Azur
+DAUX,Occitanie
+DAVID,Île-de-France
+DAX,Nouvelle-Aquitaine
+DEBON,Grand Est
+DECHY,Hauts-de-France
+DECIN,Auvergne-Rhône-Alpes
+DEGA5,Occitanie
+DEGAG,Occitanie
+DELBA,Hauts-de-France
+DELLE,Bourgogne-Franche-Comté
+DENAI,Hauts-de-France
+DENFE,Île-de-France
+DENNA,Unassigned
+DEOLS,Centre-Val de Loire
+DEPHG,Unassigned
+DEPHS,Unassigned
+DERVA,Pays de la Loire
+DESCA,Nouvelle-Aquitaine
+DESCH,Nouvelle-Aquitaine
+DESVR,Hauts-de-France
+DETTW,Grand Est
+DIE,Auvergne-Rhône-Alpes
+DIEP5,Normandie
+DIEPP,Unassigned
+DIEUL,Auvergne-Rhône-Alpes
+DIEUP,Occitanie
+DIEUZ,Grand Est
+DIGNE,Provence-Alpes-Côte d'Azur
+DIGOI,Bourgogne-Franche-Comté
+DINAN,Bretagne
+DINAR,Bretagne
+DIRIN,Bretagne
+DISTR,Pays de la Loire
+DIVES,Unassigned
+DOBER,Bretagne
+DOCEL,Grand Est
+DOGNE,Grand Est
+DOL,Bretagne
+DOMB5,Grand Est
+DOMBA,Grand Est
+DOMEN,Auvergne-Rhône-Alpes
+DOMFR,Normandie
+DOMLO,Bretagne
+DOMPI,Auvergne-Rhône-Alpes
+DONCH,Grand Est
+DONGE,Pays de la Loire
+DONJO,Auvergne-Rhône-Alpes
+DONZA,Nouvelle-Aquitaine
+DONZE,Nouvelle-Aquitaine
+DORDI,Île-de-France
+DORE,Auvergne-Rhône-Alpes
+DORMA,Hauts-de-France
+DORNA,Grand Est
+DOUAI,Bretagne
+DOUAR,Bretagne
+DOUDO,Bourgogne-Franche-Comté
+DOUDR,Nouvelle-Aquitaine
+DOULL,Hauts-de-France
+DOULO,Pays de la Loire
+DOUV6,Normandie
+DOUVA,Unassigned
+DOUVO,Bourgogne-Franche-Comté
+DOUVR,Hauts-de-France
+DOUZE,Hauts-de-France
+DRAGU,Provence-Alpes-Côte d'Azur
+DRANC,Île-de-France
+DREUX,Centre-Val de Loire
+DRONN,Normandie
+DROUG,Bretagne
+DRULI,Grand Est
+DRUME,Auvergne-Rhône-Alpes
+DUGNY,Grand Est
+DUN,Centre-Val de Loire
+DUNES,Unassigned
+DUNIE,Auvergne-Rhône-Alpes
+DURAN,Provence-Alpes-Côte d'Azur
+DUROL,Auvergne-Rhône-Alpes
+DURRE,Auvergne-Rhône-Alpes
+DUVIG,Unassigned
+DUVY,Hauts-de-France
+E.BAI,Nouvelle-Aquitaine
+E.BON,Nouvelle-Aquitaine
+E.BOT,Provence-Alpes-Côte d'Azur
+E.CHA,Unassigned
+E.CIM,Grand Est
+E.CL5,Nouvelle-Aquitaine
+E.CON,Occitanie
+E.FOR,Centre-Val de Loire
+E.HU7,Unassigned
+E.HUC,Grand Est
+E.JAC,Occitanie
+E.LES,Nouvelle-Aquitaine
+E.REF,Occitanie
+E.RHO,Auvergne-Rhône-Alpes
+E.SOL,Grand Est
+ECHAL,Auvergne-Rhône-Alpes
+ECHEL,Auvergne-Rhône-Alpes
+ECHIN,Hauts-de-France
+ECOMM,Pays de la Loire
+ECOUF,Pays de la Loire
+ECRAI,Normandie
+EDGAR,Normandie
+EDITH,Auvergne-Rhône-Alpes
+EGET,Occitanie
+EGLAN,Île-de-France
+EGLET,Nouvelle-Aquitaine
+EGUIL,Provence-Alpes-Côte d'Azur
+EGUZO,Centre-Val de Loire
+ELANC,Île-de-France
+EMALE,Normandie
+EMBRU,Provence-Alpes-Côte d'Azur
+ENCHA,Nouvelle-Aquitaine
+ENNER,Grand Est
+ENSER,Occitanie
+ENSIS,Grand Est
+ENSOL,Provence-Alpes-Côte d'Azur
+ENTRA,Provence-Alpes-Côte d'Azur
+ENTRE,Provence-Alpes-Côte d'Azur
+ENVAL,Auvergne-Rhône-Alpes
+ENVER,Normandie
+EPER5,Centre-Val de Loire
+EPERN,Grand Est
+EPIER,Auvergne-Rhône-Alpes
+EPIN5,Île-de-France
+EPIN6,Pays de la Loire
+EPINA,Bourgogne-Franche-Comté
+EPINE,Hauts-de-France
+EPIZO,Grand Est
+EPN,Normandie
+ERASM,Île-de-France
+ERNEE,Pays de la Loire
+ERQUY,Unassigned
+ERRON,Unassigned
+ERROU,Grand Est
+ERSTE,Grand Est
+ESCAI,Provence-Alpes-Côte d'Azur
+ESCAR,Provence-Alpes-Côte d'Azur
+ESCO2,Occitanie
+ESCOU,Occitanie
+ESPAG,Auvergne-Rhône-Alpes
+ESPAL,Nouvelle-Aquitaine
+ESPER,Occitanie
+ESPI5,Centre-Val de Loire
+ESPO5,Occitanie
+ESPON,Occitanie
+ESQUE,Hauts-de-France
+ESQUI,Nouvelle-Aquitaine
+ESSA5,Pays de la Loire
+ESSAR,Hauts-de-France
+ESSER,Bourgogne-Franche-Comté
+ESSEY,Grand Est
+ESSON,Île-de-France
+ESTAI,Hauts-de-France
+ESTAQ,Provence-Alpes-Côte d'Azur
+ESTER,Occitanie
+ESTIV,Nouvelle-Aquitaine
+ESTR5,Hauts-de-France
+ESTR6,Hauts-de-France
+ESTRE,Auvergne-Rhône-Alpes
+ETAB5,Nouvelle-Aquitaine
+ETAI5,Grand Est
+ETAN5,Île-de-France
+ETANG,Unassigned
+ETAUL,Nouvelle-Aquitaine
+ETINC,Hauts-de-France
+ETIVA,Grand Est
+ETREP,Normandie
+ETREV,Normandie
+ETREZ,Auvergne-Rhône-Alpes
+ETUPE,Bourgogne-Franche-Comté
+EUROP,Grand Est
+EVIAN,Auvergne-Rhône-Alpes
+EVREU,Normandie
+EVRO1,Pays de la Loire
+EVRO2,Pays de la Loire
+EXCID,Nouvelle-Aquitaine
+EYBEN,Auvergne-Rhône-Alpes
+EYGLI,Provence-Alpes-Côte d'Azur
+EYLIE,Occitanie
+EYRAN,Nouvelle-Aquitaine
+EYRE5,Nouvelle-Aquitaine
+EYSSE,Provence-Alpes-Côte d'Azur
+F.ABE,Unassigned
+F.ALL,Provence-Alpes-Côte d'Azur
+F.ARG,Nouvelle-Aquitaine
+F.AUB,Centre-Val de Loire
+F.BER,Pays de la Loire
+F.CHA,Grand Est
+F.COM,Pays de la Loire
+F.EAU,Normandie
+F.ETO,Normandie
+F.FRA,Auvergne-Rhône-Alpes
+F.IRA,Occitanie
+F.JOU,Île-de-France
+F.MAN,Hauts-de-France
+F.MAU,Île-de-France
+F.MON,Nouvelle-Aquitaine
+F.RAF,Auvergne-Rhône-Alpes
+F.ROI,Hauts-de-France
+F.STR,Unassigned
+F.SUL,Centre-Val de Loire
+F.VER,Auvergne-Rhône-Alpes
+FABIA,Occitanie
+FACT5,Nouvelle-Aquitaine
+FACTU,Nouvelle-Aquitaine
+FADE5,Auvergne-Rhône-Alpes
+FAIDH,Île-de-France
+FALLO,Île-de-France
+FAMAR,Hauts-de-France
+FANAU,Île-de-France
+FARG5,Auvergne-Rhône-Alpes
+FARGE,Nouvelle-Aquitaine
+FARRA,Nouvelle-Aquitaine
+FAUGA,Occitanie
+FAUGE,Occitanie
+FAVAR,Provence-Alpes-Côte d'Azur
+FAVER,Auvergne-Rhône-Alpes
+FAYET,Auvergne-Rhône-Alpes
+FAYMO,Pays de la Loire
+FECAM,Unassigned
+FEIGN,Hauts-de-France
+FEISS,Auvergne-Rhône-Alpes
+FENOU,Provence-Alpes-Côte d'Azur
+FERE,Hauts-de-France
+FEROU,Nouvelle-Aquitaine
+FERR5,Normandie
+FERRA,Centre-Val de Loire
+FERRI,Occitanie
+FESC,Occitanie
+FESS5,Grand Est
+FESSE,Grand Est
+FESSH,Unassigned
+FEUIL,Provence-Alpes-Côte d'Azur
+FEURS,Auvergne-Rhône-Alpes
+FEYSS,Auvergne-Rhône-Alpes
+FEYZ5,Auvergne-Rhône-Alpes
+FIER,Auvergne-Rhône-Alpes
+FIGEA,Occitanie
+FINHA,Occitanie
+FINS,Bourgogne-Franche-Comté
+FIRM5,Auvergne-Rhône-Alpes
+FIRMI,Occitanie
+FISME,Hauts-de-France
+FITOU,Occitanie
+FLAC5,Bourgogne-Franche-Comté
+FLACE,Bourgogne-Franche-Comté
+FLAMA,Unassigned
+FLAMB,Occitanie
+FLAME,Hauts-de-France
+FLAMI,Auvergne-Rhône-Alpes
+FLAND,Île-de-France
+FLEAC,Nouvelle-Aquitaine
+FLECH,Pays de la Loire
+FLERS,Normandie
+FLEU5,Occitanie
+FLEUR,Bourgogne-Franche-Comté
+FLEVI,Grand Est
+FLEYR,Auvergne-Rhône-Alpes
+FLINS,Île-de-France
+FLOGN,Bourgogne-Franche-Comté
+FLOIN,Grand Est
+FLOIR,Nouvelle-Aquitaine
+FLORE,Occitanie
+FLORY,Unassigned
+FOCH,Île-de-France
+FOIX,Occitanie
+FOIX5,Occitanie
+FOLIE,Île-de-France
+FONCL,Occitanie
+FONDA,Occitanie
+FONDE,Centre-Val de Loire
+FONT,Auvergne-Rhône-Alpes
+FORBA,Unassigned
+FORMI,Occitanie
+FORTA,Centre-Val de Loire
+FORTE,Hauts-de-France
+FOS,Occitanie
+FOSSE,Île-de-France
+FOUCA,Pays de la Loire
+FOUG5,Bourgogne-Franche-Comté
+FOUGE,Bretagne
+FOUIL,Hauts-de-France
+FOUL5,Normandie
+FOULO,Centre-Val de Loire
+FOUR5,Hauts-de-France
+FOURA,Pays de la Loire
+FOURM,Hauts-de-France
+FOUSC,Occitanie
+FOUTE,Hauts-de-France
+FOYAU,Hauts-de-France
+FRANG,Bourgogne-Franche-Comté
+FRASN,Bourgogne-Franche-Comté
+FREIG,Pays de la Loire
+FREJO,Occitanie
+FREJU,Provence-Alpes-Côte d'Azur
+FREN5,Normandie
+FRENE,Auvergne-Rhône-Alpes
+FRESN,Pays de la Loire
+FREVE,Hauts-de-France
+FROGE,Auvergne-Rhône-Alpes
+FROMA,Île-de-France
+FROME,Grand Est
+FRON5,Bourgogne-Franche-Comté
+FRONC,Grand Est
+FRONT,Occitanie
+FROUA,Grand Est
+FRUGE,Hauts-de-France
+FTAI6,Hauts-de-France
+FTAI8,Centre-Val de Loire
+FTAI9,Auvergne-Rhône-Alpes
+FTAIN,Bourgogne-Franche-Comté
+FTAN,Provence-Alpes-Côte d'Azur
+FTENI,Occitanie
+FTGIE,Auvergne-Rhône-Alpes
+FTOY,Grand Est
+FTPIN,Nouvelle-Aquitaine
+FTVIE,Unassigned
+FUGER,Auvergne-Rhône-Alpes
+FUMEL,Nouvelle-Aquitaine
+FURON,Auvergne-Rhône-Alpes
+FUSTE,Grand Est
+G.AVO,Unassigned
+G.BA5,Provence-Alpes-Côte d'Azur
+G.BAN,Auvergne-Rhône-Alpes
+G.CAI,Hauts-de-France
+G.CHE,Auvergne-Rhône-Alpes
+G.COE,Auvergne-Rhône-Alpes
+G.COL,Unassigned
+G.COT,Grand Est
+G.COU,Normandie
+G.DEN,Centre-Val de Loire
+G.GRE,Occitanie
+G.HAM,Normandie
+G.HAY,Bretagne
+G.ILE,Auvergne-Rhône-Alpes
+G.LIE,Pays de la Loire
+G.LUC,Pays de la Loire
+G.LUS,Grand Est
+G.MAR,Bourgogne-Franche-Comté
+G.MAS,Auvergne-Rhône-Alpes
+G.MO5,Occitanie
+G.MOT,Grand Est
+G.NOB,Occitanie
+G.OUC,Pays de la Loire
+G.PAR,Île-de-France
+G.QU6,Normandie
+G.QUE,Normandie
+G.RIV,Pays de la Loire
+G.SYN,Hauts-de-France
+G.VER,Auvergne-Rhône-Alpes
+G.VIO,Auvergne-Rhône-Alpes
+GABIO,Normandie
+GACE,Normandie
+GAEL,Bretagne
+GAIL6,Normandie
+GAILL,Occitanie
+GALEJ,Provence-Alpes-Côte d'Azur
+GALER,Île-de-France
+GALOR,Pays de la Loire
+GAMBE,Île-de-France
+GAMBS,Grand Est
+GAMPA,Auvergne-Rhône-Alpes
+GANDR,Grand Est
+GANGE,Occitanie
+GANIL,Normandie
+GANNA,Auvergne-Rhône-Alpes
+GANNE,Hauts-de-France
+GANTE,Normandie
+GAP,Provence-Alpes-Côte d'Azur
+GARCH,Centre-Val de Loire
+GARD6,Provence-Alpes-Côte d'Azur
+GARD7,Provence-Alpes-Côte d'Azur
+GARD9,Centre-Val de Loire
+GARDA,Provence-Alpes-Côte d'Azur
+GARDI,Occitanie
+GARDO,Auvergne-Rhône-Alpes
+GARE5,Occitanie
+GAREI,Nouvelle-Aquitaine
+GAREN,Unassigned
+GARGE,Île-de-France
+GARIB,Île-de-France
+GARIE,Nouvelle-Aquitaine
+GARRI,Occitanie
+GATEL,Auvergne-Rhône-Alpes
+GATI5,Centre-Val de Loire
+GAUC5,Hauts-de-France
+GAUCH,Nouvelle-Aquitaine
+GAUDI,Occitanie
+GAUGL,Centre-Val de Loire
+GAVE5,Auvergne-Rhône-Alpes
+GAVET,Auvergne-Rhône-Alpes
+GAVOT,Provence-Alpes-Côte d'Azur
+GAVRE,Hauts-de-France
+GAZ,Île-de-France
+GAZER,Île-de-France
+GEDRE,Occitanie
+GEISP,Grand Est
+GELLA,Centre-Val de Loire
+GEN.P,Auvergne-Rhône-Alpes
+GENAS,Auvergne-Rhône-Alpes
+GENAY,Auvergne-Rhône-Alpes
+GENET,Pays de la Loire
+GENEU,Bourgogne-Franche-Comté
+GENEV,Centre-Val de Loire
+GENI6,Auvergne-Rhône-Alpes
+GENIS,Auvergne-Rhône-Alpes
+GENIT,Île-de-France
+GENLI,Bourgogne-Franche-Comté
+GENN3,Unassigned
+GENN5,Bourgogne-Franche-Comté
+GENTI,Occitanie
+GERAR,Grand Est
+GERBA,Auvergne-Rhône-Alpes
+GERE,Auvergne-Rhône-Alpes
+GERMI,Bourgogne-Franche-Comté
+GERR5,Normandie
+GERST,Grand Est
+GERVA,Auvergne-Rhône-Alpes
+GESSE,Occitanie
+GESVR,Pays de la Loire
+GETEU,Nouvelle-Aquitaine
+GEVRE,Bourgogne-Franche-Comté
+GEX,Auvergne-Rhône-Alpes
+GIEN,Centre-Val de Loire
+GIFFR,Auvergne-Rhône-Alpes
+GIGNA,Nouvelle-Aquitaine
+GILLY,Auvergne-Rhône-Alpes
+GIMON,Occitanie
+GINES,Occitanie
+GIROM,Bourgogne-Franche-Comté
+GIRON,Grand Est
+GIROT,Auvergne-Rhône-Alpes
+GIROU,Nouvelle-Aquitaine
+GISSE,Bourgogne-Franche-Comté
+GIVET,Unassigned
+GIVOR,Auvergne-Rhône-Alpes
+GLACI,Nouvelle-Aquitaine
+GLAIR,Occitanie
+GLAND,Auvergne-Rhône-Alpes
+GLONV,Grand Est
+GLORI,Provence-Alpes-Côte d'Azur
+GOBEL,Île-de-France
+GODI5,Centre-Val de Loire
+GODIN,Occitanie
+GOETZ,Grand Est
+GOISE,Nouvelle-Aquitaine
+GOLBE,Grand Est
+GOLF5,Nouvelle-Aquitaine
+GOLFE,Occitanie
+GOLIN,Occitanie
+GONCE,Auvergne-Rhône-Alpes
+GONCO,Grand Est
+GONES,Île-de-France
+GONNE,Normandie
+GONTA,Provence-Alpes-Côte d'Azur
+GORBE,Provence-Alpes-Côte d'Azur
+GORGE,Unassigned
+GORR6,Nouvelle-Aquitaine
+GORRE,Nouvelle-Aquitaine
+GORRO,Pays de la Loire
+GOSNA,Hauts-de-France
+GOSNE,Bretagne
+GOUD5,Nouvelle-Aquitaine
+GOUDO,Nouvelle-Aquitaine
+GOULA,Pays de la Loire
+GOUR5,Occitanie
+GOUR6,Occitanie
+GOURA,Bretagne
+GOURD,Occitanie
+GOURI,Bretagne
+GOURJ,Occitanie
+GOURN,Normandie
+GOUTR,Occitanie
+GOUV5,Normandie
+GOUVI,Hauts-de-France
+GOUZO,Nouvelle-Aquitaine
+GRACI,Provence-Alpes-Côte d'Azur
+GRAFF,Grand Est
+GRAN6,Auvergne-Rhône-Alpes
+GRAN7,Île-de-France
+GRAN8,Hauts-de-France
+GRAND,Auvergne-Rhône-Alpes
+GRANG,Bourgogne-Franche-Comté
+GRANZ,Nouvelle-Aquitaine
+GRASS,Provence-Alpes-Côte d'Azur
+GRAUL,Occitanie
+GRAV5,Unassigned
+GRAVA,Auvergne-Rhône-Alpes
+GRAVE,Hauts-de-France
+GRAY,Bourgogne-Franche-Comté
+GREGY,Île-de-France
+GRENA,Auvergne-Rhône-Alpes
+GREPI,Auvergne-Rhône-Alpes
+GREVA,Hauts-de-France
+GREZI,Nouvelle-Aquitaine
+GRIBO,Centre-Val de Loire
+GRIGN,Île-de-France
+GRIL0,Unassigned
+GRILL,Unassigned
+GRIM5,Provence-Alpes-Côte d'Azur
+GRIMA,Nouvelle-Aquitaine
+GRIPO,Centre-Val de Loire
+GRIPP,Occitanie
+GRISO,Provence-Alpes-Côte d'Azur
+GROSN,Bourgogne-Franche-Comté
+GROUL,Provence-Alpes-Côte d'Azur
+GROUX,Normandie
+GRUES,Pays de la Loire
+GUARB,Hauts-de-France
+GUCHE,Occitanie
+GUEBW,Grand Est
+GUER,Bretagne
+GUER5,Bretagne
+GUER8,Provence-Alpes-Côte d'Azur
+GUERA,Pays de la Loire
+GUERE,Nouvelle-Aquitaine
+GUERI,Unassigned
+GUERL,Bretagne
+GUERS,Pays de la Loire
+GUESD,Île-de-France
+GUEU5,Bourgogne-Franche-Comté
+GUEU8,Bourgogne-Franche-Comté
+GUEUG,Bourgogne-Franche-Comté
+GUEZE,Bretagne
+GUICH,Nouvelle-Aquitaine
+GUIDE,Bretagne
+GUIG5,Île-de-France
+GUIGN,Hauts-de-France
+GUIL5,Auvergne-Rhône-Alpes
+GUILL,Provence-Alpes-Côte d'Azur
+GUINE,Île-de-France
+GUING,Bretagne
+GUNDE,Grand Est
+GUPIE,Nouvelle-Aquitaine
+GY,Bourgogne-Franche-Comté
+GYSSE,Bourgogne-Franche-Comté
+H.BOR,Île-de-France
+H.CLO,Grand Est
+H.DIE,Normandie
+H.JAC,Grand Est
+H.LOG,Hauts-de-France
+H.PAU,Bourgogne-Franche-Comté
+H.PUI,Normandie
+H.RIV,Grand Est
+H.SAN,Hauts-de-France
+H.TOU,Grand Est
+H.VER,Occitanie
+H.VIE,Hauts-de-France
+H.VIN,Hauts-de-France
+HAGET,Nouvelle-Aquitaine
+HAGU5,Grand Est
+HAGUE,Unassigned
+HALLE,Île-de-France
+HAM,Hauts-de-France
+HAMBA,Grand Est
+HANNA,Hauts-de-France
+HARC7,Île-de-France
+HARCA,Normandie
+HARDT,Grand Est
+HARGE,Île-de-France
+HARGI,Hauts-de-France
+HASTI,Nouvelle-Aquitaine
+HAUBO,Hauts-de-France
+HAUT5,Auvergne-Rhône-Alpes
+HAUT6,Auvergne-Rhône-Alpes
+HAUTE,Nouvelle-Aquitaine
+HAUTM,Hauts-de-France
+HAVR5,Unassigned
+HAVRE,Unassigned
+HAYBE,Unassigned
+HAYET,Hauts-de-France
+HAZEB,Hauts-de-France
+HEINL,Pays de la Loire
+HELEN,Occitanie
+HELLE,Hauts-de-France
+HEM,Hauts-de-France
+HEMIN,Grand Est
+HENDA,Unassigned
+HENIN,Hauts-de-France
+HENRI,Centre-Val de Loire
+HERB5,Auvergne-Rhône-Alpes
+HERB6,Bretagne
+HERBE,Unassigned
+HERBI,Pays de la Loire
+HERBL,Île-de-France
+HERI5,Bourgogne-Franche-Comté
+HERIC,Bourgogne-Franche-Comté
+HERIM,Grand Est
+HERM5,Bretagne
+HERMI,Auvergne-Rhône-Alpes
+HERRE,Grand Est
+HERS5,Hauts-de-France
+HESDI,Hauts-de-France
+HESIN,Grand Est
+HIRSI,Grand Est
+HIRSO,Hauts-de-France
+HIS,Occitanie
+HOLQU,Hauts-de-France
+HOLZM,Grand Est
+HORDA,Hauts-de-France
+HORME,Auvergne-Rhône-Alpes
+HOSPI,Occitanie
+HOSTE,Nouvelle-Aquitaine
+HOUCH,Nouvelle-Aquitaine
+HOUDE,Grand Est
+HOUDR,Grand Est
+HOURA,Nouvelle-Aquitaine
+HOURT,Nouvelle-Aquitaine
+HUBER,Normandie
+HUNIN,Grand Est
+HURTE,Hauts-de-France
+HYERE,Provence-Alpes-Côte d'Azur
+HYPER,Hauts-de-France
+I.ABE,Auvergne-Rhône-Alpes
+I.DOD,Occitanie
+I.DOU,Bourgogne-Franche-Comté
+I.ELL,Nouvelle-Aquitaine
+I.JO5,Occitanie
+I.JOU,Nouvelle-Aquitaine
+I.LON,Unassigned
+I.NAN,Pays de la Loire
+I.NAP,Grand Est
+I.POR,Provence-Alpes-Côte d'Azur
+I.STA,Unassigned
+I.TET,Occitanie
+I.VER,Auvergne-Rhône-Alpes
+ILLKI,Grand Est
+ILONS,Auvergne-Rhône-Alpes
+IMLIN,Grand Est
+IMPHY,Bourgogne-Franche-Comté
+INDRE,Pays de la Loire
+INGRA,Nouvelle-Aquitaine
+INGWI,Grand Est
+INSMI,Grand Est
+IRANG,Nouvelle-Aquitaine
+IRSID,Grand Est
+ISBE5,Hauts-de-France
+ISIGN,Normandie
+ISOL5,Provence-Alpes-Côte d'Azur
+ISOLA,Provence-Alpes-Côte d'Azur
+ISSAC,Nouvelle-Aquitaine
+ISSE,Pays de la Loire
+ISSEL,Occitanie
+ISSOI,Auvergne-Rhône-Alpes
+ISSOU,Île-de-France
+ISSY,Île-de-France
+ITTEV,Île-de-France
+IVRY5,Île-de-France
+IZERN,Auvergne-Rhône-Alpes
+IZON,Nouvelle-Aquitaine
+J.BOI,Centre-Val de Loire
+J.BRU,Occitanie
+J.CLA,Nouvelle-Aquitaine
+J.LOI,Pays de la Loire
+J.MAI,Pays de la Loire
+J.TOU,Centre-Val de Loire
+J.VIL,Bourgogne-Franche-Comté
+JACQU,Auvergne-Rhône-Alpes
+JALAN,Bourgogne-Franche-Comté
+JALIS,Occitanie
+JALLI,Auvergne-Rhône-Alpes
+JAMET,Grand Est
+JANAI,Bretagne
+JANAS,Unassigned
+JANE,Provence-Alpes-Côte d'Azur
+JARGE,Centre-Val de Loire
+JARLA,Occitanie
+JARNA,Nouvelle-Aquitaine
+JARNE,Nouvelle-Aquitaine
+JAUME,Nouvelle-Aquitaine
+JAVEL,Île-de-France
+JEUXE,Grand Est
+JOINV,Grand Est
+JONCE,Occitanie
+JONCH,Île-de-France
+JONCS,Provence-Alpes-Côte d'Azur
+JONQU,Occitanie
+JONZA,Nouvelle-Aquitaine
+JOSSE,Bretagne
+JOUDR,Grand Est
+JOUQU,Provence-Alpes-Côte d'Azur
+JOURD,Occitanie
+JOUSS,Nouvelle-Aquitaine
+JOUX,Auvergne-Rhône-Alpes
+JOUY,Île-de-France
+JUINE,Île-de-France
+JUMEA,Nouvelle-Aquitaine
+JUNGW,Grand Est
+JUNIA,Nouvelle-Aquitaine
+JURAN,Nouvelle-Aquitaine
+JUSSA,Auvergne-Rhône-Alpes
+JUSSE,Bourgogne-Franche-Comté
+JUSTI,Centre-Val de Loire
+K.LEL,Occitanie
+KEMBS,Grand Est
+KERAN,Bretagne
+KERBA,Grand Est
+KERBI,Bretagne
+KERBO,Bretagne
+KERHE,Unassigned
+KERHU,Bretagne
+KERL5,Bretagne
+KERLI,Bretagne
+KERLO,Unassigned
+KEROL,Bretagne
+KIR,Bourgogne-Franche-Comté
+KUHL5,Pays de la Loire
+KUNHE,Grand Est
+L.ATH,Nouvelle-Aquitaine
+L.BAL,Occitanie
+L.BAR,Grand Est
+L.BEU,Centre-Val de Loire
+L.CAR,Unassigned
+L.CE1,Nouvelle-Aquitaine
+L.CE2,Occitanie
+L.CHA,Hauts-de-France
+L.DEL,Hauts-de-France
+L.INA,Occitanie
+L.MON,Auvergne-Rhône-Alpes
+L.MOR,Auvergne-Rhône-Alpes
+L.NOI,Grand Est
+L.NTD,Unassigned
+L.OO,Occitanie
+L.OR,Pays de la Loire
+L.PR5,Grand Est
+L.SAU,Bourgogne-Franche-Comté
+L.VIE,Occitanie
+L.VOL,Grand Est
+LABA5,Occitanie
+LABAR,Nouvelle-Aquitaine
+LABO5,Nouvelle-Aquitaine
+LABOU,Nouvelle-Aquitaine
+LABRU,Occitanie
+LACAB,Occitanie
+LACAN,Nouvelle-Aquitaine
+LACAU,Occitanie
+LACQ,Nouvelle-Aquitaine
+LACQ5,Nouvelle-Aquitaine
+LADOU,Auvergne-Rhône-Alpes
+LAFA5,Auvergne-Rhône-Alpes
+LAFFI,Occitanie
+LAFIG,Occitanie
+LAFOU,Occitanie
+LAFOX,Nouvelle-Aquitaine
+LAGAF,Auvergne-Rhône-Alpes
+LAGUI,Occitanie
+LAIRO,Normandie
+LAITI,Nouvelle-Aquitaine
+LALBE,Occitanie
+LALIN,Nouvelle-Aquitaine
+LAMA5,Nouvelle-Aquitaine
+LAMAR,Île-de-France
+LAMAS,Auvergne-Rhône-Alpes
+LAMAT,Nouvelle-Aquitaine
+LAMB5,Provence-Alpes-Côte d'Azur
+LAMBA,Bretagne
+LAMO5,Hauts-de-France
+LAMOR,Île-de-France
+LAMOT,Nouvelle-Aquitaine
+LANAU,Auvergne-Rhône-Alpes
+LANCE,Auvergne-Rhône-Alpes
+LAND5,Grand Est
+LAND6,Centre-Val de Loire
+LANDE,Bretagne
+LANDI,Bretagne
+LANDR,Grand Est
+LANE6,Grand Est
+LANEU,Grand Est
+LANFA,Bretagne
+LANG5,Bretagne
+LANG6,Île-de-France
+LANG8,Occitanie
+LANG9,Grand Est
+LANGE,Auvergne-Rhône-Alpes
+LANGO,Nouvelle-Aquitaine
+LANIN,Bretagne
+LANLP,Unassigned
+LANME,Bretagne
+LANN5,Occitanie
+LANN6,Bretagne
+LANNE,Occitanie
+LANNI,Bretagne
+LANOB,Nouvelle-Aquitaine
+LANSL,Auvergne-Rhône-Alpes
+LANTO,Nouvelle-Aquitaine
+LAON,Hauts-de-France
+LAOS,Île-de-France
+LAPAR,Occitanie
+LAPOU,Grand Est
+LARCA,Centre-Val de Loire
+LARDI,Occitanie
+LARGU,Provence-Alpes-Côte d'Azur
+LAROC,Bourgogne-Franche-Comté
+LARRI,Île-de-France
+LASSA,Pays de la Loire
+LASSO,Unassigned
+LATEN,Hauts-de-France
+LAUNA,Normandie
+LAUR5,Occitanie
+LAURA,Occitanie
+LAURE,Provence-Alpes-Côte d'Azur
+LAURO,Unassigned
+LAUSS,Auvergne-Rhône-Alpes
+LAUTE,Grand Est
+LAUZ5,Auvergne-Rhône-Alpes
+LAUZE,Occitanie
+LAVA2,Nouvelle-Aquitaine
+LAVA5,Provence-Alpes-Côte d'Azur
+LAVAG,Occitanie
+LAVAL,Pays de la Loire
+LAVAN,Provence-Alpes-Côte d'Azur
+LAVAU,Nouvelle-Aquitaine
+LAVE5,Grand Est
+LAVEL,Occitanie
+LAVER,Unassigned
+LAVEY,Occitanie
+LAVIL,Occitanie
+LAVO5,Grand Est
+LAVOI,Bourgogne-Franche-Comté
+LAXOU,Grand Est
+LAZAR,Nouvelle-Aquitaine
+LAZER,Provence-Alpes-Côte d'Azur
+LECER,Normandie
+LECHE,Auvergne-Rhône-Alpes
+LECTO,Occitanie
+LEDAR,Occitanie
+LEDEN,Occitanie
+LEGE,Nouvelle-Aquitaine
+LEGUE,Occitanie
+LEGUG,Nouvelle-Aquitaine
+LENCL,Nouvelle-Aquitaine
+LENT5,Auvergne-Rhône-Alpes
+LERE,Occitanie
+LEROU,Grand Est
+LESCA,Nouvelle-Aquitaine
+LESNE,Bretagne
+LESP5,Nouvelle-Aquitaine
+LESP6,Occitanie
+LESPA,Nouvelle-Aquitaine
+LESQU,Occitanie
+LESTA,Hauts-de-France
+LESTE,Occitanie
+LESTI,Centre-Val de Loire
+LESTR,Hauts-de-France
+LESUR,Île-de-France
+LEVAL,Île-de-France
+LEVRO,Centre-Val de Loire
+LEYGU,Auvergne-Rhône-Alpes
+LEZIG,Occitanie
+LIART,Grand Est
+LICAU,Nouvelle-Aquitaine
+LICES,Provence-Alpes-Côte d'Azur
+LIEBH,Unassigned
+LIEBV,Bourgogne-Franche-Comté
+LIERS,Île-de-France
+LIESS,Île-de-France
+LIEUS,Île-de-France
+LIEVE,Auvergne-Rhône-Alpes
+LIGNA,Auvergne-Rhône-Alpes
+LIMAN,Provence-Alpes-Côte d'Azur
+LIMAY,Île-de-France
+LIMEU,Hauts-de-France
+LIMO5,Occitanie
+LIMON,Auvergne-Rhône-Alpes
+LIMOU,Auvergne-Rhône-Alpes
+LINGO,Provence-Alpes-Côte d'Azur
+LINGU,Grand Est
+LINXE,Nouvelle-Aquitaine
+LIORA,Auvergne-Rhône-Alpes
+LISIE,Normandie
+LISLE,Hauts-de-France
+LISLO,Bretagne
+LIVAR,Normandie
+LIVET,Unassigned
+LIVIE,Occitanie
+LIZY,Île-de-France
+LOCHE,Centre-Val de Loire
+LOCMA,Bretagne
+LOCQU,Bretagne
+LODEV,Occitanie
+LOGEL,Grand Est
+LOGER,Normandie
+LOGES,Île-de-France
+LOING,Île-de-France
+LOISI,Normandie
+LOMBA,Centre-Val de Loire
+LONCA,Nouvelle-Aquitaine
+LONG4,Île-de-France
+LONG5,Grand Est
+LONG6,Auvergne-Rhône-Alpes
+LONG7,Pays de la Loire
+LONG8,Pays de la Loire
+LONG9,Hauts-de-France
+LONGA,Occitanie
+LONGC,Nouvelle-Aquitaine
+LONGE,Unassigned
+LONGU,Hauts-de-France
+LONNY,Grand Est
+LORIE,Bretagne
+LORIO,Auvergne-Rhône-Alpes
+LORRI,Centre-Val de Loire
+LOSCO,Bretagne
+LOTHI,Centre-Val de Loire
+LOUBE,Nouvelle-Aquitaine
+LOUD5,Occitanie
+LOUD6,Auvergne-Rhône-Alpes
+LOUD7,Occitanie
+LOUD8,Occitanie
+LOUDE,Bretagne
+LOUDU,Nouvelle-Aquitaine
+LOUE,Pays de la Loire
+LOUHA,Bourgogne-Franche-Comté
+LOUIS,Pays de la Loire
+LOUP,Provence-Alpes-Côte d'Azur
+LOUPE,Normandie
+LOUPI,Occitanie
+LOURD,Occitanie
+LOUSL,Occitanie
+LOUV5,Normandie
+LOUVE,Île-de-France
+LUBER,Nouvelle-Aquitaine
+LUC,Occitanie
+LUCON,Pays de la Loire
+LUCY,Bourgogne-Franche-Comté
+LUDE,Pays de la Loire
+LUDRE,Grand Est
+LUGRA,Occitanie
+LUISA,Centre-Val de Loire
+LUMBR,Hauts-de-France
+LUMES,Grand Est
+LUMIE,Bourgogne-Franche-Comté
+LUNES,Occitanie
+LURE,Bourgogne-Franche-Comté
+LUSIG,Nouvelle-Aquitaine
+LUSSA,Nouvelle-Aquitaine
+LUTTE,Grand Est
+LUTZE,Grand Est
+LUXE,Nouvelle-Aquitaine
+LUXEU,Bourgogne-Franche-Comté
+LUXEY,Nouvelle-Aquitaine
+LUZ,Occitanie
+LUZE,Nouvelle-Aquitaine
+LUZEC,Occitanie
+LUZEN,Unassigned
+LUZI1,Occitanie
+LUZI2,Occitanie
+M.ACH,Pays de la Loire
+M.ALL,Auvergne-Rhône-Alpes
+M.BL5,Bretagne
+M.BL6,Auvergne-Rhône-Alpes
+M.BLA,Occitanie
+M.BRU,Occitanie
+M.CAM,Grand Est
+M.CAR,Unassigned
+M.FAM,Hauts-de-France
+M.FEN,Nouvelle-Aquitaine
+M.GOU,Provence-Alpes-Côte d'Azur
+M.HER,Nouvelle-Aquitaine
+M.JUL,Hauts-de-France
+M.LAN,Auvergne-Rhône-Alpes
+M.LAR,Nouvelle-Aquitaine
+M.LIL,Hauts-de-France
+M.LOU,Grand Est
+M.MA5,Unassigned
+M.MAR,Nouvelle-Aquitaine
+M.MAU,Occitanie
+M.MIC,Occitanie
+M.MO5,Île-de-France
+M.MOR,Île-de-France
+M.NIC,Hauts-de-France
+M.NOU,Occitanie
+M.PIN,Grand Est
+M.POI,Provence-Alpes-Côte d'Azur
+M.PON,Unassigned
+M.ROI,Grand Est
+M.SEI,Grand Est
+M.SEN,Nouvelle-Aquitaine
+M.SER,Auvergne-Rhône-Alpes
+M.TER,Hauts-de-France
+M.VEY,Auvergne-Rhône-Alpes
+M.VIR,Nouvelle-Aquitaine
+MAC.S,Bourgogne-Franche-Comté
+MACHE,Pays de la Loire
+MACON,Bourgogne-Franche-Comté
+MADE5,Auvergne-Rhône-Alpes
+MADE6,Grand Est
+MADIE,Occitanie
+MADRO,Centre-Val de Loire
+MAGDE,Nouvelle-Aquitaine
+MAGEN,Île-de-France
+MAGN5,Nouvelle-Aquitaine
+MAGNA,Île-de-France
+MAGNY,Bourgogne-Franche-Comté
+MAGRE,Nouvelle-Aquitaine
+MAICH,Bourgogne-Franche-Comté
+MAIE,Hauts-de-France
+MAIGN,Hauts-de-France
+MAILL,Bourgogne-Franche-Comté
+MAINT,Centre-Val de Loire
+MAINV,Centre-Val de Loire
+MALA6,Île-de-France
+MALA7,Unassigned
+MALA8,Hauts-de-France
+MALAD,Grand Est
+MALAG,Centre-Val de Loire
+MALAU,Normandie
+MALE5,Bretagne
+MALEB,Provence-Alpes-Côte d'Azur
+MALEC,Île-de-France
+MALES,Centre-Val de Loire
+MALGO,Auvergne-Rhône-Alpes
+MALIN,Auvergne-Rhône-Alpes
+MALL5,Provence-Alpes-Côte d'Azur
+MALL6,Provence-Alpes-Côte d'Azur
+MALLE,Provence-Alpes-Côte d'Azur
+MALMA,Normandie
+MALPL,Unassigned
+MAMBE,Bourgogne-Franche-Comté
+MAME,Nouvelle-Aquitaine
+MAMER,Pays de la Loire
+MANCI,Occitanie
+MANDA,Hauts-de-France
+MANEG,Bretagne
+MANO5,Hauts-de-France
+MANO7,Nouvelle-Aquitaine
+MANOI,Normandie
+MANOM,Grand Est
+MANOS,Provence-Alpes-Côte d'Azur
+MANSA,Nouvelle-Aquitaine
+MANSL,Nouvelle-Aquitaine
+MARA5,Auvergne-Rhône-Alpes
+MARA7,Nouvelle-Aquitaine
+MARA8,Île-de-France
+MARAI,Normandie
+MARC5,Nouvelle-Aquitaine
+MARC6,Bourgogne-Franche-Comté
+MARC7,Île-de-France
+MARC8,Occitanie
+MARCE,Auvergne-Rhône-Alpes
+MARCH,Centre-Val de Loire
+MARCI,Bourgogne-Franche-Comté
+MARCK,Grand Est
+MARCL,Unassigned
+MARCO,Occitanie
+MARDE,Grand Est
+MAREG,Nouvelle-Aquitaine
+MAREN,Unassigned
+MARG5,Île-de-France
+MARGA,Nouvelle-Aquitaine
+MARGE,Occitanie
+MARGU,Île-de-France
+MARI6,Auvergne-Rhône-Alpes
+MARIA,Île-de-France
+MARIE,Unassigned
+MARIG,Unassigned
+MARIT,Normandie
+MARIV,Hauts-de-France
+MARL5,Grand Est
+MARL6,Grand Est
+MARL7,Auvergne-Rhône-Alpes
+MARL8,Grand Est
+MARLE,Hauts-de-France
+MARM5,Nouvelle-Aquitaine
+MARMA,Centre-Val de Loire
+MARN5,Normandie
+MARNA,Grand Est
+MARNI,Auvergne-Rhône-Alpes
+MAROL,Grand Est
+MAROU,Bretagne
+MARSA,Nouvelle-Aquitaine
+MARSI,Nouvelle-Aquitaine
+MARTR,Île-de-France
+MARTY,Bretagne
+MARZA,Bretagne
+MARZE,Occitanie
+MASEV,Grand Est
+MASQU,Nouvelle-Aquitaine
+MASSA,Occitanie
+MASSI,Auvergne-Rhône-Alpes
+MASSY,Île-de-France
+MASTA,Hauts-de-France
+MATEL,Auvergne-Rhône-Alpes
+MATHA,Nouvelle-Aquitaine
+MATRA,Occitanie
+MATZ,Hauts-de-France
+MAUBE,Hauts-de-France
+MAUBO,Nouvelle-Aquitaine
+MAUDU,Bretagne
+MAUGE,Pays de la Loire
+MAUGU,Occitanie
+MAULE,Nouvelle-Aquitaine
+MAUPA,Grand Est
+MAURE,Nouvelle-Aquitaine
+MAURI,Auvergne-Rhône-Alpes
+MAURS,Auvergne-Rhône-Alpes
+MAUZ5,Unassigned
+MAUZA,Nouvelle-Aquitaine
+MAYEN,Pays de la Loire
+MAYET,Nouvelle-Aquitaine
+MAZAM,Occitanie
+MAZAR,Unassigned
+MAZE,Pays de la Loire
+MAZIE,Centre-Val de Loire
+MAZIN,Hauts-de-France
+MAZUR,Grand Est
+MEAUX,Île-de-France
+MEDE,Provence-Alpes-Côte d'Azur
+MEDER,Île-de-France
+MEDIT,Occitanie
+MEDOC,Nouvelle-Aquitaine
+MEDOQ,Nouvelle-Aquitaine
+MEES,Provence-Alpes-Côte d'Azur
+MEGEV,Auvergne-Rhône-Alpes
+MEHUN,Centre-Val de Loire
+MEINA,Grand Est
+MELGV,Bretagne
+MELI5,Bourgogne-Franche-Comté
+MELLE,Nouvelle-Aquitaine
+MELUN,Île-de-France
+MENDE,Occitanie
+MENES,Nouvelle-Aquitaine
+MENTO,Provence-Alpes-Côte d'Azur
+MENUE,Normandie
+MENUI,Auvergne-Rhône-Alpes
+MENUS,Île-de-France
+MERAN,Île-de-France
+MERCI,Auvergne-Rhône-Alpes
+MERCU,Occitanie
+MERDR,Bretagne
+MERE5,Occitanie
+MEREN,Occitanie
+MERIE,Centre-Val de Loire
+MERIG,Nouvelle-Aquitaine
+MERIQ,Provence-Alpes-Côte d'Azur
+MERLA,Pays de la Loire
+MERMO,Auvergne-Rhône-Alpes
+MERON,Pays de la Loire
+MERS,Unassigned
+MERVA,Bourgogne-Franche-Comté
+MERY,Île-de-France
+MESLA,Pays de la Loire
+MESNA,Bourgogne-Franche-Comté
+MESNI,Normandie
+MESS5,Grand Est
+MESSA,Bretagne
+MESSE,Grand Est
+MESSI,Auvergne-Rhône-Alpes
+METHA,Provence-Alpes-Côte d'Azur
+METZ6,Grand Est
+MEUN5,Nouvelle-Aquitaine
+MEUNI,Auvergne-Rhône-Alpes
+MEURS,Bourgogne-Franche-Comté
+MEXIM,Auvergne-Rhône-Alpes
+MEXY,Grand Est
+MEYLA,Auvergne-Rhône-Alpes
+MEYME,Occitanie
+MEYRA,Provence-Alpes-Côte d'Azur
+MEYSS,Auvergne-Rhône-Alpes
+MEYTH,Auvergne-Rhône-Alpes
+MEYZI,Auvergne-Rhône-Alpes
+MEZE5,Île-de-France
+MEZEA,Nouvelle-Aquitaine
+MEZEL,Auvergne-Rhône-Alpes
+MEZIN,Nouvelle-Aquitaine
+MEZOT,Grand Est
+MIDOU,Occitanie
+MIEGE,Nouvelle-Aquitaine
+MIGEN,Bourgogne-Franche-Comté
+MIGNA,Nouvelle-Aquitaine
+MIGOE,Nouvelle-Aquitaine
+MILL5,Auvergne-Rhône-Alpes
+MILLA,Occitanie
+MILLE,Grand Est
+MIMI5,Unassigned
+MIMIZ,Nouvelle-Aquitaine
+MINIE,Nouvelle-Aquitaine
+MINIH,Bretagne
+MINIM,Nouvelle-Aquitaine
+MIOLL,Occitanie
+MIONN,Auvergne-Rhône-Alpes
+MIONS,Auvergne-Rhône-Alpes
+MIRA6,Provence-Alpes-Côte d'Azur
+MIRAI,Nouvelle-Aquitaine
+MIRAM,Provence-Alpes-Côte d'Azur
+MIRAN,Occitanie
+MIREB,Nouvelle-Aquitaine
+MIREC,Grand Est
+MIREP,Occitanie
+MIREV,Occitanie
+MIRIB,Auvergne-Rhône-Alpes
+MIST5,Occitanie
+MIZOE,Auvergne-Rhône-Alpes
+MOFFL,Hauts-de-France
+MOHET,Hauts-de-France
+MOHON,Grand Est
+MOIMO,Île-de-France
+MOING,Auvergne-Rhône-Alpes
+MOIRA,Auvergne-Rhône-Alpes
+MOIS5,Auvergne-Rhône-Alpes
+MOISE,Île-de-France
+MOISS,Occitanie
+MOISY,Centre-Val de Loire
+MOLE,Nouvelle-Aquitaine
+MOLE5,Provence-Alpes-Côte d'Azur
+MOLIE,Pays de la Loire
+MOLIN,Bourgogne-Franche-Comté
+MOLL5,Auvergne-Rhône-Alpes
+MOLLE,Bourgogne-Franche-Comté
+MOLSH,Grand Est
+MONAS,Occitanie
+MONCO,Nouvelle-Aquitaine
+MOND5,Grand Est
+MONDI,Nouvelle-Aquitaine
+MONDO,Centre-Val de Loire
+MONDR,Occitanie
+MONLO,Occitanie
+MONNA,Centre-Val de Loire
+MONNE,Auvergne-Rhône-Alpes
+MONT5,Nouvelle-Aquitaine
+MORA6,Nouvelle-Aquitaine
+MORB5,Île-de-France
+MORBR,Île-de-France
+MORC5,Nouvelle-Aquitaine
+MORCH,Hauts-de-France
+MOREA,Occitanie
+MORES,Auvergne-Rhône-Alpes
+MOREZ,Bourgogne-Franche-Comté
+MORGE,Grand Est
+MORIG,Île-de-France
+MORIH,Bretagne
+MORIN,Nouvelle-Aquitaine
+MORLA,Bretagne
+MORT5,Hauts-de-France
+MORTA,Normandie
+MORTE,Normandie
+MORU,Hauts-de-France
+MORVE,Île-de-France
+MORZI,Auvergne-Rhône-Alpes
+MOTT5,Occitanie
+MOTT6,Unassigned
+MOTTA,Auvergne-Rhône-Alpes
+MOTTE,Hauts-de-France
+MOTZ,Auvergne-Rhône-Alpes
+MOUCH,Auvergne-Rhône-Alpes
+MOUGI,Provence-Alpes-Côte d'Azur
+MOUGU,Nouvelle-Aquitaine
+MOUIL,Occitanie
+MOUIS,Provence-Alpes-Côte d'Azur
+MOUL5,Nouvelle-Aquitaine
+MOUL8,Île-de-France
+MOUL9,Occitanie
+MOULA,Grand Est
+MOULI,Grand Est
+MOUNE,Occitanie
+MOUR5,Auvergne-Rhône-Alpes
+MOURE,Bourgogne-Franche-Comté
+MOUS5,Centre-Val de Loire
+MOUS6,Occitanie
+MOUSS,Nouvelle-Aquitaine
+MOUT5,Nouvelle-Aquitaine
+MOUTH,Bourgogne-Franche-Comté
+MOUTI,Auvergne-Rhône-Alpes
+MOUX,Bourgogne-Franche-Comté
+MOUZ5,Grand Est
+MOUZE,Pays de la Loire
+MOUZO,Grand Est
+MOYEN,Grand Est
+MQION,Hauts-de-France
+MQIS,Nouvelle-Aquitaine
+MQIS5,Nouvelle-Aquitaine
+MQISA,Provence-Alpes-Côte d'Azur
+MQISE,Hauts-de-France
+MRGUE,Provence-Alpes-Côte d'Azur
+MRLLA,Nouvelle-Aquitaine
+MRLOQ,Nouvelle-Aquitaine
+MRNER,Nouvelle-Aquitaine
+MRNIE,Provence-Alpes-Côte d'Azur
+MTAG5,Provence-Alpes-Côte d'Azur
+MTAGN,Bourgogne-Franche-Comté
+MTAHU,Occitanie
+MTALE,Île-de-France
+MTALI,Auvergne-Rhône-Alpes
+MTAU5,Occitanie
+MTAUB,Occitanie
+MTBAR,Bourgogne-Franche-Comté
+MTBOU,Bourgogne-Franche-Comté
+MTBRO,Nouvelle-Aquitaine
+MTBRU,Unassigned
+MTCRO,Hauts-de-France
+MTDAU,Provence-Alpes-Côte d'Azur
+MTELI,Auvergne-Rhône-Alpes
+MTEND,Nouvelle-Aquitaine
+MTENV,Auvergne-Rhône-Alpes
+MTER5,Île-de-France
+MTERE,Île-de-France
+MTEZ5,Occitanie
+MTEZI,Occitanie
+MTFER,Auvergne-Rhône-Alpes
+MTFO5,Bretagne
+MTFOR,Île-de-France
+MTGRO,Occitanie
+MTGUY,Nouvelle-Aquitaine
+MTIGN,Nouvelle-Aquitaine
+MTIVI,Normandie
+MTJAY,Île-de-France
+MTJOY,Auvergne-Rhône-Alpes
+MTLAU,Occitanie
+MTLU5,Pays de la Loire
+MTLUC,Auvergne-Rhône-Alpes
+MTLUE,Auvergne-Rhône-Alpes
+MTMAR,Provence-Alpes-Côte d'Azur
+MTMEL,Auvergne-Rhône-Alpes
+MTMIR,Hauts-de-France
+MTMOR,Nouvelle-Aquitaine
+MTOIR,Pays de la Loire
+MTOIS,Grand Est
+MTPAO,Occitanie
+MTPE5,Occitanie
+MTPEL,Occitanie
+MTPEZ,Auvergne-Rhône-Alpes
+MTREA,Occitanie
+MTREJ,Occitanie
+MTREU,Pays de la Loire
+MTREV,Auvergne-Rhône-Alpes
+MTRI5,Centre-Val de Loire
+MTRIC,Auvergne-Rhône-Alpes
+MTRON,Auvergne-Rhône-Alpes
+MTTES,Île-de-France
+MTVAU,Auvergne-Rhône-Alpes
+MTVER,Auvergne-Rhône-Alpes
+MTVIC,Auvergne-Rhône-Alpes
+MUETT,Île-de-France
+MULHO,Grand Est
+MUNST,Grand Est
+MURE5,Auvergne-Rhône-Alpes
+MUREA,Île-de-France
+MUREM,Grand Est
+MURET,Occitanie
+MURIG,Grand Est
+MUSSA,Centre-Val de Loire
+N.BRI,Auvergne-Rhône-Alpes
+N.ERD,Pays de la Loire
+N.GEO,Bourgogne-Franche-Comté
+N.GRA,Normandie
+N.MAI,Grand Est
+N.MAR,Île-de-France
+N.ROT,Normandie
+N.SE1,Unassigned
+N.SE2,Unassigned
+N.SEI,Grand Est
+N.SEU,Grand Est
+N.USS,Nouvelle-Aquitaine
+NADIE,Occitanie
+NAINT,Nouvelle-Aquitaine
+NANGI,Île-de-France
+NANT5,Auvergne-Rhône-Alpes
+NANTE,Île-de-France
+NAOUT,Nouvelle-Aquitaine
+NARBO,Occitanie
+NATI3,Île-de-France
+NAUCL,Nouvelle-Aquitaine
+NAUSS,Occitanie
+NAVA5,Nouvelle-Aquitaine
+NAVES,Nouvelle-Aquitaine
+NAVIL,Bourgogne-Franche-Comté
+NAY,Nouvelle-Aquitaine
+NEGRE,Unassigned
+NEMOU,Île-de-France
+NENEZ,Bretagne
+NENTI,Occitanie
+NEOUL,Provence-Alpes-Côte d'Azur
+NERAC,Nouvelle-Aquitaine
+NERON,Centre-Val de Loire
+NESLE,Hauts-de-France
+NEUBO,Normandie
+NEUF5,Normandie
+NEULI,Auvergne-Rhône-Alpes
+NEUSS,Auvergne-Rhône-Alpes
+NEUVY,Centre-Val de Loire
+NEVER,Bourgogne-Franche-Comté
+NEY,Île-de-France
+NICER,Nouvelle-Aquitaine
+NIME6,Occitanie
+NIMES,Occitanie
+NISSA,Occitanie
+NOAIL,Nouvelle-Aquitaine
+NOGEN,Hauts-de-France
+NOILH,Occitanie
+NOISY,Île-de-France
+NONAN,Centre-Val de Loire
+NONTR,Nouvelle-Aquitaine
+NOORD,Hauts-de-France
+NORSO,Grand Est
+NOUAU,Occitanie
+NOUET,Grand Est
+NOURO,Île-de-France
+NOUZO,Grand Est
+NOVIL,Bourgogne-Franche-Comté
+NOVIO,Île-de-France
+NOYA5,Bretagne
+NOYAL,Hauts-de-France
+NOYON,Hauts-de-France
+NOZAY,Île-de-France
+NUITS,Bourgogne-Franche-Comté
+NYONS,Auvergne-Rhône-Alpes
+O.CEI,Île-de-France
+O.CHA,Occitanie
+OBER5,Grand Est
+OBERN,Grand Est
+OCHE,Auvergne-Rhône-Alpes
+ODET,Bretagne
+ODON,Normandie
+OIRY,Grand Est
+OLETT,Occitanie
+OLIVE,Occitanie
+OLLAI,Île-de-France
+OLLIE,Auvergne-Rhône-Alpes
+OLONN,Pays de la Loire
+ONDES,Occitanie
+ONZAI,Centre-Val de Loire
+ORAIS,Provence-Alpes-Côte d'Azur
+ORAN5,Grand Est
+ORAN6,Provence-Alpes-Côte d'Azur
+ORANG,Nouvelle-Aquitaine
+ORBEC,Normandie
+ORCH5,Centre-Val de Loire
+ORCHI,Hauts-de-France
+ORELL,Auvergne-Rhône-Alpes
+ORGEI,Occitanie
+ORGER,Centre-Val de Loire
+ORLEA,Centre-Val de Loire
+ORLU,Occitanie
+ORLY,Île-de-France
+ORME5,Île-de-France
+ORMES,Grand Est
+ORNA5,Île-de-France
+ORNAN,Bourgogne-Franche-Comté
+ORSON,Île-de-France
+ORTH5,Nouvelle-Aquitaine
+ORVAU,Pays de la Loire
+OSERA,Île-de-France
+OSNES,Grand Est
+OSTRO,Hauts-de-France
+OTTMA,Grand Est
+OTTMH,Unassigned
+OUDON,Bretagne
+OULLI,Auvergne-Rhône-Alpes
+OUTRE,Unassigned
+OXYGA,Grand Est
+OYONN,Auvergne-Rhône-Alpes
+OZ,Auvergne-Rhône-Alpes
+OZON,Auvergne-Rhône-Alpes
+P.ABB,Bretagne
+P.AGE,Nouvelle-Aquitaine
+P.AND,Auvergne-Rhône-Alpes
+P.ARA,Provence-Alpes-Côte d'Azur
+P.ARC,Normandie
+P.AU5,Normandie
+P.BE5,Bourgogne-Franche-Comté
+P.BEN,Auvergne-Rhône-Alpes
+P.BER,Bourgogne-Franche-Comté
+P.BO8,Bourgogne-Franche-Comté
+P.BOI,Île-de-France
+P.BOR,Occitanie
+P.BOU,Unassigned
+P.BRI,Unassigned
+P.CAM,Nouvelle-Aquitaine
+P.CAS,Nouvelle-Aquitaine
+P.CHA,Nouvelle-Aquitaine
+P.CHR,Bretagne
+P.CL5,Auvergne-Rhône-Alpes
+P.COR,Auvergne-Rhône-Alpes
+P.DEM,Occitanie
+P.ELL,Nouvelle-Aquitaine
+P.ESC,Auvergne-Rhône-Alpes
+P.ETI,Provence-Alpes-Côte d'Azur
+P.EVE,Auvergne-Rhône-Alpes
+P.FOR,Hauts-de-France
+P.FOS,Provence-Alpes-Côte d'Azur
+P.GAS,Île-de-France
+P.GEN,Pays de la Loire
+P.GR5,Provence-Alpes-Côte d'Azur
+P.GRA,Occitanie
+P.GUI,Auvergne-Rhône-Alpes
+P.HA5,Bretagne
+P.HAL,Grand Est
+P.HER,Auvergne-Rhône-Alpes
+P.JE5,Normandie
+P.JEA,Provence-Alpes-Côte d'Azur
+P.JER,Normandie
+P.LAC,Île-de-France
+P.LAN,Provence-Alpes-Côte d'Azur
+P.LAV,Auvergne-Rhône-Alpes
+P.LIG,Auvergne-Rhône-Alpes
+P.MAC,Pays de la Loire
+P.ME5,Hauts-de-France
+P.MED,Nouvelle-Aquitaine
+P.MEE,Île-de-France
+P.MEN,Auvergne-Rhône-Alpes
+P.MIT,Nouvelle-Aquitaine
+P.MOE,Auvergne-Rhône-Alpes
+P.MON,Bourgogne-Franche-Comté
+P.MOU,Grand Est
+P.NOU,Occitanie
+P.ORG,Provence-Alpes-Côte d'Azur
+P.PAI,Pays de la Loire
+P.PET,Grand Est
+P.REI,Occitanie
+P.RH5,Grand Est
+P.RHI,Grand Est
+P.RHO,Provence-Alpes-Côte d'Azur
+P.RIV,Occitanie
+P.RO5,Auvergne-Rhône-Alpes
+P.RO6,Auvergne-Rhône-Alpes
+P.ROI,Bourgogne-Franche-Comté
+P.ROL,Unassigned
+P.ROS,Unassigned
+P.ROU,Bretagne
+P.ROY,Auvergne-Rhône-Alpes
+P.SAC,Bourgogne-Franche-Comté
+P.SAL,Auvergne-Rhône-Alpes
+P.SAM,Hauts-de-France
+P.SAO,Bourgogne-Franche-Comté
+P.SE5,Auvergne-Rhône-Alpes
+P.SEP,Normandie
+P.SI1,Grand Est
+P.SI4,Grand Est
+P.SIM,Occitanie
+P.TEM,Auvergne-Rhône-Alpes
+P.TER,Grand Est
+P.TRI,Occitanie
+P.VAR,Provence-Alpes-Côte d'Azur
+P.VAU,Bourgogne-Franche-Comté
+P.VEY,Auvergne-Rhône-Alpes
+P.VIL,Grand Est
+P.VIZ,Auvergne-Rhône-Alpes
+PACY,Bourgogne-Franche-Comté
+PAGAN,Provence-Alpes-Côte d'Azur
+PAILL,Nouvelle-Aquitaine
+PAIMB,Pays de la Loire
+PAIMP,Unassigned
+PAIRE,Auvergne-Rhône-Alpes
+PALA5,Île-de-France
+PALAI,Nouvelle-Aquitaine
+PALAM,Occitanie
+PALAN,Nouvelle-Aquitaine
+PALAY,Occitanie
+PALEN,Bourgogne-Franche-Comté
+PALIS,Auvergne-Rhône-Alpes
+PALLI,Unassigned
+PALLU,Pays de la Loire
+PALUD,Auvergne-Rhône-Alpes
+PALUE,Unassigned
+PALUN,Provence-Alpes-Côte d'Azur
+PAMI5,Occitanie
+PAMIE,Occitanie
+PANIS,Occitanie
+PANNE,Bourgogne-Franche-Comté
+PAPAU,Nouvelle-Aquitaine
+PAPIN,Auvergne-Rhône-Alpes
+PARAD,Centre-Val de Loire
+PARC,Pays de la Loire
+PARDI,Nouvelle-Aquitaine
+PAREN,Nouvelle-Aquitaine
+PARIL,Auvergne-Rhône-Alpes
+PARIS,Auvergne-Rhône-Alpes
+PARIZ,Bourgogne-Franche-Comté
+PAROY,Bourgogne-Franche-Comté
+PARTH,Nouvelle-Aquitaine
+PAS,Bretagne
+PASIP,Île-de-France
+PASQU,Île-de-France
+PASSA,Provence-Alpes-Côte d'Azur
+PASSY,Auvergne-Rhône-Alpes
+PASTO,Occitanie
+PATIS,Hauts-de-France
+PATOU,Île-de-France
+PATRA,Nouvelle-Aquitaine
+PATUR,Auvergne-Rhône-Alpes
+PAU,Nouvelle-Aquitaine
+PAU.E,Nouvelle-Aquitaine
+PAU.N,Nouvelle-Aquitaine
+PAUDY,Centre-Val de Loire
+PAUI5,Nouvelle-Aquitaine
+PAUIL,Nouvelle-Aquitaine
+PAYOL,Centre-Val de Loire
+PEBER,Occitanie
+PECQ,Île-de-France
+PECY,Île-de-France
+PEILL,Provence-Alpes-Côte d'Azur
+PELAD,Provence-Alpes-Côte d'Azur
+PELIS,Occitanie
+PELOU,Centre-Val de Loire
+PELTR,Grand Est
+PENC5,Île-de-France
+PENCR,Bretagne
+PENHA,Bretagne
+PENL5,Unassigned
+PENLY,Unassigned
+PENNE,Provence-Alpes-Côte d'Azur
+PERCH,Occitanie
+PERCY,Normandie
+PEREL,Auvergne-Rhône-Alpes
+PERIE,Normandie
+PERIZ,Hauts-de-France
+PERNE,Hauts-de-France
+PERON,Hauts-de-France
+PERPI,Occitanie
+PERQU,Nouvelle-Aquitaine
+PERR5,Unassigned
+PERR6,Bretagne
+PERR7,Bourgogne-Franche-Comté
+PERRA,Auvergne-Rhône-Alpes
+PERRE,Île-de-France
+PERRI,Bourgogne-Franche-Comté
+PERRO,Nouvelle-Aquitaine
+PERSA,Île-de-France
+PERTA,Hauts-de-France
+PERTR,Bretagne
+PERTU,Provence-Alpes-Côte d'Azur
+PESSA,Nouvelle-Aquitaine
+PEU.N,Bourgogne-Franche-Comté
+PEU.S,Bourgogne-Franche-Comté
+PEUGE,Grand Est
+PEUP5,Hauts-de-France
+PEUPL,Hauts-de-France
+PEYME,Provence-Alpes-Côte d'Azur
+PEYR7,Nouvelle-Aquitaine
+PEYRO,Occitanie
+PEYRU,Auvergne-Rhône-Alpes
+PEZEN,Occitanie
+PFAFF,Grand Est
+PHALS,Grand Est
+PHELI,Centre-Val de Loire
+PIAT,Auvergne-Rhône-Alpes
+PICHE,Occitanie
+PICHO,Nouvelle-Aquitaine
+PICOC,Centre-Val de Loire
+PINED,Provence-Alpes-Côte d'Azur
+PINET,Occitanie
+PINIE,Nouvelle-Aquitaine
+PINON,Hauts-de-France
+PINT5,Nouvelle-Aquitaine
+PIOLE,Provence-Alpes-Côte d'Azur
+PIOVI,Nouvelle-Aquitaine
+PITHI,Centre-Val de Loire
+PIZAN,Auvergne-Rhône-Alpes
+PLAGN,Auvergne-Rhône-Alpes
+PLAI5,Île-de-France
+PLAIS,Île-de-France
+PLAN5,Nouvelle-Aquitaine
+PLAN6,Bretagne
+PLANC,Occitanie
+PLANT,Auvergne-Rhône-Alpes
+PLAUD,Nouvelle-Aquitaine
+PLELA,Bretagne
+PLEMY,Bretagne
+PLESS,Pays de la Loire
+PLEUM,Nouvelle-Aquitaine
+PLISO,Île-de-France
+PLOE5,Bretagne
+PLOER,Bretagne
+PLOMB,Bourgogne-Franche-Comté
+PLOMF,Unassigned
+PLOUA,Bretagne
+PLOUF,Bretagne
+PLOUG,Unassigned
+PLOUI,Hauts-de-France
+PLOUR,Bretagne
+PLOUV,Bretagne
+PLUMA,Pays de la Loire
+PLUSQ,Bretagne
+PLUZU,Bretagne
+PN93,Unassigned
+PODEN,Nouvelle-Aquitaine
+POIRI,Centre-Val de Loire
+POISA,Centre-Val de Loire
+POISE,Bourgogne-Franche-Comté
+POISS,Île-de-France
+POISY,Auvergne-Rhône-Alpes
+POITI,Nouvelle-Aquitaine
+POL45,Centre-Val de Loire
+POLIS,Grand Est
+POLLI,Auvergne-Rhône-Alpes
+POLY5,Auvergne-Rhône-Alpes
+POLYM,Normandie
+POM.C,Auvergne-Rhône-Alpes
+POMAC,Grand Est
+POMBL,Auvergne-Rhône-Alpes
+POMER,Nouvelle-Aquitaine
+POMPA,Île-de-France
+PONS,Nouvelle-Aquitaine
+PONTE,Unassigned
+PORC5,Île-de-France
+PORCH,Île-de-France
+PORNI,Pays de la Loire
+PORT6,Centre-Val de Loire
+PORT7,Bretagne
+PORTA,Occitanie
+PORTE,Auvergne-Rhône-Alpes
+PORTI,Occitanie
+POTEA,Grand Est
+POUAN,Pays de la Loire
+POUGE,Occitanie
+POUGN,Auvergne-Rhône-Alpes
+POULD,Bretagne
+POURP,Bourgogne-Franche-Comté
+POUXE,Grand Est
+POUZA,Pays de la Loire
+POUZI,Auvergne-Rhône-Alpes
+POYGN,Nouvelle-Aquitaine
+PRAD5,Occitanie
+PRAD6,Occitanie
+PRADI,Occitanie
+PRAG5,Occitanie
+PRALO,Auvergne-Rhône-Alpes
+PRAT,Bretagne
+PRAT5,Auvergne-Rhône-Alpes
+PRATC,Auvergne-Rhône-Alpes
+PRAUD,Pays de la Loire
+PRAUL,Auvergne-Rhône-Alpes
+PRAUT,Grand Est
+PREGU,Nouvelle-Aquitaine
+PRELE,Bourgogne-Franche-Comté
+PREMY,Hauts-de-France
+PRESS,Auvergne-Rhône-Alpes
+PREUI,Centre-Val de Loire
+PREUS,Grand Est
+PRIE5,Nouvelle-Aquitaine
+PRIEU,Grand Est
+PRIME,Île-de-France
+PRION,Provence-Alpes-Côte d'Azur
+PRIVA,Auvergne-Rhône-Alpes
+PROD5,Grand Est
+PRODA,Hauts-de-France
+PROV5,Unassigned
+PROV6,Hauts-de-France
+PROVE,Île-de-France
+PRRF5,Occitanie
+PRRFI,Occitanie
+PRRLA,Auvergne-Rhône-Alpes
+PRRTT,Hauts-de-France
+PRUNI,Auvergne-Rhône-Alpes
+PTAC,Nouvelle-Aquitaine
+PTARL,Bourgogne-Franche-Comté
+PTCH5,Auvergne-Rhône-Alpes
+PTCHA,Pays de la Loire
+PTET,Occitanie
+PTFAV,Grand Est
+PTIFF,Grand Est
+PTIVY,Bretagne
+PTMAI,Bretagne
+PUBLI,Unassigned
+PUGET,Provence-Alpes-Côte d'Azur
+PUISE,Île-de-France
+PULUT,Unassigned
+PURPA,Occitanie
+PUSY,Bourgogne-Franche-Comté
+PUTE5,Île-de-France
+PUTEA,Île-de-France
+PUTTE,Grand Est
+PUY,Auvergne-Rhône-Alpes
+PUYBE,Pays de la Loire
+PUYO5,Nouvelle-Aquitaine
+PUYPE,Nouvelle-Aquitaine
+PUYRE,Nouvelle-Aquitaine
+PYMON,Bourgogne-Franche-Comté
+PYRAM,Île-de-France
+PYRIM,Auvergne-Rhône-Alpes
+Q.ECL,Hauts-de-France
+Q.ISS,Île-de-France
+Q.SEI,Occitanie
+QUARE,Hauts-de-France
+QUARO,Hauts-de-France
+QUATR,Bourgogne-Franche-Comté
+QUEIG,Auvergne-Rhône-Alpes
+QUENT,Hauts-de-France
+QUES5,Hauts-de-France
+QUEST,Bretagne
+QUEUI,Auvergne-Rhône-Alpes
+QUEVI,Grand Est
+QUIBE,Unassigned
+QUIM5,Bretagne
+QUIMP,Bretagne
+QUINC,Auvergne-Rhône-Alpes
+QUING,Bourgogne-Franche-Comté
+QUINS,Provence-Alpes-Côte d'Azur
+QUINT,Pays de la Loire
+R.CH5,Grand Est
+R.COT,Île-de-France
+R.GI5,Auvergne-Rhône-Alpes
+R.GIE,Auvergne-Rhône-Alpes
+R.JAN,Centre-Val de Loire
+R.LAN,Nouvelle-Aquitaine
+R.LES,Normandie
+R.MOL,Grand Est
+R.NE5,Bourgogne-Franche-Comté
+R.NEN,Bourgogne-Franche-Comté
+R.ORA,Île-de-France
+R.TOR,Île-de-France
+R.YON,Pays de la Loire
+RABAT,Unassigned
+RABIN,Bretagne
+RABIO,Nouvelle-Aquitaine
+RADIC,Normandie
+RAGEA,Auvergne-Rhône-Alpes
+RAMB5,Auvergne-Rhône-Alpes
+RAMBE,Grand Est
+RAMBO,Île-de-France
+RAMIE,Occitanie
+RAN.P,Bretagne
+RANCE,Bretagne
+RANDE,Auvergne-Rhône-Alpes
+RANGU,Grand Est
+RANTI,Hauts-de-France
+RANVI,Normandie
+RAON,Grand Est
+RAPEE,Unassigned
+RASSU,Provence-Alpes-Côte d'Azur
+RATEA,Auvergne-Rhône-Alpes
+RATIE,Normandie
+RAVEL,Centre-Val de Loire
+RAYNA,Auvergne-Rhône-Alpes
+REALM,Occitanie
+REALS,Occitanie
+REALT,Provence-Alpes-Côte d'Azur
+REBEU,Grand Est
+REBO5,Centre-Val de Loire
+REBOU,Auvergne-Rhône-Alpes
+RECOU,Pays de la Loire
+RECRE,Pays de la Loire
+RECY,Grand Est
+REDET,Bretagne
+REFRA,Bourgogne-Franche-Comté
+REGHA,Île-de-France
+REICH,Grand Est
+REINA,Grand Est
+REINI,Normandie
+RELA5,Provence-Alpes-Côte d'Azur
+RELAI,Centre-Val de Loire
+RELE,Grand Est
+REMIL,Grand Est
+REMIR,Grand Est
+REMIS,Hauts-de-France
+RENA5,Bourgogne-Franche-Comté
+RENAI,Unassigned
+RENAR,Île-de-France
+RENAU,Pays de la Loire
+RENNE,Bretagne
+RENOU,Normandie
+REOLE,Nouvelle-Aquitaine
+REPAI,Nouvelle-Aquitaine
+REPAS,Provence-Alpes-Côte d'Azur
+REQUI,Occitanie
+RESOL,Nouvelle-Aquitaine
+RESSO,Hauts-de-France
+RETHE,Grand Est
+REVE5,Auvergne-Rhône-Alpes
+REVEL,Occitanie
+REVEN,Auvergne-Rhône-Alpes
+REVES,Île-de-France
+REVI5,Grand Est
+REVIG,Grand Est
+REVIN,Grand Est
+RHENA,Grand Est
+RHINA,Grand Est
+RHINH,Unassigned
+RHOVY,Grand Est
+RIAIL,Pays de la Loire
+RIBAU,Bourgogne-Franche-Comté
+RIBEA,Grand Est
+RIBEC,Hauts-de-France
+RIBEM,Hauts-de-France
+RICH5,Centre-Val de Loire
+RICHA,Île-de-France
+RICHE,Grand Est
+RICHI,Provence-Alpes-Côte d'Azur
+RIDEN,Unassigned
+RIETV,Hauts-de-France
+RIEZ,Hauts-de-France
+RIGNA,Occitanie
+RILLI,Auvergne-Rhône-Alpes
+RIOM,Auvergne-Rhône-Alpes
+RIORG,Auvergne-Rhône-Alpes
+RIOU,Centre-Val de Loire
+RISCL,Occitanie
+RISLE,Normandie
+RISSO,Provence-Alpes-Côte d'Azur
+RIVAG,Centre-Val de Loire
+RIVAR,Nouvelle-Aquitaine
+RIVE5,Auvergne-Rhône-Alpes
+RIVEN,Occitanie
+RIVI5,Auvergne-Rhône-Alpes
+RIVI6,Occitanie
+RIVIE,Auvergne-Rhône-Alpes
+RIXHE,Grand Est
+ROANN,Auvergne-Rhône-Alpes
+ROBE5,Grand Est
+ROBI5,Île-de-France
+ROCAD,Provence-Alpes-Côte d'Azur
+ROCH4,Nouvelle-Aquitaine
+ROCH5,Auvergne-Rhône-Alpes
+ROCH6,Auvergne-Rhône-Alpes
+ROCH7,Nouvelle-Aquitaine
+ROCH8,Nouvelle-Aquitaine
+ROCHE,Unassigned
+RODE,Provence-Alpes-Côte d'Azur
+RODEZ,Occitanie
+ROESC,Grand Est
+ROGE5,Normandie
+ROGNA,Provence-Alpes-Côte d'Azur
+ROHRW,Grand Est
+ROISE,Hauts-de-France
+ROJA,Nouvelle-Aquitaine
+ROLAM,Grand Est
+ROM,Nouvelle-Aquitaine
+ROMA6,Bretagne
+ROMAI,Île-de-France
+ROMAN,Auvergne-Rhône-Alpes
+ROMB5,Grand Est
+ROMEL,Bourgogne-Franche-Comté
+ROMEN,Auvergne-Rhône-Alpes
+ROMIL,Grand Est
+ROMOR,Centre-Val de Loire
+RONCH,Bourgogne-Franche-Comté
+RONCI,Bourgogne-Franche-Comté
+ROPHE,Bretagne
+ROQUE,Provence-Alpes-Côte d'Azur
+ROSEN,Grand Est
+ROSER,Pays de la Loire
+ROSIE,Grand Est
+ROSNA,Centre-Val de Loire
+ROSPE,Bretagne
+ROSS5,Île-de-France
+ROSSI,Auvergne-Rhône-Alpes
+ROSTR,Bretagne
+ROU.N,Hauts-de-France
+ROUGE,Normandie
+ROUGI,Occitanie
+ROUI5,Nouvelle-Aquitaine
+ROUMA,Nouvelle-Aquitaine
+ROUMO,Provence-Alpes-Côte d'Azur
+ROURE,Occitanie
+ROUS5,Provence-Alpes-Côte d'Azur
+ROUS6,Centre-Val de Loire
+ROUS7,Grand Est
+ROUSS,Bourgogne-Franche-Comté
+ROUVE,Nouvelle-Aquitaine
+ROUYE,Nouvelle-Aquitaine
+ROUZE,Occitanie
+ROYAN,Nouvelle-Aquitaine
+ROYE,Hauts-de-France
+ROZEB,Unassigned
+RQBIL,Provence-Alpes-Côte d'Azur
+RQFOR,Nouvelle-Aquitaine
+RQRED,Occitanie
+RQROU,Provence-Alpes-Côte d'Azur
+RUBLO,Bourgogne-Franche-Comté
+RUE,Hauts-de-France
+RUEIL,Île-de-France
+RUEYR,Occitanie
+RUFFE,Occitanie
+RUHBO,Grand Est
+RUIRE,Auvergne-Rhône-Alpes
+RULHA,Auvergne-Rhône-Alpes
+RUMEN,Bretagne
+RUMIL,Auvergne-Rhône-Alpes
+RUMIN,Hauts-de-France
+RUNGI,Île-de-France
+RUPER,Île-de-France
+RUPRE,Hauts-de-France
+RUSS5,Unassigned
+RUSSY,Hauts-de-France
+RUYTI,Unassigned
+S.BAR,Provence-Alpes-Côte d'Azur
+S.BES,Auvergne-Rhône-Alpes
+S.BESP3_site,Unassigned
+S.BIS,Auvergne-Rhône-Alpes
+S.BLA,Provence-Alpes-Côte d'Azur
+S.BOE,Pays de la Loire
+S.BRE,Auvergne-Rhône-Alpes
+S.CHE,Centre-Val de Loire
+S.COM,Auvergne-Rhône-Alpes
+S.CUR,Occitanie
+S.DAM,Hauts-de-France
+S.DEN,Occitanie
+S.FOU,Provence-Alpes-Côte d'Azur
+S.GIR,Provence-Alpes-Côte d'Azur
+S.GUI,Pays de la Loire
+S.GUY,Nouvelle-Aquitaine
+S.LOI,Centre-Val de Loire
+S.MO5,Grand Est
+S.MOR,Bourgogne-Franche-Comté
+S.MOU,Nouvelle-Aquitaine
+S.PON,Provence-Alpes-Côte d'Azur
+S.SAB,Occitanie
+S.SAU,Grand Est
+S.SED,Grand Est
+S.SOL,Grand Est
+S.TAR,Occitanie
+S.UNI,Grand Est
+S.VES,Occitanie
+SABAR,Occitanie
+SABL5,Auvergne-Rhône-Alpes
+SABLE,Pays de la Loire
+SABLO,Auvergne-Rhône-Alpes
+SABRA,Occitanie
+SACL5,Île-de-France
+SADIR,Nouvelle-Aquitaine
+SAFE,Grand Est
+SAGN5,Provence-Alpes-Côte d'Azur
+SAILL,Nouvelle-Aquitaine
+SAIN5,Grand Est
+SAINN,Normandie
+SAINT,Nouvelle-Aquitaine
+SAISI,Auvergne-Rhône-Alpes
+SAISS,Bourgogne-Franche-Comté
+SAIZE,Grand Est
+SAKAN,Occitanie
+SALAI,Auvergne-Rhône-Alpes
+SALAN,Occitanie
+SALBR,Centre-Val de Loire
+SALEL,Auvergne-Rhône-Alpes
+SALER,Provence-Alpes-Côte d'Azur
+SALET,Auvergne-Rhône-Alpes
+SALIG,Provence-Alpes-Côte d'Azur
+SALIN,Occitanie
+SALLA,Auvergne-Rhône-Alpes
+SALLE,Auvergne-Rhône-Alpes
+SALMO,Grand Est
+SALON,Provence-Alpes-Côte d'Azur
+SALSI,Occitanie
+SALZU,Auvergne-Rhône-Alpes
+SAMER,Hauts-de-France
+SAMOI,Île-de-France
+SAMOR,Île-de-France
+SANCE,Centre-Val de Loire
+SANDO,Normandie
+SANDR,Hauts-de-France
+SANEM,Unassigned
+SANGO,Occitanie
+SANIL,Nouvelle-Aquitaine
+SANSS,Auvergne-Rhône-Alpes
+SAONE,Bourgogne-Franche-Comté
+SAONN,Normandie
+SARAN,Centre-Val de Loire
+SARDO,Auvergne-Rhône-Alpes
+SARLA,Nouvelle-Aquitaine
+SARR5,Auvergne-Rhône-Alpes
+SARR6,Grand Est
+SARR7,Grand Est
+SARR9,Grand Est
+SARRA,Occitanie
+SARRE,Grand Est
+SARRY,Bourgogne-Franche-Comté
+SARSA,Occitanie
+SARZE,Bretagne
+SASSE,Auvergne-Rhône-Alpes
+SAUCA,Nouvelle-Aquitaine
+SAUCE,Auvergne-Rhône-Alpes
+SAUCL,Occitanie
+SAUCO,Hauts-de-France
+SAUDR,Grand Est
+SAUGE,Île-de-France
+SAUIL,Bourgogne-Franche-Comté
+SAUJO,Nouvelle-Aquitaine
+SAUL5,Grand Est
+SAULA,Auvergne-Rhône-Alpes
+SAULC,Auvergne-Rhône-Alpes
+SAULE,Île-de-France
+SAULI,Bourgogne-Franche-Comté
+SAUM6,Provence-Alpes-Côte d'Azur
+SAUMA,Occitanie
+SAUMU,Pays de la Loire
+SAUS2,Auvergne-Rhône-Alpes
+SAUS5,Île-de-France
+SAUS6,Centre-Val de Loire
+SAUTE,Auvergne-Rhône-Alpes
+SAUTEP3_site,Unassigned
+SAUTI,Hauts-de-France
+SAUV5,Bretagne
+SAUV6,Occitanie
+SAUV7,Occitanie
+SAUVA,Centre-Val de Loire
+SAUVE,Nouvelle-Aquitaine
+SAVE5,Occitanie
+SAVEN,Pays de la Loire
+SAVER,Grand Est
+SAVIG,Auvergne-Rhône-Alpes
+SCAER,Bretagne
+SCARP,Hauts-de-France
+SCHEE,Grand Est
+SCHIR,Grand Est
+SECAR,Nouvelle-Aquitaine
+SEES,Normandie
+SEGON,Occitanie
+SEGRE,Pays de la Loire
+SEGUI,Île-de-France
+SEIGN,Bourgogne-Franche-Comté
+SEIGY,Centre-Val de Loire
+SEINE,Île-de-France
+SEIX,Occitanie
+SELES,Grand Est
+SELF1,Unassigned
+SELF1P3_site,Unassigned
+SELF2,Unassigned
+SELF2P3_site,Unassigned
+SELF3,Unassigned
+SELFF,Unassigned
+SELFM,Unassigned
+SELO5,Provence-Alpes-Côte d'Azur
+SELON,Bourgogne-Franche-Comté
+SELTZ,Grand Est
+SEMBL,Centre-Val de Loire
+SEMEZ,Occitanie
+SEMIN,Auvergne-Rhône-Alpes
+SENAR,Île-de-France
+SENLI,Hauts-de-France
+SENNE,Bourgogne-Franche-Comté
+SENON,Centre-Val de Loire
+SENOZ,Bourgogne-Franche-Comté
+SENS,Bourgogne-Franche-Comté
+SEPTE,Provence-Alpes-Côte d'Azur
+SEQUE,Hauts-de-France
+SEREI,Bourgogne-Franche-Comté
+SERIF,Unassigned
+SERMA,Centre-Val de Loire
+SERQU,Normandie
+SERRI,Auvergne-Rhône-Alpes
+SERV5,Auvergne-Rhône-Alpes
+SERV6,Bretagne
+SERVA,Auvergne-Rhône-Alpes
+SETE,Occitanie
+SETE5,Occitanie
+SETIE,Hauts-de-France
+SEUIL,Grand Est
+SEVE5,Bretagne
+SEVEN,Bourgogne-Franche-Comté
+SEVER,Occitanie
+SEVIG,Bretagne
+SEVRE,Île-de-France
+SEYNE,Provence-Alpes-Côte d'Azur
+SEYS5,Occitanie
+SEYSS,Auvergne-Rhône-Alpes
+SEZAN,Grand Est
+SIAGN,Provence-Alpes-Côte d'Azur
+SIBEL,Auvergne-Rhône-Alpes
+SIERE,Grand Est
+SIGNE,Provence-Alpes-Côte d'Azur
+SINAR,Auvergne-Rhône-Alpes
+SINCE,Hauts-de-France
+SIONI,Nouvelle-Aquitaine
+SIRMI,Pays de la Loire
+SISTE,Provence-Alpes-Côte d'Azur
+SOING,Centre-Val de Loire
+SOISS,Hauts-de-France
+SOLEI,Auvergne-Rhône-Alpes
+SOLER,Occitanie
+SOLES,Hauts-de-France
+SOLLI,Provence-Alpes-Côte d'Azur
+SOLOM,Occitanie
+SOMBU,Grand Est
+SOMMI,Occitanie
+SONNE,Île-de-France
+SOQUE,Normandie
+SORGU,Provence-Alpes-Côte d'Azur
+SORIG,Centre-Val de Loire
+SORIN,Pays de la Loire
+SORNA,Auvergne-Rhône-Alpes
+SORRU,Hauts-de-France
+SOSPE,Provence-Alpes-Côte d'Azur
+SOTEL,Unassigned
+SOUIL,Nouvelle-Aquitaine
+SOUL6,Unassigned
+SOULA,Unassigned
+SOULC,Occitanie
+SOULL,Pays de la Loire
+SOULO,Occitanie
+SOUR5,Centre-Val de Loire
+SOURD,Pays de la Loire
+SOUST,Nouvelle-Aquitaine
+SOUTE,Nouvelle-Aquitaine
+SOYAU,Nouvelle-Aquitaine
+SPAY,Pays de la Loire
+SPORE,Grand Est
+SQUIV,Bretagne
+SSAG5,Bretagne
+SSAGA,Grand Est
+SSAL5,Auvergne-Rhône-Alpes
+SSAL6,Auvergne-Rhône-Alpes
+SSAL7,Auvergne-Rhône-Alpes
+SSALA,Occitanie
+SSALB,Occitanie
+SSAM5,Hauts-de-France
+SSAM6,Bourgogne-Franche-Comté
+SSAM7,Auvergne-Rhône-Alpes
+SSAMA,Centre-Val de Loire
+SSAMO,Auvergne-Rhône-Alpes
+SSAN5,Occitanie
+SSANG,Nouvelle-Aquitaine
+SSANJ,Pays de la Loire
+SSAOU,Centre-Val de Loire
+SSAP5,Occitanie
+SSAPC,Occitanie
+SSAPO,Bourgogne-Franche-Comté
+SSARD,Auvergne-Rhône-Alpes
+SSAU5,Île-de-France
+SSAUB,Provence-Alpes-Côte d'Azur
+SSAV7,Bretagne
+SSAVE,Centre-Val de Loire
+SSAVI,Auvergne-Rhône-Alpes
+SSAVO,Grand Est
+SSAVR,Auvergne-Rhône-Alpes
+SSBA5,Pays de la Loire
+SSBAI,Normandie
+SSBAR,Bourgogne-Franche-Comté
+SSBE5,Auvergne-Rhône-Alpes
+SSBEN,Nouvelle-Aquitaine
+SSBER,Auvergne-Rhône-Alpes
+SSBLA,Grand Est
+SSBO5,Auvergne-Rhône-Alpes
+SSBON,Auvergne-Rhône-Alpes
+SSBOU,Pays de la Loire
+SSBR5,Grand Est
+SSBR6,Bretagne
+SSBRI,Bretagne
+SSCAL,Pays de la Loire
+SSCAN,Auvergne-Rhône-Alpes
+SSCAS,Provence-Alpes-Côte d'Azur
+SSCAT,Occitanie
+SSCER,Occitanie
+SSCES,Occitanie
+SSCH5,Auvergne-Rhône-Alpes
+SSCH6,Grand Est
+SSCHA,Provence-Alpes-Côte d'Azur
+SSCHR,Occitanie
+SSCL5,Bourgogne-Franche-Comté
+SSCLA,Auvergne-Rhône-Alpes
+SSCO5,Occitanie
+SSCO6,Bretagne
+SSCO7,Centre-Val de Loire
+SSCOG,Auvergne-Rhône-Alpes
+SSCOM,Auvergne-Rhône-Alpes
+SSCON,Normandie
+SSCOR,Auvergne-Rhône-Alpes
+SSCOU,Bretagne
+SSCRA,Provence-Alpes-Côte d'Azur
+SSCRI,Nouvelle-Aquitaine
+SSCRO,Provence-Alpes-Côte d'Azur
+SSCTD,Unassigned
+SSCUB,Nouvelle-Aquitaine
+SSCYP,Occitanie
+SSCYR,Provence-Alpes-Côte d'Azur
+SSDAL,Provence-Alpes-Côte d'Azur
+SSDAX,Nouvelle-Aquitaine
+SSDEV,Unassigned
+SSDID,Auvergne-Rhône-Alpes
+SSDIE,Grand Est
+SSDIZ,Grand Est
+SSDOU,Centre-Val de Loire
+SSE.C,Auvergne-Rhône-Alpes
+SSEA2,Centre-Val de Loire
+SSEGR,Auvergne-Rhône-Alpes
+SSELB,Normandie
+SSELO,Bourgogne-Franche-Comté
+SSEST,Provence-Alpes-Côte d'Azur
+SSEUL,Nouvelle-Aquitaine
+SSEUR,Normandie
+SSEVR,Île-de-France
+SSFAU,Auvergne-Rhône-Alpes
+SSFEN,Occitanie
+SSFER,Bourgogne-Franche-Comté
+SSFEY,Nouvelle-Aquitaine
+SSFIA,Bretagne
+SSFL6,Bourgogne-Franche-Comté
+SSFL7,Auvergne-Rhône-Alpes
+SSFL8,Auvergne-Rhône-Alpes
+SSFLO,Nouvelle-Aquitaine
+SSFOL,Normandie
+SSFOY,Nouvelle-Aquitaine
+SSGCO,Nouvelle-Aquitaine
+SSGE5,Auvergne-Rhône-Alpes
+SSGE6,Pays de la Loire
+SSGE7,Auvergne-Rhône-Alpes
+SSGEN,Nouvelle-Aquitaine
+SSGEO,Occitanie
+SSGIL,Pays de la Loire
+SSGRA,Bretagne
+SSGUI,Auvergne-Rhône-Alpes
+SSHE8,Pays de la Loire
+SSHEN,Occitanie
+SSHER,Bretagne
+SSHIL,Auvergne-Rhône-Alpes
+SSHON,Bourgogne-Franche-Comté
+SSHUB,Grand Est
+SSILL,Nouvelle-Aquitaine
+SSISL,Nouvelle-Aquitaine
+SSJA5,Auvergne-Rhône-Alpes
+SSJAM,Pays de la Loire
+SSJEA,Hauts-de-France
+SSJM5,Auvergne-Rhône-Alpes
+SSJOR,Occitanie
+SSJOS,Pays de la Loire
+SSJOU,Nouvelle-Aquitaine
+SSJU5,Occitanie
+SSJUL,Grand Est
+SSJUN,Nouvelle-Aquitaine
+SSJUS,Auvergne-Rhône-Alpes
+SSLAC,Auvergne-Rhône-Alpes
+SSLAR,Occitanie
+SSLAU,Bretagne
+SSLEO,Bretagne
+SSLIV,Nouvelle-Aquitaine
+SSLON,Occitanie
+SSLUZ,Unassigned
+SSMA7,Provence-Alpes-Côte d'Azur
+SSMA8,Provence-Alpes-Côte d'Azur
+SSMAC,Nouvelle-Aquitaine
+SSMAI,Nouvelle-Aquitaine
+SSMAL,Unassigned
+SSMAM,Île-de-France
+SSMAX,Hauts-de-France
+SSMAY,Nouvelle-Aquitaine
+SSMC,Nouvelle-Aquitaine
+SSMC5,Auvergne-Rhône-Alpes
+SSMCE,Centre-Val de Loire
+SSMED,Nouvelle-Aquitaine
+SSMEN,Grand Est
+SSMEU,Grand Est
+SSMI5,Auvergne-Rhône-Alpes
+SSMIH,Grand Est
+SSMIN,Grand Est
+SSMM5,Auvergne-Rhône-Alpes
+SSMO5,Pays de la Loire
+SSMO6,Bourgogne-Franche-Comté
+SSMON,Unassigned
+SSMR,Île-de-France
+SSMR5,Auvergne-Rhône-Alpes
+SSMRE,Centre-Val de Loire
+SSMRI,Provence-Alpes-Côte d'Azur
+SSNA6,Occitanie
+SSNAB,Grand Est
+SSNAZ,Pays de la Loire
+SSNI6,Bretagne
+SSNOB,Nouvelle-Aquitaine
+SSOME,Hauts-de-France
+SSORE,Occitanie
+SSOU5,Île-de-France
+SSPAR,Nouvelle-Aquitaine
+SSPAZ,Pays de la Loire
+SSPEY,Nouvelle-Aquitaine
+SSPIE,Bretagne
+SSPL5,Nouvelle-Aquitaine
+SSPLA,Grand Est
+SSPMA,Nouvelle-Aquitaine
+SSPOU,Auvergne-Rhône-Alpes
+SSPRI,Auvergne-Rhône-Alpes
+SSPRO,Provence-Alpes-Côte d'Azur
+SSPUY,Centre-Val de Loire
+SSQUE,Auvergne-Rhône-Alpes
+SSRAP,Provence-Alpes-Côte d'Azur
+SSREN,Bretagne
+SSRET,Pays de la Loire
+SSRIE,Pays de la Loire
+SSRIV,Provence-Alpes-Côte d'Azur
+SSRLA,Unassigned
+SSRO5,Auvergne-Rhône-Alpes
+SSROC,Hauts-de-France
+SSROU,Normandie
+SSROY,Auvergne-Rhône-Alpes
+SSSA5,Auvergne-Rhône-Alpes
+SSSA7,Occitanie
+SSSAU,Auvergne-Rhône-Alpes
+SSSAV,Nouvelle-Aquitaine
+SSSE5,Bretagne
+SSSEP,Unassigned
+SSSER,Occitanie
+SSSET,Nouvelle-Aquitaine
+SSSEV,Nouvelle-Aquitaine
+SSSIG,Auvergne-Rhône-Alpes
+SSSIX,Auvergne-Rhône-Alpes
+SSSU5,Bretagne
+SSSUL,Occitanie
+SSTER,Bourgogne-Franche-Comté
+SSTIN,Provence-Alpes-Côte d'Azur
+SSTOU,Occitanie
+SSTRO,Provence-Alpes-Côte d'Azur
+SSTUL,Provence-Alpes-Côte d'Azur
+SSTYR,Nouvelle-Aquitaine
+SSUST,Nouvelle-Aquitaine
+SSUSU,Bourgogne-Franche-Comté
+SSV.E,Auvergne-Rhône-Alpes
+SSV.O,Auvergne-Rhône-Alpes
+SSVA6,Centre-Val de Loire
+SSVAL,Auvergne-Rhône-Alpes
+SSVAU,Grand Est
+SSVER,Occitanie
+SSVES,Provence-Alpes-Côte d'Azur
+SSVI5,Nouvelle-Aquitaine
+SSVI6,Nouvelle-Aquitaine
+SSVI7,Auvergne-Rhône-Alpes
+SSVIC,Occitanie
+SSVIE,Occitanie
+SSVIL,Île-de-France
+SSVIN,Occitanie
+SSVIT,Bourgogne-Franche-Comté
+SSVIV,Nouvelle-Aquitaine
+SSYMO,Normandie
+SSYOR,Auvergne-Rhône-Alpes
+SSYRI,Nouvelle-Aquitaine
+STEA5,Normandie
+STEAM,Grand Est
+STENA,Grand Est
+STOUR,Occitanie
+STRAH,Unassigned
+STRAS,Grand Est
+SUIPP,Grand Est
+SUIS5,Grand Est
+SUISS,Île-de-France
+SUIVE,Provence-Alpes-Côte d'Azur
+SULAU,Provence-Alpes-Côte d'Azur
+SUZE,Pays de la Loire
+SYLVA,Unassigned
+SYNTH,Grand Est
+T.BAR,Grand Est
+T.CH5,Normandie
+T.CHA,Nouvelle-Aquitaine
+T.DOM,Grand Est
+T.FRO,Auvergne-Rhône-Alpes
+T.GAT,Centre-Val de Loire
+T.IND,Grand Est
+T.LAS,Provence-Alpes-Côte d'Azur
+T.NO6,Centre-Val de Loire
+T.NOI,Hauts-de-France
+T.PIN,Auvergne-Rhône-Alpes
+T.SAV,Auvergne-Rhône-Alpes
+T.SUP,Provence-Alpes-Côte d'Azur
+T.VER,Grand Est
+T.VIC,Provence-Alpes-Côte d'Azur
+TABAR,Centre-Val de Loire
+TABLE,Occitanie
+TACHE,Auvergne-Rhône-Alpes
+TACON,Grand Est
+TADEN,Bretagne
+TAILL,Île-de-France
+TAIN,Auvergne-Rhône-Alpes
+TALAM,Nouvelle-Aquitaine
+TALEN,Nouvelle-Aquitaine
+TALIZ,Auvergne-Rhône-Alpes
+TALUS,Bretagne
+TAMAR,Occitanie
+TANIN,Auvergne-Rhône-Alpes
+TANNE,Pays de la Loire
+TANNI,Nouvelle-Aquitaine
+TARAR,Auvergne-Rhône-Alpes
+TARAS,Occitanie
+TARB5,Occitanie
+TARBE,Occitanie
+TARN5,Unassigned
+TARNO,Occitanie
+TARTA,Nouvelle-Aquitaine
+TARTE,Île-de-France
+TARTI,Nouvelle-Aquitaine
+TASSE,Auvergne-Rhône-Alpes
+TAULH,Auvergne-Rhône-Alpes
+TAUPE,Auvergne-Rhône-Alpes
+TAUTA,Occitanie
+TAUTE,Normandie
+TAVAU,Bourgogne-Franche-Comté
+TAVEL,Occitanie
+TDMU2,Unassigned
+TDMUR,Unassigned
+TDNIO,Unassigned
+TECH5,Île-de-France
+TECHN,Grand Est
+TEICH,Occitanie
+TEIL,Auvergne-Rhône-Alpes
+TEIL2,Nouvelle-Aquitaine
+TEIL5,Auvergne-Rhône-Alpes
+TEMP5,Île-de-France
+TEMP6,Auvergne-Rhône-Alpes
+TEMPL,Nouvelle-Aquitaine
+TENAY,Auvergne-Rhône-Alpes
+TENDR,Grand Est
+TERGN,Hauts-de-France
+TERNE,Île-de-France
+TERNO,Hauts-de-France
+TERR5,Occitanie
+TERR6,Normandie
+TERRA,Provence-Alpes-Côte d'Azur
+TERRE,Auvergne-Rhône-Alpes
+TERRI,Hauts-de-France
+TERTR,Centre-Val de Loire
+TESTE,Unassigned
+THAIM,Nouvelle-Aquitaine
+THANN,Grand Est
+THEIL,Normandie
+THEIX,Bretagne
+THEOD,Grand Est
+THERA,Hauts-de-France
+THEVA,Pays de la Loire
+THEZI,Occitanie
+THIBA,Pays de la Loire
+THIE5,Auvergne-Rhône-Alpes
+THIER,Hauts-de-France
+THILL,Grand Est
+THIME,Centre-Val de Loire
+THIO5,Centre-Val de Loire
+THIO6,Grand Est
+THIOT,Normandie
+THIOU,Auvergne-Rhône-Alpes
+THIVI,Nouvelle-Aquitaine
+THONE,Auvergne-Rhône-Alpes
+THONO,Unassigned
+THOR,Provence-Alpes-Côte d'Azur
+THORI,Pays de la Loire
+THOU,Nouvelle-Aquitaine
+THOUA,Nouvelle-Aquitaine
+THOUR,Hauts-de-France
+THUES,Occitanie
+THUR,Grand Est
+THURI,Occitanie
+TIGNI,Auvergne-Rhône-Alpes
+TILL5,Normandie
+TILLE,Bourgogne-Franche-Comté
+TILLI,Île-de-France
+TINTE,Bretagne
+TIVER,Centre-Val de Loire
+TIZEE,Bretagne
+TMB,Auvergne-Rhône-Alpes
+TOLBI,Île-de-France
+TOLLE,Normandie
+TOLME,Normandie
+TONN5,Nouvelle-Aquitaine
+TONNE,Bourgogne-Franche-Comté
+TORCY,Grand Est
+TOU.C,Occitanie
+TOULO,Occitanie
+TOULU,Occitanie
+TOUQU,Unassigned
+TOUR5,Île-de-France
+TOUR6,Occitanie
+TOUR7,Occitanie
+TOUR9,Centre-Val de Loire
+TOURB,Normandie
+TOURE,Auvergne-Rhône-Alpes
+TOURL,Normandie
+TOURN,Auvergne-Rhône-Alpes
+TOURR,Provence-Alpes-Côte d'Azur
+TOURS,Centre-Val de Loire
+TOURY,Centre-Val de Loire
+TOUSS,Île-de-France
+TOUVR,Nouvelle-Aquitaine
+TRAIS,Hauts-de-France
+TRAME,Occitanie
+TRAN5,Hauts-de-France
+TRANS,Provence-Alpes-Côte d'Azur
+TRAVA,Provence-Alpes-Côte d'Azur
+TRAVE,Nouvelle-Aquitaine
+TREBA,Occitanie
+TREFF,Auvergne-Rhône-Alpes
+TREGU,Bretagne
+TRELA,Pays de la Loire
+TREPO,Unassigned
+TRES5,Bretagne
+TRESC,Provence-Alpes-Côte d'Azur
+TREVA,Auvergne-Rhône-Alpes
+TREVI,Nouvelle-Aquitaine
+TRI.P,Auvergne-Rhône-Alpes
+TRICA,Auvergne-Rhône-Alpes
+TRIEY,Bourgogne-Franche-Comté
+TRIGN,Pays de la Loire
+TRING,Unassigned
+TRINI,Auvergne-Rhône-Alpes
+TRINQ,Provence-Alpes-Côte d'Azur
+TRIT5,Hauts-de-France
+TRITH,Hauts-de-France
+TRO.E,Grand Est
+TROUI,Occitanie
+TRUCH,Grand Est
+TRUEL,Occitanie
+TUCOY,Occitanie
+TUCQU,Grand Est
+TUILI,Nouvelle-Aquitaine
+TULLE,Nouvelle-Aquitaine
+TUNNE,Hauts-de-France
+TUQUE,Nouvelle-Aquitaine
+TURGO,Île-de-France
+U.MON,Hauts-de-France
+UGINE,Auvergne-Rhône-Alpes
+UNET,Nouvelle-Aquitaine
+UNIEU,Auvergne-Rhône-Alpes
+UNION,Occitanie
+URCUR,Nouvelle-Aquitaine
+USIN6,Unassigned
+USSAT,Occitanie
+USSEL,Nouvelle-Aquitaine
+USSON,Occitanie
+USTUL,Unassigned
+UZEL,Bretagne
+UZES,Occitanie
+V.AGE,Occitanie
+V.ALL,Auvergne-Rhône-Alpes
+V.AUB,Grand Est
+V.AVR,Normandie
+V.BAC,Île-de-France
+V.BAR,Grand Est
+V.BEL,Île-de-France
+V.BEN,Nouvelle-Aquitaine
+V.BIG,Occitanie
+V.BLA,Nouvelle-Aquitaine
+V.BOU,Centre-Val de Loire
+V.BRE,Centre-Val de Loire
+V.CO5,Occitanie
+V.CON,Hauts-de-France
+V.COR,Occitanie
+V.COT,Hauts-de-France
+V.ETI,Grand Est
+V.FEZ,Occitanie
+V.GEO,Île-de-France
+V.GRA,Nouvelle-Aquitaine
+V.ISE,Auvergne-Rhône-Alpes
+V.JUH,Pays de la Loire
+V.LAN,Auvergne-Rhône-Alpes
+V.LOT,Nouvelle-Aquitaine
+V.MAN,Bourgogne-Franche-Comté
+V.MAR,Hauts-de-France
+V.MO5,Grand Est
+V.MON,Centre-Val de Loire
+V.MOU,Auvergne-Rhône-Alpes
+V.MOY,Grand Est
+V.PAU,Hauts-de-France
+V.POR,Unassigned
+V.PRE,Grand Est
+V.REU,Normandie
+V.ROM,Grand Est
+V.ROU,Occitanie
+V.SEP,Hauts-de-France
+V.SEV,Pays de la Loire
+V.THO,Auvergne-Rhône-Alpes
+V.VOI,Unassigned
+V.YON,Bourgogne-Franche-Comté
+VAILL,Centre-Val de Loire
+VAIR6,Unassigned
+VAIRE,Île-de-France
+VAISE,Auvergne-Rhône-Alpes
+VAISO,Provence-Alpes-Côte d'Azur
+VAL,Provence-Alpes-Côte d'Azur
+VALAB,Provence-Alpes-Côte d'Azur
+VALAU,Auvergne-Rhône-Alpes
+VALBO,Provence-Alpes-Côte d'Azur
+VALCA,Normandie
+VALDA,Bourgogne-Franche-Comté
+VALDI,Nouvelle-Aquitaine
+VALDU,Bourgogne-Franche-Comté
+VALE6,Bourgogne-Franche-Comté
+VALE7,Occitanie
+VALE8,Auvergne-Rhône-Alpes
+VALE9,Centre-Val de Loire
+VALEN,Hauts-de-France
+VALES,Hauts-de-France
+VALGR,Occitanie
+VALI5,Provence-Alpes-Côte d'Azur
+VALIN,Unassigned
+VALL5,Centre-Val de Loire
+VALL6,Pays de la Loire
+VALL7,Centre-Val de Loire
+VALL9,Nouvelle-Aquitaine
+VALLE,Normandie
+VALLI,Auvergne-Rhône-Alpes
+VALLO,Unassigned
+VALMY,Île-de-France
+VALS,Auvergne-Rhône-Alpes
+VALTI,Normandie
+VANDI,Grand Est
+VANEL,Auvergne-Rhône-Alpes
+VANNE,Bretagne
+VANVE,Île-de-France
+VARAN,Grand Est
+VARE5,Centre-Val de Loire
+VAREN,Bourgogne-Franche-Comté
+VARET,Unassigned
+VAROI,Bourgogne-Franche-Comté
+VARS,Provence-Alpes-Côte d'Azur
+VASTO,Normandie
+VAUB6,Provence-Alpes-Côte d'Azur
+VAUBA,Hauts-de-France
+VAUDR,Normandie
+VAUFR,Bourgogne-Franche-Comté
+VAUG5,Auvergne-Rhône-Alpes
+VAUGO,Nouvelle-Aquitaine
+VAUGR,Auvergne-Rhône-Alpes
+VAUJA,Auvergne-Rhône-Alpes
+VAUPA,Normandie
+VAUVE,Occitanie
+VAUVI,Hauts-de-France
+VAUX,Nouvelle-Aquitaine
+VAYNE,Unassigned
+VAYRE,Nouvelle-Aquitaine
+VEAUC,Auvergne-Rhône-Alpes
+VECQU,Hauts-de-France
+VEDEN,Provence-Alpes-Côte d'Azur
+VELAR,Bourgogne-Franche-Comté
+VEN.P,Auvergne-Rhône-Alpes
+VENAR,Bourgogne-Franche-Comté
+VENCE,Provence-Alpes-Côte d'Azur
+VENDA,Occitanie
+VENDE,Auvergne-Rhône-Alpes
+VENDI,Hauts-de-France
+VENDO,Centre-Val de Loire
+VENES,Centre-Val de Loire
+VENIS,Auvergne-Rhône-Alpes
+VENIZ,Hauts-de-France
+VENTA,Provence-Alpes-Côte d'Azur
+VENTH,Auvergne-Rhône-Alpes
+VERCH,Auvergne-Rhône-Alpes
+VERD5,Unassigned
+VERDI,Centre-Val de Loire
+VERDU,Grand Est
+VERFE,Occitanie
+VERGE,Centre-Val de Loire
+VERIN,Île-de-France
+VERLH,Occitanie
+VERN,Bretagne
+VERN7,Auvergne-Rhône-Alpes
+VERN8,Auvergne-Rhône-Alpes
+VERN9,Auvergne-Rhône-Alpes
+VERNA,Auvergne-Rhône-Alpes
+VERPI,Auvergne-Rhône-Alpes
+VERQU,Hauts-de-France
+VERR5,Provence-Alpes-Côte d'Azur
+VERRE,Bourgogne-Franche-Comté
+VERRI,Île-de-France
+VERSA,Île-de-France
+VERSI,Auvergne-Rhône-Alpes
+VERTE,Hauts-de-France
+VERTO,Pays de la Loire
+VERTU,Grand Est
+VESAI,Grand Est
+VESLE,Grand Est
+VESOU,Bourgogne-Franche-Comté
+VESTR,Occitanie
+VEXIN,Île-de-France
+VEYNE,Provence-Alpes-Côte d'Azur
+VEYTI,Nouvelle-Aquitaine
+VEZIL,Hauts-de-France
+VIAS,Occitanie
+VIAUD,Grand Est
+VIBRA,Pays de la Loire
+VICHY,Auvergne-Rhône-Alpes
+VICLA,Auvergne-Rhône-Alpes
+VICOG,Hauts-de-France
+VIDAU,Provence-Alpes-Côte d'Azur
+VIELM,Bourgogne-Franche-Comté
+VIERZ,Centre-Val de Loire
+VIEVR,Normandie
+VIGNE,Bourgogne-Franche-Comté
+VIGNY,Île-de-France
+VIGUI,Occitanie
+VIGY,Grand Est
+VIMOU,Normandie
+VINAY,Auvergne-Rhône-Alpes
+VINC5,Île-de-France
+VINCE,Grand Est
+VINEU,Centre-Val de Loire
+VINGE,Bourgogne-Franche-Comté
+VINON,Provence-Alpes-Côte d'Azur
+VINS,Provence-Alpes-Côte d'Azur
+VINTR,Occitanie
+VIOLE,Occitanie
+VION,Pays de la Loire
+VIRAD,Occitanie
+VIRE,Normandie
+VIREU,Unassigned
+VIRIA,Auvergne-Rhône-Alpes
+VIT.N,Île-de-France
+VITR5,Île-de-France
+VITRE,Bretagne
+VITRO,Unassigned
+VITTE,Grand Est
+VIVI5,Auvergne-Rhône-Alpes
+VIZIL,Auvergne-Rhône-Alpes
+VLAR5,Île-de-France
+VLARD,Auvergne-Rhône-Alpes
+VLARO,Auvergne-Rhône-Alpes
+VLARS,Bourgogne-Franche-Comté
+VLECH,Bourgogne-Franche-Comté
+VLEDI,Normandie
+VLEF5,Auvergne-Rhône-Alpes
+VLEFR,Auvergne-Rhône-Alpes
+VLEGA,Nouvelle-Aquitaine
+VLEGU,Grand Est
+VLEJU,Île-de-France
+VLEMA,Centre-Val de Loire
+VLEME,Centre-Val de Loire
+VLEMU,Occitanie
+VLENO,Île-de-France
+VLERA,Île-de-France
+VLERB,Centre-Val de Loire
+VLERE,Auvergne-Rhône-Alpes
+VLERS,Île-de-France
+VLETT,Grand Est
+VLEVA,Île-de-France
+VNERE,Auvergne-Rhône-Alpes
+VNES,Centre-Val de Loire
+VNOL,Bourgogne-Franche-Comté
+VNOTA,Auvergne-Rhône-Alpes
+VOGEH,Unassigned
+VOGEL,Grand Est
+VOID,Grand Est
+VOING,Auvergne-Rhône-Alpes
+VOIRO,Auvergne-Rhône-Alpes
+VOLVI,Auvergne-Rhône-Alpes
+VOLVO,Auvergne-Rhône-Alpes
+VONNA,Auvergne-Rhône-Alpes
+VOREP,Auvergne-Rhône-Alpes
+VOSNE,Bourgogne-Franche-Comté
+VOUGL,Bourgogne-Franche-Comté
+VOUGY,Auvergne-Rhône-Alpes
+VOUJE,Bourgogne-Franche-Comté
+VOULT,Auvergne-Rhône-Alpes
+VOULZ,Île-de-France
+VOUZI,Grand Est
+VOUZO,Centre-Val de Loire
+VOVES,Centre-Val de Loire
+VUARC,Unassigned
+WADON,Grand Est
+WAGE,Hauts-de-France
+WALDI,Grand Est
+WANTZ,Grand Est
+WARAN,Hauts-de-France
+WARHE,Hauts-de-France
+WASSE,Grand Est
+WATTI,Hauts-de-France
+WATTR,Hauts-de-France
+WEPPE,Hauts-de-France
+WESTH,Hauts-de-France
+WOEST,Hauts-de-France
+WOIPP,Grand Est
+XEUIL,Grand Est
+Y.EVE,Pays de la Loire
+YAINV,Normandie
+YDES,Auvergne-Rhône-Alpes
+YENNE,Auvergne-Rhône-Alpes
+YQUEL,Unassigned
+YSSIN,Auvergne-Rhône-Alpes
+YVE.O,Île-de-France
+YVETO,Normandie
+YZEUR,Auvergne-Rhône-Alpes
+ZA.LI,Auvergne-Rhône-Alpes
+ZAGE,Nouvelle-Aquitaine
+ZAIG5,Auvergne-Rhône-Alpes
+ZAIG6,Auvergne-Rhône-Alpes
+ZALL5,Centre-Val de Loire
+ZALLA,Pays de la Loire
+ZALRA,Occitanie
+ZAMEC,Normandie
+ZAMIG,Pays de la Loire
+ZAMPE,Auvergne-Rhône-Alpes
+ZANCE,Auvergne-Rhône-Alpes
+ZANDR,Auvergne-Rhône-Alpes
+ZARBI,Auvergne-Rhône-Alpes
+ZARGO,Hauts-de-France
+ZARLO,Occitanie
+ZARNO,Nouvelle-Aquitaine
+ZARQ5,Hauts-de-France
+ZARQU,Hauts-de-France
+ZARR5,Nouvelle-Aquitaine
+ZARRO,Bourgogne-Franche-Comté
+ZARTE,Centre-Val de Loire
+ZARVA,Unassigned
+ZASTI,Pays de la Loire
+ZAUB7,Grand Est
+ZAUBE,Provence-Alpes-Côte d'Azur
+ZAUBR,Nouvelle-Aquitaine
+ZAUCU,Occitanie
+ZAUMA,Normandie
+ZAURI,Nouvelle-Aquitaine
+ZAVEI,Occitanie
+ZAVR5,Île-de-France
+ZAVRO,Île-de-France
+ZB.CO,Auvergne-Rhône-Alpes
+ZB.HA,Grand Est
+ZB.L5,Nouvelle-Aquitaine
+ZB.LA,Auvergne-Rhône-Alpes
+ZB.M5,Auvergne-Rhône-Alpes
+ZB.MA,Auvergne-Rhône-Alpes
+ZB.ME,Hauts-de-France
+ZB.PL,Hauts-de-France
+ZB.VA,Auvergne-Rhône-Alpes
+ZB20,Auvergne-Rhône-Alpes
+ZBACC,Normandie
+ZBAIG,Nouvelle-Aquitaine
+ZBAR5,Occitanie
+ZBAR7,Bretagne
+ZBARP,Nouvelle-Aquitaine
+ZBART,Occitanie
+ZBAS7,Provence-Alpes-Côte d'Azur
+ZBASI,Grand Est
+ZBASS,Nouvelle-Aquitaine
+ZBAST,Pays de la Loire
+ZBATO,Auvergne-Rhône-Alpes
+ZBEFF,Centre-Val de Loire
+ZBEN5,Auvergne-Rhône-Alpes
+ZBENA,Pays de la Loire
+ZBENY,Auvergne-Rhône-Alpes
+ZBER5,Nouvelle-Aquitaine
+ZBER7,Île-de-France
+ZBERC,Hauts-de-France
+ZBERG,Nouvelle-Aquitaine
+ZBET5,Auvergne-Rhône-Alpes
+ZBETH,Hauts-de-France
+ZBETJ,Nouvelle-Aquitaine
+ZBETT,Auvergne-Rhône-Alpes
+ZBEU5,Hauts-de-France
+ZBEY5,Occitanie
+ZBEYR,Occitanie
+ZBEZ5,Occitanie
+ZBEZI,Occitanie
+ZBEZZ,Occitanie
+ZBIA7,Occitanie
+ZBIGN,Centre-Val de Loire
+ZBILL,Auvergne-Rhône-Alpes
+ZBILO,Pays de la Loire
+ZBLA6,Nouvelle-Aquitaine
+ZBLAU,Provence-Alpes-Côte d'Azur
+ZBLO1,Centre-Val de Loire
+ZBLO2,Centre-Val de Loire
+ZBONI,Nouvelle-Aquitaine
+ZBOR5,Occitanie
+ZBOR7,Occitanie
+ZBORD,Occitanie
+ZBOU6,Occitanie
+ZBOUC,Nouvelle-Aquitaine
+ZBOUS,Occitanie
+ZBRA5,Occitanie
+ZBRAC,Auvergne-Rhône-Alpes
+ZBRAM,Occitanie
+ZBRAN,Pays de la Loire
+ZBRE5,Île-de-France
+ZBRE6,Bourgogne-Franche-Comté
+ZBREA,Bretagne
+ZBREC,Centre-Val de Loire
+ZBREV,Île-de-France
+ZBRI5,Île-de-France
+ZBRI6,Bretagne
+ZBRIA,Unassigned
+ZBRIC,Île-de-France
+ZBRIV,Pays de la Loire
+ZBROS,Bretagne
+ZBROU,Auvergne-Rhône-Alpes
+ZBRUG,Nouvelle-Aquitaine
+ZBRUL,Centre-Val de Loire
+ZBRUO,Pays de la Loire
+ZBUTT,Pays de la Loire
+ZBXC5,Pays de la Loire
+ZBXLI,Nouvelle-Aquitaine
+ZBXRE,Nouvelle-Aquitaine
+ZBXV6,Hauts-de-France
+ZBXZE,Grand Est
+ZBZPA,Centre-Val de Loire
+ZBZRA,Pays de la Loire
+ZC.BA,Auvergne-Rhône-Alpes
+ZC.BR,Bourgogne-Franche-Comté
+ZC.CA,Nouvelle-Aquitaine
+ZC.CH,Provence-Alpes-Côte d'Azur
+ZC.FO,Bourgogne-Franche-Comté
+ZC.H5,Nouvelle-Aquitaine
+ZC.HI,Unassigned
+ZC.L5,Bourgogne-Franche-Comté
+ZC.L6,Bourgogne-Franche-Comté
+ZC.LA,Nouvelle-Aquitaine
+ZC.LE,Normandie
+ZC.NO,Normandie
+ZC.OM,Hauts-de-France
+ZC.R5,Centre-Val de Loire
+ZC.SE,Bourgogne-Franche-Comté
+ZCA10,Provence-Alpes-Côte d'Azur
+ZCADO,Bretagne
+ZCAI5,Unassigned
+ZCAI6,Occitanie
+ZCAIR,Provence-Alpes-Côte d'Azur
+ZCAM8,Nouvelle-Aquitaine
+ZCAMB,Occitanie
+ZCAMP,Normandie
+ZCAP5,Occitanie
+ZCAPE,Occitanie
+ZCAR5,Occitanie
+ZCAR6,Île-de-France
+ZCAR8,Grand Est
+ZCARL,Occitanie
+ZCARR,Île-de-France
+ZCASC,Bretagne
+ZCASS,Occitanie
+ZCAT5,Nouvelle-Aquitaine
+ZCATO,Nouvelle-Aquitaine
+ZCAU5,Occitanie
+ZCAU6,Normandie
+ZCAUS,Occitanie
+ZCAVA,Provence-Alpes-Côte d'Azur
+ZCAZ5,Nouvelle-Aquitaine
+ZCBAU,Auvergne-Rhône-Alpes
+ZCER6,Nouvelle-Aquitaine
+ZCER7,Nouvelle-Aquitaine
+ZCH10,Nouvelle-Aquitaine
+ZCHA5,Centre-Val de Loire
+ZCHA6,Auvergne-Rhône-Alpes
+ZCHA9,Nouvelle-Aquitaine
+ZCHAG,Centre-Val de Loire
+ZCHAM,Auvergne-Rhône-Alpes
+ZCHAT,Nouvelle-Aquitaine
+ZCHED,Auvergne-Rhône-Alpes
+ZCHEV,Auvergne-Rhône-Alpes
+ZCHIC,Centre-Val de Loire
+ZCHOL,Grand Est
+ZCHOU,Hauts-de-France
+ZCNR6,Hauts-de-France
+ZCNR7,Hauts-de-France
+ZCO10,Normandie
+ZCOCH,Auvergne-Rhône-Alpes
+ZCOIG,Île-de-France
+ZCOL,Auvergne-Rhône-Alpes
+ZCOL.,Grand Est
+ZCOLO,Occitanie
+ZCOM5,Auvergne-Rhône-Alpes
+ZCOMM,Grand Est
+ZCOMT,Provence-Alpes-Côte d'Azur
+ZCON5,Centre-Val de Loire
+ZCOND,Occitanie
+ZCOQ5,Île-de-France
+ZCOQU,Île-de-France
+ZCOR6,Pays de la Loire
+ZCORO,Bretagne
+ZCOSQ,Bretagne
+ZCOU5,Nouvelle-Aquitaine
+ZCOU8,Hauts-de-France
+ZCOU9,Hauts-de-France
+ZCOUE,Auvergne-Rhône-Alpes
+ZCOUG,Nouvelle-Aquitaine
+ZCOUT,Nouvelle-Aquitaine
+ZCPB5,Auvergne-Rhône-Alpes
+ZCPBL,Auvergne-Rhône-Alpes
+ZCPFL,Occitanie
+ZCPNY,Auvergne-Rhône-Alpes
+ZCRAP,Auvergne-Rhône-Alpes
+ZCRE7,Normandie
+ZCREM,Provence-Alpes-Côte d'Azur
+ZCREP,Auvergne-Rhône-Alpes
+ZCREV,Île-de-France
+ZCRIM,Bourgogne-Franche-Comté
+ZCRO7,Normandie
+ZCROI,Centre-Val de Loire
+ZCRUS,Auvergne-Rhône-Alpes
+ZCSL5,Occitanie
+ZCSL7,Occitanie
+ZCSLN,Occitanie
+ZCSLS,Occitanie
+ZCUBR,Grand Est
+ZCUPE,Grand Est
+ZCUR5,Bourgogne-Franche-Comté
+ZCXC5,Île-de-France
+ZCZE5,Provence-Alpes-Côte d'Azur
+ZCZE6,Occitanie
+ZCZEG,Occitanie
+ZCZRI,Hauts-de-France
+ZD.IN,Auvergne-Rhône-Alpes
+ZDALI,Nouvelle-Aquitaine
+ZDAVI,Île-de-France
+ZDEGA,Occitanie
+ZDIEP,Normandie
+ZDOM5,Grand Est
+ZDOME,Auvergne-Rhône-Alpes
+ZDONZ,Nouvelle-Aquitaine
+ZDOUD,Bourgogne-Franche-Comté
+ZDOUL,Pays de la Loire
+ZDUN,Centre-Val de Loire
+ZDURO,Auvergne-Rhône-Alpes
+ZDURR,Auvergne-Rhône-Alpes
+ZDUV5,Unassigned
+ZE.BL,Bretagne
+ZE.C5,Grand Est
+ZE.CH,Unassigned
+ZE.CI,Grand Est
+ZE.CO,Occitanie
+ZE.CR,Bourgogne-Franche-Comté
+ZECRA,Normandie
+ZEDGA,Normandie
+ZEGLA,Île-de-France
+ZEMAL,Normandie
+ZENCH,Nouvelle-Aquitaine
+ZEPE5,Grand Est
+ZEPIZ,Grand Est
+ZESPA,Nouvelle-Aquitaine
+ZESPI,Centre-Val de Loire
+ZESQ5,Nouvelle-Aquitaine
+ZESQU,Occitanie
+ZESS5,Pays de la Loire
+ZESSA,Hauts-de-France
+ZEST6,Occitanie
+ZESTA,Provence-Alpes-Côte d'Azur
+ZESTI,Nouvelle-Aquitaine
+ZETAN,Unassigned
+ZETRE,Normandie
+ZEYRA,Nouvelle-Aquitaine
+ZEYRE,Nouvelle-Aquitaine
+ZF.MO,Nouvelle-Aquitaine
+ZF.SS,Grand Est
+ZF.SU,Centre-Val de Loire
+ZFACT,Nouvelle-Aquitaine
+ZFAN5,Île-de-France
+ZFANA,Île-de-France
+ZFARG,Nouvelle-Aquitaine
+ZFAUG,Occitanie
+ZFAYE,Auvergne-Rhône-Alpes
+ZFAYM,Pays de la Loire
+ZFEIS,Auvergne-Rhône-Alpes
+ZFERE,Hauts-de-France
+ZFIE5,Auvergne-Rhône-Alpes
+ZFLI5,Île-de-France
+ZFLO5,Unassigned
+ZFONC,Nouvelle-Aquitaine
+ZFONT,Bourgogne-Franche-Comté
+ZFORG,Nouvelle-Aquitaine
+ZFOS,Occitanie
+ZFOU5,Pays de la Loire
+ZFOUI,Hauts-de-France
+ZFRE6,Occitanie
+ZFRO6,Île-de-France
+ZFRO7,Île-de-France
+ZFRO8,Île-de-France
+ZFROM,Unassigned
+ZFTA5,Auvergne-Rhône-Alpes
+ZFTAI,Hauts-de-France
+ZG.BA,Provence-Alpes-Côte d'Azur
+ZG.HA,Grand Est
+ZG.LU,Pays de la Loire
+ZG.M5,Occitanie
+ZG.MO,Pays de la Loire
+ZG.P5,Île-de-France
+ZGAIL,Normandie
+ZGAL5,Île-de-France
+ZGALE,Île-de-France
+ZGAN5,Grand Est
+ZGANN,Hauts-de-France
+ZGARA,Pays de la Loire
+ZGARG,Île-de-France
+ZGARR,Occitanie
+ZGAYE,Bretagne
+ZGEN5,Pays de la Loire
+ZGENE,Bourgogne-Franche-Comté
+ZGERB,Auvergne-Rhône-Alpes
+ZGERM,Bourgogne-Franche-Comté
+ZGERR,Normandie
+ZGESV,Pays de la Loire
+ZGIEN,Centre-Val de Loire
+ZGIFF,Auvergne-Rhône-Alpes
+ZGIR5,Nouvelle-Aquitaine
+ZGIR6,Bourgogne-Franche-Comté
+ZGIRO,Nouvelle-Aquitaine
+ZGLAC,Centre-Val de Loire
+ZGLAN,Unassigned
+ZGOBS,Centre-Val de Loire
+ZGOIS,Nouvelle-Aquitaine
+ZGOLB,Grand Est
+ZGONE,Île-de-France
+ZGOR5,Nouvelle-Aquitaine
+ZGOR6,Nouvelle-Aquitaine
+ZGORG,Auvergne-Rhône-Alpes
+ZGORR,Pays de la Loire
+ZGRA5,Auvergne-Rhône-Alpes
+ZGRA6,Nouvelle-Aquitaine
+ZGRAI,Centre-Val de Loire
+ZGRAN,Auvergne-Rhône-Alpes
+ZGRAV,Centre-Val de Loire
+ZGREN,Auvergne-Rhône-Alpes
+ZGRIP,Occitanie
+ZGUE5,Provence-Alpes-Côte d'Azur
+ZGUIG,Grand Est
+ZGYSS,Bourgogne-Franche-Comté
+ZH.J5,Grand Est
+ZH.TO,Grand Est
+ZHARC,Normandie
+ZHARG,Île-de-France
+ZHAST,Nouvelle-Aquitaine
+ZHAUT,Auvergne-Rhône-Alpes
+ZHEL5,Hauts-de-France
+ZHEMI,Grand Est
+ZHEND,Unassigned
+ZHENR,Centre-Val de Loire
+ZHER6,Auvergne-Rhône-Alpes
+ZHER7,Île-de-France
+ZHER9,Pays de la Loire
+ZHERB,Île-de-France
+ZHERE,Hauts-de-France
+ZHERI,Grand Est
+ZHESD,Hauts-de-France
+ZHESI,Grand Est
+ZHIRS,Grand Est
+ZILON,Auvergne-Rhône-Alpes
+ZIRAN,Nouvelle-Aquitaine
+ZISSO,Île-de-France
+ZJ.TO,Centre-Val de Loire
+ZJARG,Centre-Val de Loire
+ZJARN,Unassigned
+ZJARR,Pays de la Loire
+ZJAUM,Nouvelle-Aquitaine
+ZJON5,Île-de-France
+ZJONC,Île-de-France
+ZJOUX,Auvergne-Rhône-Alpes
+ZJUST,Centre-Val de Loire
+ZKERA,Bretagne
+ZKERH,Bretagne
+ZKERL,Pays de la Loire
+ZKERS,Bretagne
+ZL.NO,Grand Est
+ZLA10,Nouvelle-Aquitaine
+ZLAB5,Occitanie
+ZLAB6,Nouvelle-Aquitaine
+ZLABA,Occitanie
+ZLAC5,Nouvelle-Aquitaine
+ZLACA,Occitanie
+ZLACQ,Nouvelle-Aquitaine
+ZLACS,Centre-Val de Loire
+ZLAF5,Nouvelle-Aquitaine
+ZLAFI,Occitanie
+ZLAGU,Occitanie
+ZLALI,Nouvelle-Aquitaine
+ZLAMO,Nouvelle-Aquitaine
+ZLAN8,Île-de-France
+ZLAN9,Grand Est
+ZLANA,Auvergne-Rhône-Alpes
+ZLANC,Auvergne-Rhône-Alpes
+ZLANM,Bretagne
+ZLARD,Occitanie
+ZLEDE,Occitanie
+ZLENT,Auvergne-Rhône-Alpes
+ZLESS,Normandie
+ZLESU,Île-de-France
+ZLIC6,Nouvelle-Aquitaine
+ZLIE5,Île-de-France
+ZLIEB,Bourgogne-Franche-Comté
+ZLIES,Île-de-France
+ZLIM5,Auvergne-Rhône-Alpes
+ZLIM6,Auvergne-Rhône-Alpes
+ZLIMA,Île-de-France
+ZLIN5,Grand Est
+ZLIN7,Île-de-France
+ZLINA,Île-de-France
+ZLISS,Centre-Val de Loire
+ZLOCM,Unassigned
+ZLOCQ,Bretagne
+ZLON5,Unassigned
+ZLON6,Unassigned
+ZLONG,Hauts-de-France
+ZLORR,Centre-Val de Loire
+ZLOUD,Auvergne-Rhône-Alpes
+ZLOUE,Pays de la Loire
+ZLOUR,Occitanie
+ZLUD5,Grand Est
+ZLUDR,Grand Est
+ZLUSS,Nouvelle-Aquitaine
+ZM.AC,Pays de la Loire
+ZM.F5,Nouvelle-Aquitaine
+ZM.FE,Nouvelle-Aquitaine
+ZM.LA,Nouvelle-Aquitaine
+ZM.MI,Occitanie
+ZM.NI,Hauts-de-France
+ZMA11,Unassigned
+ZMAC.,Bourgogne-Franche-Comté
+ZMAD6,Grand Est
+ZMAGD,Nouvelle-Aquitaine
+ZMAGN,Bourgogne-Franche-Comté
+ZMAGR,Nouvelle-Aquitaine
+ZMAIN,Centre-Val de Loire
+ZMAL5,Normandie
+ZMAL6,Normandie
+ZMALL,Provence-Alpes-Côte d'Azur
+ZMALM,Normandie
+ZMAME,Pays de la Loire
+ZMANG,Auvergne-Rhône-Alpes
+ZMANS,Nouvelle-Aquitaine
+ZMAR1,Hauts-de-France
+ZMAR6,Île-de-France
+ZMAR7,Hauts-de-France
+ZMAR8,Auvergne-Rhône-Alpes
+ZMARG,Île-de-France
+ZMARL,Grand Est
+ZMAS5,Île-de-France
+ZMATE,Auvergne-Rhône-Alpes
+ZMATR,Occitanie
+ZMAUP,Grand Est
+ZMED5,Nouvelle-Aquitaine
+ZMEDO,Nouvelle-Aquitaine
+ZMEES,Provence-Alpes-Côte d'Azur
+ZMEL5,Île-de-France
+ZMELU,Île-de-France
+ZMENT,Provence-Alpes-Côte d'Azur
+ZMENU,Auvergne-Rhône-Alpes
+ZMER5,Occitanie
+ZMER6,Occitanie
+ZMER7,Auvergne-Rhône-Alpes
+ZMERC,Occitanie
+ZMERE,Occitanie
+ZMERO,Pays de la Loire
+ZMERY,Île-de-France
+ZMES5,Auvergne-Rhône-Alpes
+ZMESN,Bourgogne-Franche-Comté
+ZMET6,Grand Est
+ZMETH,Provence-Alpes-Côte d'Azur
+ZMEY5,Auvergne-Rhône-Alpes
+ZMEYM,Occitanie
+ZMEZO,Grand Est
+ZMIG5,Bourgogne-Franche-Comté
+ZMIGE,Bourgogne-Franche-Comté
+ZMIGN,Nouvelle-Aquitaine
+ZMIOL,Occitanie
+ZMIZO,Auvergne-Rhône-Alpes
+ZMOH5,Hauts-de-France
+ZMOHE,Hauts-de-France
+ZMOIS,Auvergne-Rhône-Alpes
+ZMON7,Nouvelle-Aquitaine
+ZMONL,Occitanie
+ZMOR5,Nouvelle-Aquitaine
+ZMORC,Nouvelle-Aquitaine
+ZMORG,Grand Est
+ZMOU7,Auvergne-Rhône-Alpes
+ZMOUX,Bourgogne-Franche-Comté
+ZMRIG,Occitanie
+ZMRN5,Nouvelle-Aquitaine
+ZMRN6,Provence-Alpes-Côte d'Azur
+ZMRNE,Nouvelle-Aquitaine
+ZMTAL,Île-de-France
+ZMTAU,Provence-Alpes-Côte d'Azur
+ZMTFE,Auvergne-Rhône-Alpes
+ZMTJ5,Île-de-France
+ZMTJA,Île-de-France
+ZMTME,Auvergne-Rhône-Alpes
+ZMTMI,Hauts-de-France
+ZMTR6,Occitanie
+ZN.GR,Normandie
+ZNAR5,Occitanie
+ZNARB,Occitanie
+ZNAUS,Occitanie
+ZNAY,Nouvelle-Aquitaine
+ZNAY5,Nouvelle-Aquitaine
+ZNEGR,Unassigned
+ZNEU5,Unassigned
+ZNEUF,Normandie
+ZNEUL,Auvergne-Rhône-Alpes
+ZNEUV,Centre-Val de Loire
+ZNOUA,Occitanie
+ZNOVI,Bourgogne-Franche-Comté
+ZOBER,Unassigned
+ZOLLA,Île-de-France
+ZORGE,Occitanie
+ZORS6,Île-de-France
+ZORVA,Pays de la Loire
+ZOSTR,Hauts-de-France
+ZOZ,Auvergne-Rhône-Alpes
+ZP.AN,Auvergne-Rhône-Alpes
+ZP.B6,Auvergne-Rhône-Alpes
+ZP.B8,Bourgogne-Franche-Comté
+ZP.BE,Auvergne-Rhône-Alpes
+ZP.BR,Centre-Val de Loire
+ZP.CL,Auvergne-Rhône-Alpes
+ZP.DE,Occitanie
+ZP.F5,Provence-Alpes-Côte d'Azur
+ZP.G5,Auvergne-Rhône-Alpes
+ZP.HE,Auvergne-Rhône-Alpes
+ZP.IL,Auvergne-Rhône-Alpes
+ZP.MI,Nouvelle-Aquitaine
+ZP.SA,Bourgogne-Franche-Comté
+ZP.SE,Auvergne-Rhône-Alpes
+ZP.TR,Occitanie
+ZP.V5,Grand Est
+ZP.V6,Centre-Val de Loire
+ZP.VE,Auvergne-Rhône-Alpes
+ZP.VI,Auvergne-Rhône-Alpes
+ZPANN,Bourgogne-Franche-Comté
+ZPARI,Bourgogne-Franche-Comté
+ZPARR,Nouvelle-Aquitaine
+ZPASS,Provence-Alpes-Côte d'Azur
+ZPAST,Occitanie
+ZPAU,Nouvelle-Aquitaine
+ZPAU5,Nouvelle-Aquitaine
+ZPELA,Provence-Alpes-Côte d'Azur
+ZPELT,Grand Est
+ZPEN5,Provence-Alpes-Côte d'Azur
+ZPENA,Bretagne
+ZPENN,Provence-Alpes-Côte d'Azur
+ZPER5,Occitanie
+ZPERP,Occitanie
+ZPEU5,Grand Est
+ZPEUG,Grand Est
+ZPEY5,Auvergne-Rhône-Alpes
+ZPICH,Nouvelle-Aquitaine
+ZPICT,Bretagne
+ZPIN,Pays de la Loire
+ZPIN5,Provence-Alpes-Côte d'Azur
+ZPINE,Provence-Alpes-Côte d'Azur
+ZPIOU,Nouvelle-Aquitaine
+ZPISS,Occitanie
+ZPLEL,Bretagne
+ZPLO5,Bretagne
+ZPLOU,Hauts-de-France
+ZPLUZ,Bretagne
+ZPOIS,Bourgogne-Franche-Comté
+ZPOLL,Auvergne-Rhône-Alpes
+ZPOM5,Auvergne-Rhône-Alpes
+ZPOUA,Pays de la Loire
+ZPOUL,Bretagne
+ZPOUZ,Auvergne-Rhône-Alpes
+ZPOYG,Nouvelle-Aquitaine
+ZPRA5,Auvergne-Rhône-Alpes
+ZPRA6,Bretagne
+ZPRAT,Auvergne-Rhône-Alpes
+ZPRIN,Pays de la Loire
+ZPROD,Hauts-de-France
+ZPROV,Île-de-France
+ZPRR5,Occitanie
+ZPRR6,Bretagne
+ZPRRF,Unassigned
+ZPTMA,Bretagne
+ZPUYC,Nouvelle-Aquitaine
+ZQ.EC,Hauts-de-France
+ZQUA5,Hauts-de-France
+ZQUAR,Hauts-de-France
+ZQUEN,Hauts-de-France
+ZQUI5,Pays de la Loire
+ZQUIN,Provence-Alpes-Côte d'Azur
+ZR.MA,Grand Est
+ZRAGE,Auvergne-Rhône-Alpes
+ZRAMB,Île-de-France
+ZRAN6,Auvergne-Rhône-Alpes
+ZREAL,Occitanie
+ZREBO,Auvergne-Rhône-Alpes
+ZRENE,Nouvelle-Aquitaine
+ZRENO,Normandie
+ZREVE,Auvergne-Rhône-Alpes
+ZRIC5,Centre-Val de Loire
+ZRIC6,Centre-Val de Loire
+ZRICH,Centre-Val de Loire
+ZRIVA,Nouvelle-Aquitaine
+ZROB5,Île-de-France
+ZROBI,Île-de-France
+ZROC7,Auvergne-Rhône-Alpes
+ZROJ5,Nouvelle-Aquitaine
+ZROJA,Nouvelle-Aquitaine
+ZROMB,Grand Est
+ZROU1,Pays de la Loire
+ZROU2,Pays de la Loire
+ZROUS,Unassigned
+ZROUV,Nouvelle-Aquitaine
+ZROUY,Nouvelle-Aquitaine
+ZRQBI,Provence-Alpes-Côte d'Azur
+ZRQRE,Occitanie
+ZRUMI,Hauts-de-France
+ZRUPR,Hauts-de-France
+ZS.CH,Centre-Val de Loire
+ZS.CO,Auvergne-Rhône-Alpes
+ZS.CU,Occitanie
+ZS.M5,Bourgogne-Franche-Comté
+ZS.MO,Grand Est
+ZS.SE,Grand Est
+ZSAB5,Hauts-de-France
+ZSABL,Auvergne-Rhône-Alpes
+ZSABR,Occitanie
+ZSAKA,Occitanie
+ZSAL6,Provence-Alpes-Côte d'Azur
+ZSALB,Centre-Val de Loire
+ZSALI,Occitanie
+ZSALL,Pays de la Loire
+ZSALZ,Auvergne-Rhône-Alpes
+ZSAR6,Grand Est
+ZSARR,Grand Est
+ZSAU6,Île-de-France
+ZSAU9,Grand Est
+ZSAUG,Île-de-France
+ZSAUM,Pays de la Loire
+ZSCAE,Bretagne
+ZSEMB,Centre-Val de Loire
+ZSEMO,Centre-Val de Loire
+ZSER5,Auvergne-Rhône-Alpes
+ZSERI,Centre-Val de Loire
+ZSERM,Pays de la Loire
+ZSERV,Bretagne
+ZSEV5,Bourgogne-Franche-Comté
+ZSEYS,Auvergne-Rhône-Alpes
+ZSOL6,Provence-Alpes-Côte d'Azur
+ZSOLE,Hauts-de-France
+ZSOMM,Occitanie
+ZSOSP,Provence-Alpes-Côte d'Azur
+ZSOU5,Unassigned
+ZSOU6,Occitanie
+ZSS11,Nouvelle-Aquitaine
+ZSSA5,Grand Est
+ZSSA6,Auvergne-Rhône-Alpes
+ZSSAG,Grand Est
+ZSSAL,Occitanie
+ZSSAP,Occitanie
+ZSSBO,Pays de la Loire
+ZSSC7,Occitanie
+ZSSCE,Nouvelle-Aquitaine
+ZSSCH,Unassigned
+ZSSCO,Auvergne-Rhône-Alpes
+ZSSCR,Provence-Alpes-Côte d'Azur
+ZSSCU,Nouvelle-Aquitaine
+ZSSCY,Occitanie
+ZSSDI,Auvergne-Rhône-Alpes
+ZSSE6,Nouvelle-Aquitaine
+ZSSEU,Normandie
+ZSSFA,Auvergne-Rhône-Alpes
+ZSSFE,Bourgogne-Franche-Comté
+ZSSG6,Nouvelle-Aquitaine
+ZSSG7,Auvergne-Rhône-Alpes
+ZSSJ5,Unassigned
+ZSSJ7,Auvergne-Rhône-Alpes
+ZSSJ8,Occitanie
+ZSSJU,Occitanie
+ZSSL5,Occitanie
+ZSSL6,Occitanie
+ZSSL7,Bretagne
+ZSSLA,Île-de-France
+ZSSMA,Nouvelle-Aquitaine
+ZSSMC,Centre-Val de Loire
+ZSSME,Grand Est
+ZSSN5,Pays de la Loire
+ZSSN6,Unassigned
+ZSSNA,Grand Est
+ZSSPE,Occitanie
+ZSSPL,Grand Est
+ZSSR5,Bretagne
+ZSSRI,Provence-Alpes-Côte d'Azur
+ZSSRO,Auvergne-Rhône-Alpes
+ZSSS5,Hauts-de-France
+ZSSSA,Auvergne-Rhône-Alpes
+ZSSTE,Bourgogne-Franche-Comté
+ZSSUR,Bretagne
+ZSSV6,Nouvelle-Aquitaine
+ZSSV7,Normandie
+ZSSVA,Grand Est
+ZSTE5,Grand Est
+ZSULA,Provence-Alpes-Côte d'Azur
+ZT.BA,Grand Est
+ZT.RO,Auvergne-Rhône-Alpes
+ZT.SS,Grand Est
+ZT.SU,Provence-Alpes-Côte d'Azur
+ZTALA,Nouvelle-Aquitaine
+ZTALI,Auvergne-Rhône-Alpes
+ZTANI,Auvergne-Rhône-Alpes
+ZTAY,Bretagne
+ZTECH,Île-de-France
+ZTEIL,Auvergne-Rhône-Alpes
+ZTEM5,Auvergne-Rhône-Alpes
+ZTEMP,Auvergne-Rhône-Alpes
+ZTER5,Auvergne-Rhône-Alpes
+ZTERR,Auvergne-Rhône-Alpes
+ZTERT,Centre-Val de Loire
+ZTHAI,Nouvelle-Aquitaine
+ZTHIB,Pays de la Loire
+ZTHIM,Centre-Val de Loire
+ZTHO5,Provence-Alpes-Côte d'Azur
+ZTHOR,Provence-Alpes-Côte d'Azur
+ZTHUR,Occitanie
+ZTONN,Bourgogne-Franche-Comté
+ZTOU7,Occitanie
+ZTOU9,Auvergne-Rhône-Alpes
+ZTOUA,Pays de la Loire
+ZTOUR,Auvergne-Rhône-Alpes
+ZTRAM,Occitanie
+ZTRAN,Hauts-de-France
+ZTREB,Occitanie
+ZTREF,Bretagne
+ZTREL,Pays de la Loire
+ZTREZ,Pays de la Loire
+ZTRIN,Auvergne-Rhône-Alpes
+ZTRIT,Hauts-de-France
+ZTROU,Centre-Val de Loire
+ZTRUE,Occitanie
+ZUSS5,Occitanie
+ZUSSA,Occitanie
+ZV.A5,Occitanie
+ZV.AG,Occitanie
+ZV.BE,Île-de-France
+ZV.CO,Occitanie
+ZV.LI,Normandie
+ZV.M5,Unassigned
+ZV.MO,Auvergne-Rhône-Alpes
+ZV.PA,Hauts-de-France
+ZV.SE,Grand Est
+ZVAIL,Centre-Val de Loire
+ZVAL1,Provence-Alpes-Côte d'Azur
+ZVANE,Auvergne-Rhône-Alpes
+ZVAYR,Nouvelle-Aquitaine
+ZVEA5,Auvergne-Rhône-Alpes
+ZVER5,Auvergne-Rhône-Alpes
+ZVER9,Unassigned
+ZVERV,Nouvelle-Aquitaine
+ZVEXI,Normandie
+ZVICL,Auvergne-Rhône-Alpes
+ZVIEV,Normandie
+ZVILA,Provence-Alpes-Côte d'Azur
+ZVIRI,Auvergne-Rhône-Alpes
+ZVLAR,Auvergne-Rhône-Alpes
+ZVLE6,Occitanie
+ZVLEN,Île-de-France
+ZVLET,Grand Est
+ZVONN,Auvergne-Rhône-Alpes
+ZVOUZ,Centre-Val de Loire
+ZWOES,Hauts-de-France
+ZY.EV,Pays de la Loire
+ZYVE5,Normandie
+ZYZEU,Auvergne-Rhône-Alpes
+NIORT,Nouvelle-Aquitaine
+F.FRE,Grand Est
+MUHLB,Grand Est
+MUR,Bretagne
+PRAGN,Occitanie
+S.AIR,Provence-Alpes-Côte d'Azur
+Z162N,Unassigned
+Z162S,Unassigned
+0GONN,Unassigned
+1PRIN,Unassigned
+2PRIN,Unassigned
+B.GUE,Unassigned
+BERSA,Hauts-de-France
+COTEL,Grand Est
+D.ROU,Normandie
+F.GAL,Grand Est
+G.POR,Hauts-de-France
+GRAMO,Occitanie
+JAZEN,Nouvelle-Aquitaine
+MONN5,Centre-Val de Loire
+MTVAR,Hauts-de-France
+NEGR5,Occitanie
+P.NO7,Grand Est
+PONAN,Bretagne
+PRINQ,Pays de la Loire
+RIGOT,Grand Est
+SSCEC,Provence-Alpes-Côte d'Azur
+SSPOL,Hauts-de-France
+SSSA6,Provence-Alpes-Côte d'Azur
+TAUPI,Grand Est
+ZCP.M,Hauts-de-France
+ZJAZE,Nouvelle-Aquitaine
+ZNEG5,Occitanie
+ZRIGO,Grand Est
+0U.MO,Unassigned
+BEL12,Nouvelle-Aquitaine
+D7BAC,Unassigned
+ZBARM,Centre-Val de Loire
+JUVIG,Unassigned
+ZALL7,Unassigned
+ZPATO,Unassigned
+GUISL,Normandie
+VALDE,Provence-Alpes-Côte d'Azur
+ZGUIS,Normandie
+ZPUYA,Nouvelle-Aquitaine
+ZVA10,Provence-Alpes-Côte d'Azur
+0ZMER,Unassigned
+PRAL5,Provence-Alpes-Côte d'Azur
+SALL7,Bourgogne-Franche-Comté
+TDRAN,Unassigned
+VENT5,Provence-Alpes-Côte d'Azur
+AILLA,Nouvelle-Aquitaine
+M.AME,Grand Est
+ZMOOS,Grand Est
+ZVNES,Centre-Val de Loire
+1SAIN,Unassigned
+2SAIN,Unassigned
+H.FAL,Unassigned
+0MOUL,Unassigned
+GESS2,Occitanie
+ZSAFE,Unassigned
+ZPY18,Unassigned
+B.PRI,Centre-Val de Loire
+BRIO6,Nouvelle-Aquitaine
+ZB.PR,Centre-Val de Loire
+0HARC,Unassigned
+ZPERQ,Unassigned
+ZP_C5,Unassigned
+GRIL1,Unassigned
+0SSYM,Unassigned
+L.NEU,Auvergne-Rhône-Alpes
+SELFG,Unassigned
+TDBRE,Unassigned
+B.SSB,Unassigned
+BELLO,Île-de-France
+G.CO6,Auvergne-Rhône-Alpes
+H.DEV,Auvergne-Rhône-Alpes
+ZB.FR,Unassigned
+ZPY20,Unassigned
+ZVEYT,Unassigned
+AYRES,Occitanie
+BASCA,Nouvelle-Aquitaine
+NIVEL,Nouvelle-Aquitaine
+SSXAN,Unassigned
+1CLAM,Île-de-France
+TDMU1,Unassigned
+ZBLOT,Pays de la Loire
+TUPIG,Hauts-de-France
+ZTUPI,Hauts-de-France
+I.SEI,Île-de-France
+ZIVR5,Île-de-France
+ZIVRY,Île-de-France
+RIVAL,Auvergne-Rhône-Alpes
+0COSS,Unassigned
+0CZTR,Unassigned
+B.PAI,Centre-Val de Loire
+PLUVI,Bretagne
+ZPYL4,Unassigned
+VLARG,Auvergne-Rhône-Alpes
+A.DOU,Occitanie
+PLACH,Hauts-de-France
+ZLARU,Nouvelle-Aquitaine
+ZRUNI,Bretagne
+NEPEL,Grand Est
+ZN.SU,Grand Est
+OLLI5,Provence-Alpes-Côte d'Azur
+BOUTD,Unassigned
+ZF.TO,Auvergne-Rhône-Alpes
+BARBA,Nouvelle-Aquitaine
+CHAB7,Île-de-France
+H.BOU,Hauts-de-France
+LOHAN,Bretagne
+ZH.B5,Hauts-de-France
+ZPYL7,Unassigned
+C.JAN,Unassigned
+E2B.G,Unassigned
+E2B.S,Unassigned
+PZARB,Unassigned
+MALBO,Provence-Alpes-Côte d'Azur
+ROCBA,Provence-Alpes-Côte d'Azur
+SAIL5,Unassigned
+ZROCB,Provence-Alpes-Côte d'Azur
+E3H.F,Unassigned
+MOULIP3_site,Unassigned
+ZSAB6,Occitanie
+ZP.CR,Occitanie
+0MORT,Unassigned
+CTAU5,Centre-Val de Loire
+ZBERN,Unassigned
+ZR.V5,Occitanie
+CHAPO,Grand Est
+FARAM,Unassigned
+ZARCO,Unassigned
+ULISS,Île-de-France
+ZGOUD,Occitanie
+ZLES8,Nouvelle-Aquitaine
+ZV.BR,Unassigned
+ZV.OR,Île-de-France
+LISSE,Île-de-France
+ZSMOI,Unassigned
+COLO9,Nouvelle-Aquitaine
+ZVEYN,Unassigned
+0CHEN,Unassigned
+0COUB,Unassigned
+0PLIS,Unassigned
+ZTRES,Unassigned
+ZS.SO,Occitanie
+0CZLI,Unassigned
+CZSEU,Unassigned
+E3CZS,Unassigned
+1CHEN,Unassigned
+C.ORB,Occitanie
+ZMORE,Occitanie
+ZSEIG,Occitanie
+1CNRS,Auvergne-Rhône-Alpes
+ZMTCL,Occitanie
+0LOIN,Unassigned
+ENTR5,Normandie
+ZPLAC,Hauts-de-France
