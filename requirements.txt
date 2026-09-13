@@ -1,5 +1,5 @@
 pypowsybl==1.14.0
 pathlib==1.0.1
 pandas==2.3.1
-pyarrow==15.0.0
+pyarrow
 huggingface_hub
