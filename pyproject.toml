@@ -8,8 +8,8 @@ dependencies = [
     "entsoe-py>=0.8.1",
     "huggingface-hub>=1.31.0",
     "ipykernel>=7.3.0",
-    "pandas==2.3.1",
-    "pathlib==1.0.1",
+    "pandas>=2.3.1",
+    "pathlib>=1.0.1",
     "pyarrow>=25.0.1",
-    "pypowsybl==1.14.0",
+    "pypowsybl==1.16.1",
 ]

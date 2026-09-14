@@ -1,4 +1,4 @@
-pypowsybl==1.14.0
+pypowsybl==1.16.1
 pathlib==1.0.1
 pandas==2.3.1
 pyarrow
